@@ -14,7 +14,7 @@ The objective was to transform raw operational data into structured insights thr
 - **SQL** for backend aggregation and segmentation analysis  
 - **Power BI** for interactive executive dashboard visualization  
 
-The project demonstrates a full data analysis lifecycle — from raw data to business-ready reporting.
+The project demonstrates a full data analysis lifecycle. From raw data to business-ready reporting.
 
 ---
 
