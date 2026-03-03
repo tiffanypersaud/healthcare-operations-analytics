@@ -1,0 +1,1201 @@
+encounter_id,patient_id,hospital,region,admit_date,discharge_date,department,admission_type,diagnosis_group,age,age_group,gender,payer_type,length_of_stay_days,treatment_cost_usd,readmission_30d_flag,patient_satisfaction_score,bed_occupancy_rate
+ENC100000,PT18032,St. Catherine Hospital,Midwest,11/17/25,11/20/25,Pediatrics,Elective,Cancer,39,35-49,Male,Commercial,2.8,6763.12,0,3.9,0.8
+ENC100001,PT79655,Riverside Medical Center,Midwest,6/24/25,6/26/25,Pediatrics,Elective,Cardiac,45,35-49,Female,Commercial,1.4,3005.26,1,4,0.89
+ENC100002,PT68910,St. Catherine Hospital,Northeast,12/26/25,1/3/26,Surgery,Elective,Respiratory,56,50-64,Female,Medicare,7.4,24500.94,0,4.8,0.78
+ENC100003,PT49498,Riverside Medical Center,West,10/5/25,10/8/25,General Medicine,Urgent,Neurological,15,13-17,Female,Commercial,2.5,5369.92,0,4,0.84
+ENC100004,PT48970,Riverside Medical Center,South,8/26/25,8/27/25,Emergency,Elective,Pediatric,61,50-64,Female,Self-Pay,0.8,1110.4,0,3.4,0.86
+ENC100005,PT87272,St. Catherine Hospital,Midwest,11/26/25,11/27/25,Emergency,Emergency,GI,53,50-64,Male,Commercial,0.9,1756.82,0,2.6,0.85
+ENC100006,PT17735,Lakeside Health,South,7/8/25,7/14/25,ICU,Elective,Cancer,47,35-49,Female,Commercial,5.3,24944.27,1,2.9,0.8
+ENC100007,PT72762,Metro Regional,Northeast,9/21/25,9/23/25,Neurology,Emergency,Infectious,75,75+,Male,Commercial,1.1,2914.38,0,3.6,0.83
+ENC100008,PT28132,Metro Regional,Northeast,4/14/25,4/16/25,Orthopedics,Emergency,Cancer,62,50-64,Male,Commercial,1.1,3341.17,0,3.8,0.84
+ENC100009,PT18475,Metro Regional,South,12/18/25,12/27/25,Oncology,Urgent,Infectious,84,75+,Female,Commercial,8.4,28737.22,0,3.4,0.74
+ENC100010,PT57382,Lakeside Health,Midwest,8/16/25,8/21/25,General Medicine,Elective,Neurological,88,75+,Female,Medicare,4.7,11188.86,0,4.1,0.74
+ENC100011,PT97805,Lakeside Health,West,10/13/25,10/19/25,Surgery,Urgent,GI,75,75+,Male,Commercial,5.6,19902.18,0,3.6,0.79
+ENC100012,PT76216,Riverside Medical Center,South,6/18/25,6/21/25,Pediatrics,Emergency,Neurological,27,18-34,Male,Medicare,2.9,6114.65,1,3.4,0.86
+ENC100013,PT78501,Lakeside Health,South,11/13/25,11/16/25,Oncology,Emergency,Other,17,13-17,Female,Medicaid,2.9,7530.69,0,4.3,0.75
+ENC100014,PT74572,Riverside Medical Center,West,1/28/25,1/30/25,Orthopedics,Emergency,Cancer,27,18-34,Male,Medicare,1.6,3995.53,0,4.7,0.89
+ENC100015,PT80745,Riverside Medical Center,Northeast,2/11/25,2/13/25,Pediatrics,Emergency,Respiratory,64,50-64,Male,Medicare,2,4156.33,0,3.2,0.8
+ENC100016,PT56189,Riverside Medical Center,South,7/5/25,7/11/25,Orthopedics,Emergency,Cardiac,78,75+,Male,Commercial,5.8,14931.99,0,4,0.79
+ENC100017,PT21530,Metro Regional,South,9/25/25,9/28/25,Pediatrics,Emergency,Neurological,80,75+,Female,Commercial,2.4,5351.93,0,2.8,0.82
+ENC100018,PT85576,Lakeside Health,Northeast,10/23/25,10/25/25,General Medicine,Emergency,Infectious,62,50-64,Male,Commercial,1.2,2932.7,0,3,0.71
+ENC100019,PT50534,Metro Regional,Northeast,6/10/25,6/11/25,Emergency,Urgent,Infectious,61,50-64,Male,Self-Pay,0.2,355.1,0,3.3,0.86
+ENC100020,PT55031,Metro Regional,Northeast,8/26/25,8/28/25,Emergency,Emergency,GI,86,75+,Female,Medicare,1.9,3413.21,1,4.4,0.85
+ENC100021,PT43371,Metro Regional,Northeast,7/21/25,7/30/25,Cardiology,Emergency,Injury,62,50-64,Male,Commercial,8.7,27936.35,0,3.2,0.86
+ENC100022,PT26429,Riverside Medical Center,South,12/17/25,12/18/25,Surgery,Elective,GI,12,0-12,Male,Medicare,0.6,1752.21,0,3.4,0.8
+ENC100023,PT93407,Metro Regional,Northeast,8/27/25,9/7/25,ICU,Emergency,GI,45,35-49,Female,Medicaid,10.9,35737.28,0,3.6,0.84
+ENC100024,PT80340,Metro Regional,South,6/2/25,6/7/25,Cardiology,Urgent,Cancer,32,18-34,Male,Medicare,4.3,12970.35,0,3.9,0.75
+ENC100025,PT67947,Metro Regional,Northeast,12/20/25,12/22/25,Surgery,Elective,Cancer,57,50-64,Female,Medicare,1.6,5271.75,0,3.4,0.86
+ENC100026,PT46216,Riverside Medical Center,Northeast,2/9/25,2/14/25,Neurology,Emergency,Cardiac,57,50-64,Male,Medicaid,4.3,11192.27,0,5,0.82
+ENC100027,PT84047,Riverside Medical Center,Midwest,12/26/25,12/28/25,Neurology,Elective,Cancer,26,18-34,Male,Medicare,1.2,3052.16,0,3.7,0.78
+ENC100028,PT59088,Metro Regional,Northeast,2/26/25,2/28/25,OB/GYN,Elective,Maternal,27,18-34,Female,Medicare,1.7,3374.72,0,4,0.84
+ENC100029,PT49906,Riverside Medical Center,West,4/16/25,4/17/25,Emergency,Elective,Other,8,0-12,Female,Commercial,0.9,1425.31,0,3.5,0.81
+ENC100030,PT50540,Northgate General,Midwest,10/27/25,11/3/25,Cardiology,Elective,Infectious,26,18-34,Female,Commercial,7,18621.71,1,4.2,0.85
+ENC100031,PT30451,St. Catherine Hospital,Northeast,9/25/25,9/27/25,Pediatrics,Elective,Injury,75,75+,Male,Self-Pay,1.5,2800.43,0,4.6,0.76
+ENC100032,PT18292,Riverside Medical Center,Northeast,12/21/25,12/23/25,Cardiology,Elective,GI,59,50-64,Female,Medicare,1.6,4052.51,0,4.9,0.83
+ENC100033,PT59912,Riverside Medical Center,Midwest,10/1/25,10/5/25,General Medicine,Emergency,Maternal,85,75+,Male,Commercial,3.8,9189.13,0,3.4,0.78
+ENC100034,PT89909,Metro Regional,South,8/21/25,8/26/25,Cardiology,Elective,Injury,84,75+,Female,Medicare,4.5,12387.85,0,4.6,0.82
+ENC100035,PT15743,Metro Regional,West,5/7/25,5/8/25,Emergency,Urgent,Pediatric,77,75+,Female,Commercial,0.5,767.54,0,4,0.85
+ENC100036,PT87245,Metro Regional,Midwest,1/2/25,1/4/25,Cardiology,Elective,Respiratory,16,13-17,Male,Medicaid,1.2,3023.11,0,4.5,0.83
+ENC100037,PT84485,Northgate General,South,2/15/25,2/17/25,Oncology,Elective,Respiratory,30,18-34,Male,Commercial,1.7,5402.88,0,3.8,0.78
+ENC100038,PT34908,Northgate General,Midwest,4/19/25,4/27/25,Cardiology,Emergency,Cardiac,5,0-12,Female,Medicaid,7.7,19577.29,1,3.6,0.79
+ENC100039,PT66849,St. Catherine Hospital,West,1/15/25,1/17/25,Emergency,Elective,Cardiac,8,0-12,Female,Medicare,1.4,2620.07,0,4.3,0.78
+ENC100040,PT24870,St. Catherine Hospital,South,7/5/25,7/8/25,Surgery,Urgent,Other,21,18-34,Female,Commercial,2.5,8130.91,0,4.5,0.84
+ENC100041,PT78227,Riverside Medical Center,Northeast,10/11/25,10/17/25,Orthopedics,Emergency,Cancer,25,18-34,Female,Commercial,5.6,14981.38,0,4.8,0.81
+ENC100042,PT73046,Lakeside Health,South,12/18/25,12/21/25,Oncology,Emergency,Injury,1,0-12,Female,Medicaid,2.4,6743.06,0,4,0.75
+ENC100043,PT41906,Metro Regional,West,6/28/25,6/29/25,Emergency,Emergency,Cancer,76,75+,Male,Commercial,1,2325.17,0,3.6,0.85
+ENC100044,PT16112,St. Catherine Hospital,Midwest,11/16/25,11/17/25,Orthopedics,Emergency,Cancer,47,35-49,Female,Commercial,0.9,2405.27,1,2.4,0.81
+ENC100045,PT97361,Northgate General,West,12/26/25,12/31/25,Orthopedics,Elective,Injury,59,50-64,Female,Medicaid,4.9,10255.84,0,2.9,0.81
+ENC100046,PT50111,Northgate General,West,11/10/25,11/13/25,ICU,Emergency,Cardiac,59,50-64,Female,Commercial,2.9,13574.26,0,3.6,0.79
+ENC100047,PT90380,Riverside Medical Center,Northeast,6/19/25,6/21/25,Cardiology,Emergency,GI,87,75+,Female,Commercial,1.6,3935.1,1,3.2,0.84
+ENC100048,PT71012,Northgate General,West,4/29/25,5/4/25,Surgery,Elective,Cardiac,13,13-17,Male,Commercial,4.1,12669.18,0,4.4,0.77
+ENC100049,PT80053,St. Catherine Hospital,South,12/23/25,12/24/25,OB/GYN,Elective,Maternal,31,18-34,Female,Medicaid,0.2,393.64,0,3.1,0.76
+ENC100050,PT78390,St. Catherine Hospital,South,3/30/25,3/31/25,Emergency,Elective,Cardiac,28,18-34,Female,Commercial,0.3,674.89,0,3.4,0.74
+ENC100051,PT27517,St. Catherine Hospital,Midwest,5/31/25,6/2/25,Emergency,Elective,Maternal,50,50-64,Male,Commercial,1.6,2871.11,0,3.4,0.73
+ENC100052,PT42751,Metro Regional,West,1/28/25,1/29/25,Emergency,Elective,Pediatric,47,35-49,Male,Commercial,0.4,715.68,0,4.4,0.91
+ENC100053,PT52004,Northgate General,South,10/17/25,11/7/25,ICU,Elective,Cardiac,71,65-74,Male,Commercial,21,81950.03,0,3.2,0.69
+ENC100054,PT54800,Riverside Medical Center,South,8/26/25,8/28/25,Emergency,Elective,Respiratory,51,50-64,Male,Commercial,1.1,2151.87,0,4,0.87
+ENC100055,PT13942,Riverside Medical Center,Northeast,1/31/25,2/1/25,Surgery,Emergency,Other,21,18-34,Male,Commercial,0.6,1934.34,0,4,0.79
+ENC100056,PT59190,Riverside Medical Center,Midwest,3/23/25,3/31/25,General Medicine,Elective,Neurological,51,50-64,Male,Commercial,7.3,16726.29,1,4.2,0.87
+ENC100057,PT23885,St. Catherine Hospital,West,7/22/25,7/26/25,Surgery,Emergency,GI,87,75+,Male,Commercial,3.9,13166.15,0,4.4,0.71
+ENC100058,PT76903,Metro Regional,South,7/17/25,7/19/25,Pediatrics,Emergency,Respiratory,52,50-64,Female,Medicaid,1.8,3540.25,0,3.9,0.83
+ENC100059,PT71473,Metro Regional,Northeast,10/20/25,10/23/25,OB/GYN,Emergency,Injury,53,50-64,Male,Commercial,2.5,5683.65,0,2.9,0.9
+ENC100060,PT93026,Lakeside Health,West,4/8/25,4/9/25,Emergency,Urgent,Neurological,16,13-17,Male,Commercial,0.2,406.51,1,3.6,0.78
+ENC100061,PT77027,Northgate General,West,12/4/25,12/8/25,Oncology,Elective,Other,0,0-12,Male,Medicaid,3.9,11282.06,0,3.9,0.77
+ENC100062,PT42997,Riverside Medical Center,South,6/12/25,6/14/25,Orthopedics,Emergency,Injury,19,18-34,Female,Medicaid,1.2,2687.24,0,4.1,0.74
+ENC100063,PT97074,Northgate General,Northeast,10/28/25,10/30/25,OB/GYN,Elective,Maternal,2,0-12,Male,Medicare,1.9,3782.02,0,3.5,0.73
+ENC100064,PT46976,Northgate General,South,3/29/25,3/31/25,Pediatrics,Emergency,GI,41,35-49,Female,Commercial,1.4,3014.16,0,4.6,0.84
+ENC100065,PT39323,Metro Regional,Northeast,1/14/25,1/18/25,Surgery,Elective,Respiratory,80,75+,Male,Commercial,3.4,12205.05,0,3.9,0.83
+ENC100066,PT91497,St. Catherine Hospital,Midwest,1/21/25,1/24/25,Cardiology,Elective,Injury,40,35-49,Female,Commercial,2.3,5824.8,0,3.3,0.8
+ENC100067,PT43341,Northgate General,South,5/17/25,5/19/25,OB/GYN,Elective,Cardiac,58,50-64,Male,Commercial,1.3,3503.8,1,3.6,0.79
+ENC100068,PT16870,Northgate General,West,12/14/25,12/16/25,Neurology,Elective,Cancer,77,75+,Male,Commercial,1.4,4218.46,1,5,0.73
+ENC100069,PT52259,Riverside Medical Center,Midwest,1/18/25,1/19/25,Neurology,Emergency,GI,69,65-74,Female,Medicare,0.6,1597.21,0,4.3,0.84
+ENC100070,PT81610,Metro Regional,West,5/15/25,5/16/25,OB/GYN,Emergency,Cancer,59,50-64,Female,Commercial,0.3,777.44,0,4.5,0.82
+ENC100071,PT27052,Riverside Medical Center,West,2/9/25,2/11/25,Oncology,Urgent,Cardiac,71,65-74,Female,Medicare,1.2,3579.67,0,3.3,0.83
+ENC100072,PT51664,Riverside Medical Center,Northeast,12/7/25,12/14/25,Oncology,Elective,GI,25,18-34,Male,Commercial,6.4,22401.05,0,3.5,0.8
+ENC100073,PT21692,Riverside Medical Center,Northeast,9/4/25,9/5/25,Pediatrics,Emergency,Infectious,38,35-49,Male,Commercial,0.8,1580.06,0,3.5,0.76
+ENC100074,PT71782,Metro Regional,South,10/6/25,10/7/25,Emergency,Emergency,Neurological,36,35-49,Male,Medicaid,0.6,1086.03,0,3.8,0.82
+ENC100075,PT52812,St. Catherine Hospital,South,9/18/25,9/20/25,Orthopedics,Emergency,Infectious,72,65-74,Female,Medicaid,1.5,3823.19,0,3.8,0.83
+ENC100076,PT39717,Lakeside Health,Midwest,8/28/25,8/31/25,Cardiology,Emergency,Cardiac,37,35-49,Male,Commercial,2.2,6757.74,0,3.6,0.77
+ENC100077,PT30421,Northgate General,South,10/10/25,10/12/25,Emergency,Emergency,GI,85,75+,Male,Medicare,1.4,2177.8,0,3.5,0.78
+ENC100078,PT60804,Riverside Medical Center,South,1/3/25,1/6/25,Surgery,Emergency,Cancer,16,13-17,Female,Commercial,2.6,8811.04,0,3.4,0.86
+ENC100079,PT70282,Metro Regional,South,11/12/25,11/16/25,Pediatrics,Urgent,Injury,15,13-17,Female,Commercial,3.5,7460.69,0,3.8,0.83
+ENC100080,PT94626,Riverside Medical Center,South,9/28/25,9/29/25,Orthopedics,Emergency,Cardiac,65,65-74,Female,Medicaid,0.8,1916.26,0,4.6,0.82
+ENC100081,PT49343,Riverside Medical Center,Northeast,9/27/25,10/5/25,Oncology,Emergency,Infectious,69,65-74,Female,Commercial,7.4,23957.35,0,2.8,0.8
+ENC100082,PT24461,St. Catherine Hospital,Northeast,5/24/25,6/5/25,Oncology,Emergency,Infectious,61,50-64,Female,Medicare,11.4,30284.41,0,3.9,0.84
+ENC100083,PT84940,Riverside Medical Center,Northeast,10/20/25,10/26/25,ICU,Emergency,Injury,28,18-34,Female,Medicare,5.6,21974.08,0,4.6,0.83
+ENC100084,PT66678,Riverside Medical Center,West,5/20/25,5/21/25,OB/GYN,Elective,Pediatric,0,0-12,Female,Commercial,0.7,1475.37,0,3.8,0.8
+ENC100085,PT73023,Metro Regional,West,1/18/25,1/22/25,OB/GYN,Emergency,Pediatric,29,18-34,Female,Commercial,3.1,6886.36,0,3.6,0.78
+ENC100086,PT18750,St. Catherine Hospital,West,11/28/25,12/2/25,Oncology,Elective,Respiratory,42,35-49,Female,Commercial,3.9,14235.56,0,4.5,0.84
+ENC100087,PT38112,Northgate General,Northeast,3/27/25,3/30/25,Orthopedics,Elective,GI,37,35-49,Male,Self-Pay,3,5889.64,0,3.3,0.75
+ENC100088,PT79105,Northgate General,South,2/7/25,2/14/25,Neurology,Emergency,Cancer,83,75+,Female,Medicare,6.7,18300.4,1,3.9,0.78
+ENC100089,PT84902,Lakeside Health,Northeast,8/15/25,8/17/25,Pediatrics,Elective,Other,78,75+,Female,Commercial,1.3,2482.52,0,3.3,0.84
+ENC100090,PT49169,Riverside Medical Center,Midwest,3/27/25,3/30/25,Neurology,Urgent,Cardiac,70,65-74,Male,Commercial,2.2,6991.05,1,2.8,0.85
+ENC100091,PT82427,Riverside Medical Center,Northeast,11/10/25,12/1/25,ICU,Emergency,Injury,2,0-12,Male,Medicare,21,88295.09,0,3.5,0.88
+ENC100092,PT85751,Lakeside Health,West,6/11/25,6/14/25,Pediatrics,Emergency,Cancer,11,0-12,Female,Commercial,2.9,6670.96,0,3.1,0.73
+ENC100093,PT44872,Lakeside Health,Northeast,1/2/25,1/8/25,Orthopedics,Urgent,Injury,39,35-49,Female,Medicare,5.2,12171.1,0,3.9,0.79
+ENC100094,PT90826,Metro Regional,South,12/14/25,12/19/25,Orthopedics,Urgent,GI,56,50-64,Female,Medicaid,4.4,9052.55,0,4.6,0.84
+ENC100095,PT35949,Northgate General,West,7/7/25,7/17/25,Oncology,Emergency,Neurological,61,50-64,Male,Medicare,9.3,29217.32,0,4.8,0.79
+ENC100096,PT31559,Riverside Medical Center,South,4/6/25,4/8/25,Emergency,Elective,Cardiac,26,18-34,Female,Commercial,1.2,2938.72,0,3.8,0.9
+ENC100097,PT71423,St. Catherine Hospital,Northeast,9/5/25,9/12/25,Cardiology,Emergency,Neurological,10,0-12,Female,Commercial,6.2,18513.43,0,4.5,0.79
+ENC100098,PT67307,Lakeside Health,West,7/13/25,7/15/25,General Medicine,Elective,Other,29,18-34,Male,Commercial,1.5,3275.45,0,4.1,0.75
+ENC100099,PT22577,Riverside Medical Center,South,1/11/25,1/12/25,Oncology,Emergency,Maternal,72,65-74,Male,Medicare,0.8,2113.26,0,3.7,0.78
+ENC100100,PT84945,St. Catherine Hospital,Midwest,10/5/25,10/7/25,Cardiology,Emergency,Neurological,89,75+,Female,Medicaid,1.4,3144.84,0,2.7,0.84
+ENC100101,PT27991,Riverside Medical Center,South,5/27/25,5/29/25,Pediatrics,Elective,Injury,85,75+,Female,Commercial,1.6,3841.79,0,4.9,0.8
+ENC100102,PT82440,Metro Regional,West,9/13/25,9/16/25,General Medicine,Urgent,Cardiac,53,50-64,Female,Medicare,2.1,5073.73,0,3.3,0.88
+ENC100103,PT10662,Metro Regional,Midwest,11/23/25,11/26/25,Cardiology,Elective,Other,8,0-12,Male,Medicare,2.9,6750.73,0,4.7,0.77
+ENC100104,PT81715,St. Catherine Hospital,South,8/11/25,8/13/25,Surgery,Emergency,GI,88,75+,Male,Commercial,1.8,6571.87,1,4.2,0.82
+ENC100105,PT80822,Metro Regional,Midwest,9/3/25,9/4/25,OB/GYN,Emergency,Infectious,13,13-17,Male,Commercial,0.2,488.42,0,3.3,0.81
+ENC100106,PT80232,Metro Regional,Northeast,4/3/25,4/7/25,ICU,Urgent,Other,24,18-34,Female,Commercial,3.8,16949.21,0,4,0.87
+ENC100107,PT69835,Riverside Medical Center,West,3/28/25,3/29/25,General Medicine,Urgent,Cardiac,88,75+,Female,Medicare,0.7,1642.07,0,5,0.82
+ENC100108,PT52440,Northgate General,Northeast,6/1/25,6/2/25,Emergency,Emergency,GI,45,35-49,Male,Medicare,1,1716.29,0,4.6,0.76
+ENC100109,PT73464,Lakeside Health,Midwest,11/8/25,11/11/25,OB/GYN,Elective,Cardiac,18,18-34,Female,Medicaid,2.6,5443.65,0,3.6,0.73
+ENC100110,PT34940,Riverside Medical Center,Midwest,7/11/25,7/14/25,Oncology,Emergency,Cardiac,45,35-49,Male,Medicaid,3,8767.12,0,3.5,0.79
+ENC100111,PT80264,Northgate General,Northeast,5/8/25,5/9/25,OB/GYN,Emergency,Neurological,7,0-12,Female,Medicaid,0.7,1663.47,0,4,0.81
+ENC100112,PT60007,Northgate General,Midwest,10/12/25,10/15/25,Pediatrics,Emergency,Cancer,28,18-34,Female,Self-Pay,2.1,4243.42,0,3.8,0.74
+ENC100113,PT51301,Metro Regional,South,11/8/25,11/14/25,Emergency,Emergency,Other,86,75+,Female,Medicaid,5.1,8362.59,0,4.4,0.83
+ENC100114,PT55504,Northgate General,Midwest,11/26/25,11/28/25,Emergency,Emergency,Injury,27,18-34,Female,Medicaid,1.5,2343.81,0,4.1,0.79
+ENC100115,PT61186,Lakeside Health,Northeast,4/20/25,4/24/25,General Medicine,Elective,Pediatric,81,75+,Male,Medicaid,3.9,7861.15,0,2.9,0.81
+ENC100116,PT13353,Northgate General,West,9/17/25,9/19/25,Pediatrics,Emergency,Maternal,49,35-49,Female,Medicaid,1.3,2462.54,0,4.2,0.78
+ENC100117,PT22581,Riverside Medical Center,West,8/4/25,8/5/25,Emergency,Emergency,GI,59,50-64,Male,Medicaid,0.5,744.47,0,3.6,0.81
+ENC100118,PT32093,Metro Regional,Midwest,6/13/25,6/20/25,General Medicine,Emergency,Other,63,50-64,Male,Self-Pay,6.1,11202.57,0,3.9,0.85
+ENC100119,PT20307,Riverside Medical Center,Midwest,5/25/25,5/26/25,Surgery,Emergency,Cancer,50,50-64,Male,Medicare,0.2,754.67,0,4,0.74
+ENC100120,PT49564,Riverside Medical Center,Northeast,2/11/25,2/13/25,Neurology,Emergency,Cancer,3,0-12,Male,Medicare,1.9,5062.63,0,4.6,0.77
+ENC100121,PT70155,Northgate General,Northeast,4/11/25,4/21/25,Neurology,Elective,Cardiac,83,75+,Male,Medicare,9.8,25199.44,1,4.3,0.76
+ENC100122,PT68897,Lakeside Health,Midwest,7/20/25,7/21/25,Emergency,Emergency,Injury,43,35-49,Male,Medicaid,0.9,1531.09,0,3.3,0.72
+ENC100123,PT52398,Northgate General,West,11/20/25,11/21/25,General Medicine,Elective,Other,59,50-64,Female,Medicare,0.5,1197.59,0,3.9,0.72
+ENC100124,PT86956,Riverside Medical Center,South,11/13/25,11/17/25,Orthopedics,Urgent,Neurological,50,50-64,Male,Medicaid,3.4,7473.87,0,3.6,0.85
+ENC100125,PT60870,Northgate General,Midwest,3/10/25,3/13/25,Surgery,Emergency,Injury,59,50-64,Male,Medicaid,2.4,7588.28,1,2.9,0.79
+ENC100126,PT17127,Northgate General,West,9/5/25,9/6/25,Oncology,Urgent,Cardiac,32,18-34,Female,Self-Pay,0.6,1749.26,0,3.8,0.79
+ENC100127,PT78849,Riverside Medical Center,Midwest,1/31/25,2/3/25,Pediatrics,Urgent,Neurological,76,75+,Male,Commercial,2.3,5062.43,0,5,0.79
+ENC100128,PT61713,St. Catherine Hospital,Northeast,9/4/25,9/7/25,Orthopedics,Elective,GI,20,18-34,Female,Medicare,2.5,5878.01,0,2.9,0.8
+ENC100129,PT67124,Riverside Medical Center,Midwest,5/5/25,5/8/25,Cardiology,Elective,Injury,59,50-64,Male,Medicaid,2.9,6909.28,0,3.9,0.84
+ENC100130,PT60883,Northgate General,Northeast,6/14/25,6/18/25,General Medicine,Elective,Maternal,52,50-64,Female,Self-Pay,3.7,6720.95,0,3.9,0.77
+ENC100131,PT59821,Lakeside Health,West,9/19/25,9/20/25,Neurology,Elective,Infectious,45,35-49,Male,Medicaid,1,2183.84,0,4.1,0.77
+ENC100132,PT18150,Lakeside Health,Midwest,6/5/25,6/8/25,Pediatrics,Elective,Maternal,1,0-12,Female,Medicare,2.3,4483.12,0,3.3,0.72
+ENC100133,PT60328,Northgate General,South,10/22/25,10/25/25,OB/GYN,Emergency,Injury,35,35-49,Male,Medicare,2.4,5943.07,0,3,0.78
+ENC100134,PT81541,Northgate General,Midwest,7/14/25,7/19/25,OB/GYN,Urgent,GI,4,0-12,Female,Commercial,4.3,10332.85,0,3.1,0.83
+ENC100135,PT37355,Northgate General,West,12/31/25,1/2/26,Surgery,Elective,Cardiac,45,35-49,Male,Self-Pay,1.6,5299.47,1,4.7,0.83
+ENC100136,PT64254,Metro Regional,South,8/21/25,8/28/25,Cardiology,Elective,Injury,62,50-64,Female,Commercial,6.8,19980.88,0,3.3,0.89
+ENC100137,PT12773,Riverside Medical Center,Midwest,4/19/25,4/30/25,ICU,Emergency,GI,47,35-49,Male,Medicaid,10.1,38637.86,0,3.3,0.83
+ENC100138,PT41274,Riverside Medical Center,Northeast,10/10/25,10/13/25,Surgery,Emergency,GI,68,65-74,Female,Medicaid,3,8344.57,1,5,0.82
+ENC100139,PT49304,St. Catherine Hospital,West,5/29/25,6/3/25,Oncology,Emergency,Cardiac,32,18-34,Female,Medicare,4.4,13214.26,1,3.5,0.78
+ENC100140,PT98445,Riverside Medical Center,South,7/14/25,7/15/25,Emergency,Emergency,Pediatric,27,18-34,Female,Commercial,0.2,311.3,0,3.9,0.75
+ENC100141,PT29312,Riverside Medical Center,Northeast,2/19/25,2/23/25,Surgery,Emergency,Respiratory,40,35-49,Male,Commercial,3.3,10851.09,0,4.5,0.77
+ENC100142,PT34889,Riverside Medical Center,West,2/13/25,2/20/25,Neurology,Emergency,Infectious,20,18-34,Female,Medicaid,6.1,15542.66,1,4.5,0.81
+ENC100143,PT46767,Lakeside Health,Northeast,7/29/25,7/31/25,Pediatrics,Emergency,Other,72,65-74,Male,Medicare,1.6,3553.63,0,3.1,0.75
+ENC100144,PT99338,Lakeside Health,Midwest,3/10/25,3/15/25,OB/GYN,Emergency,Infectious,73,65-74,Female,Commercial,4.6,11688.8,0,3.5,0.81
+ENC100145,PT86805,Lakeside Health,South,12/31/25,1/8/26,ICU,Emergency,Pediatric,37,35-49,Male,Medicare,7.9,28147.98,0,3.8,0.8
+ENC100146,PT13122,Lakeside Health,Midwest,11/9/25,11/25/25,Oncology,Urgent,Infectious,72,65-74,Female,Commercial,15.1,42488.75,0,4.9,0.72
+ENC100147,PT31054,Northgate General,Midwest,9/13/25,9/16/25,Oncology,Emergency,Maternal,2,0-12,Female,Medicaid,2.4,6231.3,0,3.4,0.81
+ENC100148,PT83949,Metro Regional,Northeast,9/26/25,10/3/25,Oncology,Emergency,GI,14,13-17,Female,Commercial,6.9,22926.05,0,3.6,0.82
+ENC100149,PT15247,Lakeside Health,Northeast,8/6/25,8/7/25,Emergency,Emergency,GI,25,18-34,Female,Commercial,0.3,551.69,0,4,0.78
+ENC100150,PT87009,Metro Regional,Northeast,1/23/25,1/26/25,General Medicine,Emergency,Cardiac,35,35-49,Female,Commercial,2.4,6170.01,0,4.3,0.87
+ENC100151,PT35324,Lakeside Health,Northeast,5/24/25,5/29/25,Surgery,Emergency,Maternal,21,18-34,Female,Medicare,4.8,14077.81,0,4.3,0.8
+ENC100152,PT92587,Northgate General,West,6/30/25,7/4/25,Orthopedics,Elective,Cardiac,46,35-49,Female,Medicare,3.9,10308.6,0,3.4,0.76
+ENC100153,PT36423,Northgate General,South,12/1/25,12/3/25,Orthopedics,Urgent,Other,72,65-74,Male,Medicaid,1.8,3315.83,0,3.6,0.82
+ENC100154,PT49088,St. Catherine Hospital,Midwest,3/22/25,3/30/25,Surgery,Emergency,Cardiac,41,35-49,Female,Medicare,7.5,28206.56,0,3.8,0.73
+ENC100155,PT69571,Riverside Medical Center,Midwest,7/1/25,7/4/25,Emergency,Elective,Cardiac,40,35-49,Male,Commercial,2.4,4407.79,0,4.5,0.87
+ENC100156,PT21365,St. Catherine Hospital,South,5/6/25,5/8/25,Pediatrics,Emergency,Pediatric,5,0-12,Female,Commercial,1.1,2407.55,0,3.8,0.8
+ENC100157,PT60132,Riverside Medical Center,Northeast,2/19/25,2/23/25,Neurology,Emergency,Cardiac,25,18-34,Female,Commercial,3.1,9170.28,0,3.9,0.82
+ENC100158,PT55450,Riverside Medical Center,Northeast,2/7/25,2/10/25,General Medicine,Emergency,Injury,73,65-74,Female,Self-Pay,2.3,4602.04,0,3.3,0.74
+ENC100159,PT80550,Metro Regional,South,5/14/25,5/16/25,Cardiology,Emergency,GI,73,65-74,Female,Commercial,2,5303.69,0,5,0.82
+ENC100160,PT99648,Lakeside Health,Midwest,1/31/25,2/7/25,General Medicine,Elective,Cardiac,9,0-12,Female,Self-Pay,6.4,13678.25,0,4,0.8
+ENC100161,PT69787,St. Catherine Hospital,South,1/25/25,2/4/25,Oncology,Elective,Cardiac,1,0-12,Male,Commercial,9.7,33784.93,1,4.3,0.78
+ENC100162,PT46826,Northgate General,West,5/9/25,5/14/25,ICU,Elective,Neurological,75,75+,Male,Commercial,4.2,21046.92,0,3.8,0.81
+ENC100163,PT46574,St. Catherine Hospital,West,3/15/25,3/17/25,Emergency,Emergency,Cardiac,15,13-17,Male,Commercial,1.6,3588.92,0,3.8,0.8
+ENC100164,PT47615,Metro Regional,Northeast,7/22/25,7/29/25,Neurology,Elective,Cardiac,52,50-64,Female,Commercial,6.8,21109.07,0,3,0.88
+ENC100165,PT83261,Lakeside Health,Northeast,1/7/25,1/10/25,Pediatrics,Emergency,Respiratory,75,75+,Female,Medicaid,2.4,5295.4,0,2.6,0.76
+ENC100166,PT38909,Lakeside Health,Northeast,4/21/25,4/24/25,Cardiology,Emergency,Cancer,71,65-74,Male,Medicare,2.4,6898.71,1,4.7,0.71
+ENC100167,PT25027,St. Catherine Hospital,West,6/15/25,6/16/25,Emergency,Emergency,Injury,50,50-64,Female,Commercial,0.5,1055.78,0,3.7,0.8
+ENC100168,PT40085,Northgate General,West,12/18/25,12/23/25,Cardiology,Elective,Respiratory,34,18-34,Female,Medicare,4.8,12604.69,1,4,0.84
+ENC100169,PT12044,Lakeside Health,West,8/20/25,8/21/25,Orthopedics,Urgent,Infectious,70,65-74,Female,Medicare,0.7,1583.38,0,3.2,0.77
+ENC100170,PT19552,Metro Regional,Northeast,11/18/25,11/19/25,Emergency,Emergency,Infectious,63,50-64,Female,Self-Pay,0.8,1316.25,0,3.2,0.84
+ENC100171,PT18104,St. Catherine Hospital,West,5/6/25,5/8/25,OB/GYN,Elective,Respiratory,76,75+,Male,Self-Pay,1.3,2776,0,4.5,0.89
+ENC100172,PT79438,Northgate General,South,6/14/25,6/16/25,Oncology,Elective,Injury,46,35-49,Female,Medicare,1.1,3305.98,0,4.9,0.83
+ENC100173,PT75011,St. Catherine Hospital,West,6/3/25,6/6/25,Surgery,Elective,Other,85,75+,Female,Medicaid,2.8,8145.22,0,3.5,0.83
+ENC100174,PT72708,St. Catherine Hospital,South,11/20/25,11/22/25,OB/GYN,Emergency,Infectious,70,65-74,Male,Medicaid,1.8,4129.14,0,4.3,0.81
+ENC100175,PT51568,Metro Regional,Northeast,12/17/25,12/18/25,Emergency,Elective,Cancer,5,0-12,Male,Medicare,0.4,788.65,0,3.8,0.87
+ENC100176,PT74534,Lakeside Health,Northeast,12/18/25,12/31/25,ICU,Elective,Neurological,26,18-34,Female,Medicare,12.5,41058.79,0,3.5,0.78
+ENC100177,PT24514,Northgate General,West,10/2/25,10/8/25,Surgery,Urgent,Cardiac,72,65-74,Female,Commercial,5.4,21952.05,0,5,0.69
+ENC100178,PT91055,Northgate General,Midwest,7/3/25,7/9/25,ICU,Emergency,Pediatric,10,0-12,Male,Medicaid,5.8,20507.92,0,3.5,0.8
+ENC100179,PT55093,St. Catherine Hospital,Midwest,7/17/25,7/25/25,Oncology,Urgent,Other,64,50-64,Female,Self-Pay,7.8,18580,0,4.4,0.79
+ENC100180,PT94423,Riverside Medical Center,Midwest,12/24/25,1/3/26,Oncology,Emergency,Other,30,18-34,Female,Commercial,9.5,25937.03,0,3.9,0.8
+ENC100181,PT23707,St. Catherine Hospital,Midwest,4/14/25,4/17/25,Emergency,Elective,Cardiac,18,18-34,Female,Medicaid,2.3,3970.56,0,3.7,0.79
+ENC100182,PT54759,Metro Regional,West,5/7/25,5/9/25,Pediatrics,Emergency,Injury,49,35-49,Female,Self-Pay,1.1,2025.11,0,4.7,0.78
+ENC100183,PT72668,Lakeside Health,Northeast,11/24/25,11/29/25,OB/GYN,Emergency,Cardiac,84,75+,Male,Commercial,4.1,9938.88,0,4.1,0.68
+ENC100184,PT54605,Riverside Medical Center,Northeast,5/22/25,5/24/25,OB/GYN,Emergency,Injury,81,75+,Male,Medicare,1.9,4149.71,0,3.8,0.87
+ENC100185,PT50153,Lakeside Health,West,3/27/25,3/29/25,Emergency,Emergency,Injury,36,35-49,Male,Self-Pay,1.2,2066.91,0,4.5,0.77
+ENC100186,PT24959,Lakeside Health,South,7/24/25,7/26/25,General Medicine,Emergency,GI,0,0-12,Male,Self-Pay,1.6,3617.11,0,4.6,0.65
+ENC100187,PT44291,Northgate General,Northeast,4/29/25,5/2/25,Orthopedics,Emergency,Cardiac,80,75+,Male,Commercial,2.5,7161.14,1,4.6,0.76
+ENC100188,PT31488,Lakeside Health,Northeast,11/22/25,11/29/25,Surgery,Emergency,Other,81,75+,Male,Commercial,6.3,21970.53,0,1.6,0.79
+ENC100189,PT37135,Lakeside Health,Northeast,11/28/25,12/1/25,Emergency,Emergency,Respiratory,55,50-64,Male,Medicare,3,5113.89,0,4,0.74
+ENC100190,PT71532,Metro Regional,Northeast,4/22/25,4/24/25,OB/GYN,Elective,Respiratory,57,50-64,Female,Commercial,1.8,4383.4,0,4,0.89
+ENC100191,PT66724,Riverside Medical Center,Northeast,7/13/25,7/15/25,Surgery,Urgent,Pediatric,47,35-49,Female,Commercial,1.4,4540.19,0,3.9,0.86
+ENC100192,PT64647,Riverside Medical Center,Northeast,12/26/25,12/29/25,Emergency,Elective,GI,1,0-12,Female,Commercial,2.9,5142.35,0,4.1,0.77
+ENC100193,PT42562,St. Catherine Hospital,South,9/28/25,9/29/25,Emergency,Emergency,Injury,14,13-17,Female,Commercial,0.5,938.9,1,3.9,0.79
+ENC100194,PT96371,Riverside Medical Center,West,3/20/25,3/21/25,Surgery,Emergency,Infectious,13,13-17,Female,Medicare,0.6,2022.13,0,4.3,0.8
+ENC100195,PT17888,Northgate General,West,8/4/25,8/5/25,Emergency,Urgent,Cardiac,83,75+,Female,Medicare,0.6,1223.05,0,3.5,0.72
+ENC100196,PT40832,Metro Regional,Midwest,8/15/25,8/20/25,Pediatrics,Emergency,Cardiac,4,0-12,Male,Medicare,4.3,9456.37,0,4.8,0.78
+ENC100197,PT20620,Riverside Medical Center,Midwest,8/27/25,8/29/25,Surgery,Emergency,Neurological,50,50-64,Female,Medicaid,1.7,4762.43,1,4.4,0.79
+ENC100198,PT40504,St. Catherine Hospital,West,1/10/25,1/11/25,Pediatrics,Urgent,Injury,33,18-34,Female,Commercial,0.6,1328.62,0,4.2,0.77
+ENC100199,PT96569,Metro Regional,South,4/20/25,4/25/25,Oncology,Urgent,Infectious,0,0-12,Female,Commercial,4.5,12659.96,0,4.2,0.85
+ENC100200,PT42963,St. Catherine Hospital,South,11/8/25,11/19/25,Neurology,Emergency,Cardiac,83,75+,Female,Commercial,10.6,32247.25,0,4.4,0.84
+ENC100201,PT91771,St. Catherine Hospital,Northeast,3/30/25,4/1/25,Emergency,Elective,GI,1,0-12,Male,Commercial,1.3,2483.32,0,4.3,0.82
+ENC100202,PT54555,St. Catherine Hospital,Midwest,4/20/25,4/21/25,OB/GYN,Emergency,Maternal,77,75+,Female,Commercial,0.6,1350.11,1,3.8,0.83
+ENC100203,PT72972,Riverside Medical Center,Midwest,4/28/25,5/8/25,Orthopedics,Elective,Cardiac,70,65-74,Female,Commercial,9.4,25755.79,0,4.3,0.81
+ENC100204,PT51167,Riverside Medical Center,South,3/6/25,3/11/25,Cardiology,Emergency,Respiratory,72,65-74,Female,Commercial,4.1,11566.31,0,4,0.84
+ENC100205,PT33928,Lakeside Health,Northeast,2/26/25,3/4/25,Orthopedics,Emergency,Cancer,14,13-17,Male,Commercial,5.1,14739.99,1,5,0.74
+ENC100206,PT78779,Northgate General,West,5/7/25,5/8/25,OB/GYN,Elective,Maternal,80,75+,Male,Medicare,0.4,773.36,0,4.6,0.76
+ENC100207,PT97224,Northgate General,South,11/16/25,11/20/25,Emergency,Emergency,GI,54,50-64,Female,Medicare,3.6,6140.47,0,3.3,0.86
+ENC100208,PT33716,Riverside Medical Center,South,1/1/25,1/4/25,Surgery,Elective,GI,36,35-49,Female,Self-Pay,2.2,6427.41,0,5,0.73
+ENC100209,PT80086,Metro Regional,Northeast,4/14/25,4/15/25,General Medicine,Emergency,Cancer,61,50-64,Male,Medicaid,0.6,1543.8,0,2.6,0.77
+ENC100210,PT33502,Riverside Medical Center,South,1/23/25,1/27/25,Surgery,Urgent,Cardiac,31,18-34,Male,Medicare,3.8,12390.32,0,4.3,0.84
+ENC100211,PT74519,Lakeside Health,South,7/24/25,7/28/25,OB/GYN,Elective,Infectious,25,18-34,Female,Commercial,3.9,9927.2,0,3.5,0.74
+ENC100212,PT81009,Northgate General,Northeast,4/2/25,4/8/25,Surgery,Emergency,Cardiac,26,18-34,Female,Medicare,5.2,18549.85,0,5,0.72
+ENC100213,PT50442,St. Catherine Hospital,South,10/17/25,10/20/25,OB/GYN,Elective,GI,51,50-64,Female,Commercial,3,7063.12,0,4.1,0.76
+ENC100214,PT76322,Northgate General,South,8/2/25,8/4/25,Emergency,Emergency,Cardiac,54,50-64,Female,Medicare,1.5,3070.7,0,3.2,0.74
+ENC100215,PT34501,Riverside Medical Center,West,10/14/25,10/18/25,General Medicine,Emergency,Injury,21,18-34,Male,Commercial,3.1,8073.98,0,3.7,0.86
+ENC100216,PT17132,St. Catherine Hospital,Northeast,8/20/25,8/21/25,Pediatrics,Emergency,Neurological,22,18-34,Male,Medicare,0.4,954.22,0,3.5,0.85
+ENC100217,PT18675,Lakeside Health,West,6/10/25,6/12/25,Pediatrics,Urgent,Neurological,86,75+,Male,Commercial,1.6,3831.55,0,3.7,0.82
+ENC100218,PT50231,Riverside Medical Center,Midwest,11/11/25,11/14/25,Surgery,Elective,Infectious,46,35-49,Male,Medicare,2.3,8625.4,0,3.7,0.76
+ENC100219,PT91233,St. Catherine Hospital,Northeast,6/23/25,6/29/25,OB/GYN,Urgent,Cancer,78,75+,Female,Medicaid,5.2,11807.95,0,3.4,0.75
+ENC100220,PT21481,St. Catherine Hospital,Northeast,12/13/25,12/19/25,General Medicine,Urgent,Other,30,18-34,Male,Medicaid,5.7,12910.37,0,4.1,0.74
+ENC100221,PT51019,Riverside Medical Center,Northeast,12/30/25,1/2/26,Neurology,Urgent,Pediatric,26,18-34,Female,Medicare,2.3,6007.67,0,4.1,0.87
+ENC100222,PT73362,St. Catherine Hospital,Northeast,8/3/25,8/10/25,Neurology,Emergency,Other,25,18-34,Female,Medicare,6.3,17515.62,0,3.3,0.82
+ENC100223,PT28212,Riverside Medical Center,Midwest,9/4/25,9/8/25,Oncology,Urgent,Infectious,48,35-49,Male,Commercial,3.9,12084.47,0,2.9,0.82
+ENC100224,PT74944,St. Catherine Hospital,South,4/4/25,4/5/25,Oncology,Elective,GI,70,65-74,Female,Medicaid,0.7,2051.76,1,4.1,0.81
+ENC100225,PT37535,Riverside Medical Center,Northeast,10/25/25,10/26/25,Oncology,Emergency,Infectious,45,35-49,Male,Medicare,0.3,988.5,0,4.2,0.82
+ENC100226,PT82778,St. Catherine Hospital,West,9/3/25,9/5/25,Emergency,Elective,Cancer,26,18-34,Male,Commercial,1.5,2908.85,1,4.1,0.76
+ENC100227,PT62129,Northgate General,Northeast,11/26/25,11/27/25,Emergency,Emergency,Injury,87,75+,Male,Commercial,0.4,767.44,0,4,0.8
+ENC100228,PT59221,St. Catherine Hospital,South,4/8/25,4/10/25,General Medicine,Emergency,Infectious,52,50-64,Male,Self-Pay,1.1,1806.91,0,4.8,0.79
+ENC100229,PT25909,St. Catherine Hospital,West,10/15/25,10/17/25,Neurology,Emergency,Respiratory,35,35-49,Female,Medicare,1.9,4937.98,0,4.5,0.75
+ENC100230,PT51688,Metro Regional,West,6/21/25,6/25/25,OB/GYN,Emergency,Respiratory,0,0-12,Female,Medicare,3.6,7557.6,0,5,0.86
+ENC100231,PT87094,St. Catherine Hospital,South,3/9/25,3/22/25,ICU,Emergency,Pediatric,51,50-64,Male,Medicare,12.2,45886.55,0,5,0.78
+ENC100232,PT11757,Metro Regional,South,3/4/25,3/6/25,Emergency,Urgent,Respiratory,56,50-64,Male,Commercial,2,4664.11,0,2.6,0.85
+ENC100233,PT78265,Northgate General,Northeast,7/25/25,7/26/25,Emergency,Elective,Neurological,84,75+,Male,Medicare,0.2,418.89,0,2.4,0.78
+ENC100234,PT54348,Northgate General,Northeast,4/27/25,4/29/25,Cardiology,Emergency,Infectious,20,18-34,Female,Commercial,1.7,4145.67,0,3.9,0.82
+ENC100235,PT74750,Riverside Medical Center,Midwest,2/7/25,2/8/25,OB/GYN,Emergency,Cardiac,14,13-17,Female,Medicare,1,2502.19,0,4.2,0.83
+ENC100236,PT69696,St. Catherine Hospital,Northeast,6/5/25,6/11/25,Cardiology,Emergency,Other,90,75+,Female,Medicare,5.2,13377.24,0,3.9,0.76
+ENC100237,PT48887,Lakeside Health,Midwest,8/27/25,8/29/25,Neurology,Emergency,Cardiac,50,50-64,Male,Commercial,1.9,5590.29,0,4.3,0.76
+ENC100238,PT37779,Metro Regional,Northeast,4/27/25,4/29/25,OB/GYN,Elective,Other,2,0-12,Male,Medicaid,1.7,3489.88,0,3.7,0.85
+ENC100239,PT66457,St. Catherine Hospital,West,12/15/25,12/19/25,OB/GYN,Emergency,Maternal,9,0-12,Male,Commercial,3.8,8932.97,0,3.5,0.82
+ENC100240,PT22620,Lakeside Health,West,10/12/25,10/15/25,Cardiology,Elective,Cardiac,43,35-49,Female,Medicare,3,7249.24,0,3.6,0.79
+ENC100241,PT62568,Riverside Medical Center,West,7/7/25,7/9/25,Emergency,Elective,Cardiac,56,50-64,Female,Medicare,1.2,2064.23,1,3.6,0.8
+ENC100242,PT18522,Riverside Medical Center,South,12/8/25,12/9/25,Emergency,Elective,Injury,22,18-34,Female,Medicare,0.8,1466.27,0,4.2,0.85
+ENC100243,PT68485,Metro Regional,Northeast,6/8/25,6/10/25,Emergency,Urgent,Cancer,33,18-34,Female,Medicare,1.9,3782.95,0,3.4,0.77
+ENC100244,PT66586,Riverside Medical Center,Northeast,2/20/25,2/27/25,Cardiology,Emergency,Cardiac,66,65-74,Female,Self-Pay,6.8,15877.27,0,3.7,0.82
+ENC100245,PT17599,Riverside Medical Center,South,1/14/25,1/17/25,Pediatrics,Urgent,Other,88,75+,Male,Medicare,2.8,5120.88,0,4.2,0.81
+ENC100246,PT78173,Metro Regional,South,12/9/25,12/16/25,Surgery,Elective,Cardiac,44,35-49,Female,Medicaid,6.5,20353.24,0,3.8,0.9
+ENC100247,PT47422,Metro Regional,Midwest,12/17/25,12/26/25,Pediatrics,Elective,Pediatric,37,35-49,Female,Medicare,8.9,18241.65,1,4.4,0.83
+ENC100248,PT80818,Lakeside Health,Midwest,9/27/25,10/6/25,ICU,Elective,Cardiac,32,18-34,Male,Commercial,8.8,41141.91,0,3,0.77
+ENC100249,PT13745,Northgate General,Midwest,2/7/25,2/10/25,Cardiology,Elective,Other,12,0-12,Male,Commercial,2.8,8225.08,0,3.2,0.71
+ENC100250,PT26150,Metro Regional,Northeast,4/18/25,4/23/25,Surgery,Urgent,Cardiac,4,0-12,Female,Medicare,4.2,13219.83,0,4.1,0.83
+ENC100251,PT54458,Riverside Medical Center,Midwest,1/15/25,1/28/25,ICU,Emergency,Cancer,75,75+,Female,Commercial,13,65423.33,0,3.8,0.79
+ENC100252,PT26940,St. Catherine Hospital,Midwest,1/19/25,1/22/25,Surgery,Elective,Infectious,3,0-12,Male,Commercial,2.2,7250.89,0,3.4,0.9
+ENC100253,PT39687,Northgate General,South,3/31/25,4/2/25,OB/GYN,Elective,Cardiac,74,65-74,Male,Commercial,1.3,3506.32,0,4.7,0.75
+ENC100254,PT69453,Metro Regional,West,7/28/25,8/1/25,Orthopedics,Emergency,Pediatric,22,18-34,Male,Medicare,3.3,6766.95,0,5,0.84
+ENC100255,PT23007,Metro Regional,South,1/24/25,1/25/25,Emergency,Urgent,Injury,63,50-64,Female,Commercial,0.9,2019.37,0,3.3,0.85
+ENC100256,PT70992,Lakeside Health,South,12/26/25,12/28/25,Cardiology,Emergency,Infectious,86,75+,Female,Medicaid,1.4,2936.17,0,4.8,0.69
+ENC100257,PT19306,Riverside Medical Center,West,6/16/25,6/21/25,Oncology,Elective,Infectious,68,65-74,Male,Medicare,4.5,15134.71,0,2.5,0.8
+ENC100258,PT25766,St. Catherine Hospital,Northeast,4/7/25,4/13/25,OB/GYN,Emergency,Infectious,66,65-74,Female,Medicare,5.7,13016.88,0,4.5,0.82
+ENC100259,PT62887,Northgate General,South,7/8/25,7/15/25,Oncology,Emergency,Respiratory,24,18-34,Female,Commercial,6.2,20393.11,0,3.4,0.78
+ENC100260,PT81412,Metro Regional,Midwest,10/16/25,10/17/25,General Medicine,Elective,Cardiac,54,50-64,Male,Medicare,0.9,2282.55,0,4.5,0.75
+ENC100261,PT25353,Riverside Medical Center,South,4/25/25,4/29/25,Pediatrics,Emergency,Cardiac,58,50-64,Female,Commercial,3.2,8042.81,0,3.3,0.8
+ENC100262,PT36999,Riverside Medical Center,Northeast,1/18/25,1/21/25,Cardiology,Emergency,Injury,38,35-49,Male,Medicare,2.6,6393.21,0,3.9,0.86
+ENC100263,PT93259,Lakeside Health,West,1/19/25,1/29/25,Orthopedics,Emergency,Cardiac,3,0-12,Male,Commercial,10,28170.43,0,3.2,0.77
+ENC100264,PT99070,St. Catherine Hospital,West,11/7/25,11/16/25,ICU,Emergency,Other,83,75+,Female,Self-Pay,8.6,35288.81,0,3.5,0.85
+ENC100265,PT62294,Metro Regional,Northeast,2/10/25,2/12/25,General Medicine,Elective,Neurological,17,13-17,Male,Commercial,1.6,3597.15,0,5,0.8
+ENC100266,PT50232,Riverside Medical Center,Northeast,8/20/25,8/27/25,Oncology,Urgent,Infectious,88,75+,Female,Medicare,7,24210.22,0,3.8,0.87
+ENC100267,PT41217,Metro Regional,Northeast,5/21/25,5/25/25,Cardiology,Emergency,Injury,84,75+,Male,Commercial,3.8,10999.65,0,5,0.84
+ENC100268,PT65120,Riverside Medical Center,West,10/11/25,10/18/25,General Medicine,Elective,Injury,1,0-12,Male,Medicare,6.3,13438.51,0,3.7,0.88
+ENC100269,PT63181,Riverside Medical Center,South,1/23/25,1/26/25,Cardiology,Emergency,Neurological,67,65-74,Male,Medicare,2.1,5186.42,0,4.8,0.82
+ENC100270,PT36527,St. Catherine Hospital,Northeast,11/24/25,11/27/25,OB/GYN,Elective,Injury,57,50-64,Female,Commercial,3,7318.89,0,2.9,0.72
+ENC100271,PT12052,Northgate General,West,9/12/25,9/13/25,Cardiology,Emergency,Injury,20,18-34,Male,Commercial,0.7,1658.14,0,3.7,0.81
+ENC100272,PT23634,St. Catherine Hospital,Midwest,6/13/25,6/15/25,Emergency,Emergency,Neurological,73,65-74,Male,Commercial,1.1,2105.65,1,3.4,0.78
+ENC100273,PT96269,Riverside Medical Center,Midwest,3/17/25,3/19/25,Neurology,Emergency,Neurological,10,0-12,Male,Commercial,1.3,3779.79,0,4.8,0.8
+ENC100274,PT47633,Riverside Medical Center,Midwest,12/23/25,12/27/25,Neurology,Elective,Other,22,18-34,Male,Self-Pay,3.8,7971.4,0,4,0.76
+ENC100275,PT53406,Lakeside Health,South,4/21/25,4/26/25,Neurology,Emergency,Cardiac,86,75+,Female,Commercial,4.9,15704.1,0,2.6,0.81
+ENC100276,PT52039,Riverside Medical Center,Midwest,6/29/25,7/6/25,Oncology,Emergency,Neurological,67,65-74,Male,Commercial,6.4,20750.37,0,3.1,0.8
+ENC100277,PT80445,Lakeside Health,Northeast,5/24/25,5/26/25,OB/GYN,Elective,Cardiac,10,0-12,Female,Self-Pay,1.3,2701.7,0,3.3,0.81
+ENC100278,PT15846,Lakeside Health,Midwest,3/26/25,3/30/25,Neurology,Elective,Injury,13,13-17,Female,Commercial,3.7,10508.39,0,4.5,0.73
+ENC100279,PT17445,Riverside Medical Center,West,6/2/25,6/11/25,Neurology,Emergency,GI,23,18-34,Male,Commercial,8.1,23390.95,0,4.2,0.78
+ENC100280,PT34825,Lakeside Health,Midwest,2/25/25,3/10/25,Oncology,Elective,Cardiac,6,0-12,Male,Medicare,12.4,38974.49,0,3.5,0.8
+ENC100281,PT53798,Northgate General,West,1/1/25,1/3/25,Emergency,Urgent,Infectious,16,13-17,Male,Medicaid,1.1,1743.37,0,3.4,0.78
+ENC100282,PT70400,Northgate General,South,4/16/25,4/29/25,ICU,Emergency,Cancer,52,50-64,Female,Medicare,13,60520.35,0,4,0.78
+ENC100283,PT54163,Riverside Medical Center,South,2/10/25,2/12/25,Cardiology,Elective,Respiratory,0,0-12,Female,Medicare,1.4,3540.05,0,3.2,0.77
+ENC100284,PT49704,Metro Regional,Northeast,6/1/25,6/6/25,ICU,Emergency,Other,26,18-34,Female,Self-Pay,4.3,13951.65,0,4.1,0.82
+ENC100285,PT94403,St. Catherine Hospital,West,11/11/25,11/13/25,Emergency,Elective,Cancer,28,18-34,Female,Commercial,1.1,2282.48,0,3.9,0.82
+ENC100286,PT24491,St. Catherine Hospital,Northeast,3/1/25,3/4/25,OB/GYN,Emergency,Maternal,88,75+,Male,Self-Pay,2.1,4295.78,0,3.7,0.75
+ENC100287,PT61454,Metro Regional,Northeast,1/1/25,1/4/25,Neurology,Elective,Cancer,88,75+,Male,Medicaid,2.9,8502.82,0,4.1,0.82
+ENC100288,PT58801,Northgate General,Northeast,2/10/25,2/18/25,Surgery,Emergency,Other,76,75+,Female,Self-Pay,7.1,18956.71,0,3.8,0.76
+ENC100289,PT52613,Metro Regional,Northeast,7/5/25,7/7/25,Neurology,Emergency,Injury,31,18-34,Female,Commercial,1.5,4610.82,1,4.2,0.84
+ENC100290,PT82682,Lakeside Health,West,4/11/25,4/12/25,Emergency,Urgent,Cancer,47,35-49,Female,Commercial,0.4,782.99,0,2.9,0.81
+ENC100291,PT34027,Metro Regional,West,6/28/25,6/29/25,Surgery,Emergency,Maternal,45,35-49,Male,Medicare,1,2750.06,0,4.3,0.83
+ENC100292,PT95838,Metro Regional,South,1/11/25,1/18/25,ICU,Urgent,Injury,78,75+,Male,Medicare,7,28935.81,0,4.4,0.81
+ENC100293,PT39840,Metro Regional,Northeast,5/2/25,5/5/25,General Medicine,Urgent,Injury,67,65-74,Female,Medicare,2.2,5443.7,1,4.1,0.95
+ENC100294,PT59049,Riverside Medical Center,West,5/30/25,6/8/25,Oncology,Urgent,Other,82,75+,Female,Self-Pay,8.2,21183.09,0,4.1,0.8
+ENC100295,PT56859,Metro Regional,South,6/7/25,6/14/25,ICU,Emergency,Infectious,50,50-64,Female,Medicare,6.9,27939.14,0,3.7,0.83
+ENC100296,PT86479,Metro Regional,Midwest,7/21/25,7/23/25,Surgery,Elective,GI,83,75+,Female,Commercial,2,7478.22,0,4.4,0.83
+ENC100297,PT49501,Lakeside Health,Midwest,10/12/25,10/16/25,ICU,Emergency,GI,67,65-74,Male,Commercial,3.2,13656.74,0,3.8,0.74
+ENC100298,PT35610,Northgate General,South,6/20/25,6/23/25,Orthopedics,Emergency,Pediatric,67,65-74,Male,Commercial,2.4,6653.97,1,3.2,0.78
+ENC100299,PT11945,Metro Regional,Northeast,11/4/25,11/5/25,General Medicine,Urgent,Pediatric,60,50-64,Female,Commercial,1,2067.81,0,4.4,0.88
+ENC100300,PT42730,Riverside Medical Center,Midwest,7/13/25,7/19/25,General Medicine,Elective,Infectious,30,18-34,Male,Commercial,5.6,12002.21,0,2.9,0.84
+ENC100301,PT84365,St. Catherine Hospital,South,4/6/25,4/8/25,OB/GYN,Emergency,Injury,55,50-64,Female,Medicaid,1.7,3666.61,0,4.1,0.84
+ENC100302,PT10892,St. Catherine Hospital,Northeast,3/25/25,3/27/25,Oncology,Emergency,Respiratory,32,18-34,Female,Medicare,1.1,3158.24,0,3.7,0.84
+ENC100303,PT90653,Riverside Medical Center,Midwest,4/28/25,5/8/25,Oncology,Elective,Infectious,59,50-64,Male,Medicare,9.7,26833.11,0,3.4,0.83
+ENC100304,PT58853,Lakeside Health,South,8/7/25,8/10/25,Surgery,Elective,Pediatric,23,18-34,Female,Commercial,2.8,10608.59,0,4,0.77
+ENC100305,PT22622,Riverside Medical Center,South,3/30/25,4/5/25,Neurology,Emergency,Neurological,72,65-74,Female,Medicare,5.7,16145.29,0,3.5,0.86
+ENC100306,PT37195,Lakeside Health,West,11/30/25,12/2/25,General Medicine,Urgent,Cardiac,51,50-64,Male,Medicaid,1.8,4047.93,0,4.2,0.71
+ENC100307,PT59862,Metro Regional,West,6/25/25,7/5/25,Neurology,Emergency,Injury,64,50-64,Male,Medicaid,9.1,22488.49,0,3.7,0.94
+ENC100308,PT38411,Northgate General,South,11/12/25,11/14/25,Cardiology,Emergency,Neurological,20,18-34,Female,Medicare,1.6,4059.01,0,3.5,0.76
+ENC100309,PT19771,Lakeside Health,South,9/7/25,9/10/25,General Medicine,Elective,Pediatric,72,65-74,Male,Medicaid,2.1,4311.18,0,4.7,0.74
+ENC100310,PT69938,Riverside Medical Center,South,5/2/25,5/3/25,Emergency,Urgent,Cardiac,73,65-74,Female,Medicare,0.2,324.7,0,3.8,0.77
+ENC100311,PT70500,Metro Regional,South,3/25/25,4/2/25,Cardiology,Emergency,Infectious,13,13-17,Male,Medicare,7.9,18397.04,0,4.1,0.79
+ENC100312,PT20698,Metro Regional,Northeast,9/29/25,10/3/25,ICU,Emergency,Maternal,31,18-34,Female,Medicaid,3.3,11955.49,0,4.6,0.88
+ENC100313,PT35310,Riverside Medical Center,South,5/1/25,5/5/25,General Medicine,Emergency,Other,61,50-64,Male,Commercial,3.7,9019.8,0,4.7,0.91
+ENC100314,PT31948,Lakeside Health,South,4/1/25,4/6/25,Surgery,Urgent,Respiratory,79,75+,Female,Commercial,4.6,14992.92,0,4.2,0.73
+ENC100315,PT69347,St. Catherine Hospital,Midwest,12/6/25,12/12/25,Orthopedics,Emergency,Other,67,65-74,Male,Commercial,5.7,14135.44,0,3.7,0.81
+ENC100316,PT75725,St. Catherine Hospital,West,6/26/25,6/28/25,Emergency,Emergency,Infectious,42,35-49,Male,Medicare,1.2,2134.05,0,2.8,0.81
+ENC100317,PT75428,Lakeside Health,South,1/18/25,1/20/25,OB/GYN,Urgent,Maternal,27,18-34,Female,Medicare,2,4721.63,0,4,0.79
+ENC100318,PT94487,St. Catherine Hospital,Midwest,6/30/25,7/3/25,Emergency,Emergency,Respiratory,82,75+,Male,Medicare,2.1,3223.21,0,4.4,0.89
+ENC100319,PT79177,Lakeside Health,Northeast,6/18/25,6/23/25,Cardiology,Elective,Neurological,79,75+,Female,Medicare,4.1,11547.24,0,4.1,0.81
+ENC100320,PT38860,Northgate General,Northeast,11/12/25,11/15/25,Orthopedics,Emergency,Infectious,81,75+,Male,Commercial,2.2,5507.74,0,1.8,0.77
+ENC100321,PT19696,Northgate General,Midwest,9/17/25,9/22/25,Pediatrics,Elective,Injury,27,18-34,Female,Medicaid,4.6,9860.16,0,4.4,0.8
+ENC100322,PT65317,Metro Regional,Midwest,3/11/25,3/17/25,Surgery,Emergency,Cancer,39,35-49,Female,Commercial,5.1,17995.41,0,4.5,0.87
+ENC100323,PT92440,Riverside Medical Center,Northeast,2/24/25,2/25/25,General Medicine,Emergency,Infectious,22,18-34,Male,Self-Pay,0.9,1787.46,1,3.7,0.82
+ENC100324,PT97763,St. Catherine Hospital,Northeast,8/9/25,8/18/25,General Medicine,Emergency,Infectious,86,75+,Female,Commercial,8.2,18965.59,0,4.3,0.76
+ENC100325,PT30719,Riverside Medical Center,Northeast,1/18/25,1/20/25,Cardiology,Elective,Respiratory,78,75+,Female,Medicare,1.8,4203.53,0,4.3,0.79
+ENC100326,PT31280,Metro Regional,West,4/27/25,5/3/25,Orthopedics,Elective,Cancer,15,13-17,Female,Medicare,5.2,12292.67,0,3.5,0.89
+ENC100327,PT13367,St. Catherine Hospital,South,2/20/25,2/21/25,Neurology,Emergency,Cardiac,22,18-34,Female,Medicaid,0.9,2283.8,0,4.7,0.85
+ENC100328,PT22713,Northgate General,Midwest,1/8/25,1/10/25,Emergency,Emergency,Other,50,50-64,Female,Commercial,2,3637.42,0,2.9,0.77
+ENC100329,PT59936,Northgate General,Northeast,12/2/25,12/3/25,Orthopedics,Urgent,Other,37,35-49,Male,Medicaid,0.9,1785.7,0,3.9,0.79
+ENC100330,PT59211,St. Catherine Hospital,Northeast,2/2/25,2/6/25,Orthopedics,Emergency,Injury,41,35-49,Male,Medicare,3.1,7275.41,0,3.8,0.85
+ENC100331,PT43382,Metro Regional,Northeast,1/4/25,1/6/25,Emergency,Emergency,Cardiac,33,18-34,Female,Medicare,1.5,2388.04,0,3.2,0.77
+ENC100332,PT37895,St. Catherine Hospital,Midwest,12/7/25,12/9/25,Pediatrics,Elective,Cardiac,61,50-64,Female,Medicare,1.6,3396,0,4.1,0.78
+ENC100333,PT84680,St. Catherine Hospital,Northeast,3/10/25,3/13/25,General Medicine,Emergency,Neurological,81,75+,Male,Commercial,3,7854.5,1,4.7,0.88
+ENC100334,PT51402,Lakeside Health,Midwest,10/26/25,10/27/25,Emergency,Emergency,Other,83,75+,Male,Medicare,0.4,707.38,0,4.4,0.76
+ENC100335,PT82741,Northgate General,West,1/12/25,1/19/25,Neurology,Emergency,Neurological,41,35-49,Male,Commercial,6.8,20055.56,1,4.3,0.73
+ENC100336,PT96688,St. Catherine Hospital,Midwest,2/26/25,3/2/25,General Medicine,Emergency,Respiratory,75,75+,Female,Commercial,3.6,8478.1,0,2.9,0.8
+ENC100337,PT38542,Northgate General,West,2/10/25,2/12/25,General Medicine,Emergency,Respiratory,63,50-64,Male,Medicare,1.4,2808.33,1,3.1,0.82
+ENC100338,PT28246,Riverside Medical Center,Northeast,9/15/25,9/19/25,Surgery,Elective,Cardiac,17,13-17,Male,Medicare,3.9,14688.48,0,4,0.72
+ENC100339,PT95759,Lakeside Health,Northeast,8/15/25,8/20/25,Neurology,Elective,Pediatric,72,65-74,Female,Commercial,4.3,13259.93,0,3.9,0.76
+ENC100340,PT67134,Metro Regional,West,6/23/25,6/27/25,Surgery,Emergency,Infectious,31,18-34,Female,Commercial,3.7,12715.89,0,3.6,0.83
+ENC100341,PT36182,Metro Regional,Midwest,3/30/25,3/31/25,Cardiology,Elective,Infectious,57,50-64,Female,Commercial,0.2,665.44,0,5,0.77
+ENC100342,PT65966,Metro Regional,South,2/2/25,2/6/25,Oncology,Emergency,Injury,65,65-74,Male,Commercial,3.4,10416.57,0,4,0.84
+ENC100343,PT56354,St. Catherine Hospital,West,7/27/25,8/2/25,Cardiology,Elective,Other,85,75+,Female,Medicare,5.4,11750.35,0,4.2,0.79
+ENC100344,PT91496,Northgate General,South,3/26/25,4/1/25,Neurology,Emergency,Injury,86,75+,Male,Commercial,5.5,15127.52,0,4.5,0.78
+ENC100345,PT33036,Lakeside Health,Midwest,8/4/25,8/10/25,Oncology,Elective,Pediatric,73,65-74,Male,Medicaid,5.9,14996.45,0,3.9,0.74
+ENC100346,PT99223,Metro Regional,South,9/8/25,9/12/25,Cardiology,Emergency,Other,46,35-49,Female,Commercial,4,12323.64,0,5,0.8
+ENC100347,PT94242,Lakeside Health,Northeast,11/7/25,11/13/25,General Medicine,Emergency,Neurological,36,35-49,Male,Commercial,5.8,13720.29,0,3.3,0.69
+ENC100348,PT26262,St. Catherine Hospital,Northeast,6/30/25,7/2/25,Orthopedics,Emergency,Other,40,35-49,Male,Medicaid,1.7,3343.48,0,3.5,0.77
+ENC100349,PT24814,Lakeside Health,Northeast,1/2/25,1/4/25,Orthopedics,Emergency,Injury,86,75+,Female,Commercial,1.4,3367.97,0,3.3,0.78
+ENC100350,PT57983,Lakeside Health,West,4/13/25,4/17/25,Emergency,Emergency,GI,18,18-34,Male,Medicare,3.4,6459.11,0,4.6,0.76
+ENC100351,PT14041,Metro Regional,South,11/8/25,11/11/25,Oncology,Elective,Respiratory,47,35-49,Female,Self-Pay,2.3,6649.58,0,4.4,0.84
+ENC100352,PT36891,Lakeside Health,Northeast,7/14/25,7/15/25,Orthopedics,Elective,Neurological,61,50-64,Female,Self-Pay,0.7,1509.79,0,3.6,0.71
+ENC100353,PT49158,St. Catherine Hospital,Northeast,8/14/25,8/18/25,Oncology,Emergency,Cardiac,2,0-12,Male,Medicare,3.7,9826.77,0,3.4,0.79
+ENC100354,PT97242,Northgate General,South,6/17/25,6/21/25,Cardiology,Urgent,Respiratory,57,50-64,Male,Commercial,3.4,8443.95,1,4.7,0.81
+ENC100355,PT99312,St. Catherine Hospital,West,3/1/25,3/7/25,General Medicine,Elective,Respiratory,23,18-34,Female,Medicare,5.2,12709.42,0,4.1,0.82
+ENC100356,PT23638,Northgate General,Northeast,11/24/25,11/26/25,OB/GYN,Urgent,Injury,25,18-34,Male,Self-Pay,1.6,3564.4,0,4.7,0.76
+ENC100357,PT90250,Metro Regional,Midwest,10/10/25,10/13/25,Neurology,Elective,Infectious,56,50-64,Male,Self-Pay,2.5,6113.6,0,3.9,0.74
+ENC100358,PT18183,St. Catherine Hospital,West,12/30/25,1/5/26,ICU,Elective,Neurological,0,0-12,Male,Commercial,5.4,28677.89,0,4.1,0.77
+ENC100359,PT77373,St. Catherine Hospital,West,11/9/25,11/12/25,Surgery,Emergency,Injury,14,13-17,Female,Commercial,2.2,8794.36,0,4.1,0.78
+ENC100360,PT86106,Northgate General,West,4/17/25,4/18/25,OB/GYN,Elective,Other,41,35-49,Female,Commercial,0.5,1146.69,0,3.5,0.74
+ENC100361,PT90170,Lakeside Health,Northeast,4/3/25,4/5/25,ICU,Urgent,Other,53,50-64,Female,Commercial,1.8,7549.37,1,3.7,0.73
+ENC100362,PT30107,St. Catherine Hospital,Northeast,4/1/25,4/10/25,Surgery,Emergency,Cardiac,9,0-12,Male,Medicare,8.1,25741.13,0,3,0.83
+ENC100363,PT90409,Riverside Medical Center,Midwest,12/2/25,12/8/25,Surgery,Emergency,Cancer,32,18-34,Female,Commercial,5.8,21402.16,0,4.2,0.82
+ENC100364,PT20438,Metro Regional,Northeast,7/23/25,7/26/25,General Medicine,Emergency,GI,27,18-34,Male,Commercial,2.9,5846.23,0,4.4,0.88
+ENC100365,PT56696,Northgate General,West,6/15/25,6/21/25,Neurology,Urgent,Maternal,48,35-49,Female,Commercial,5.3,12603.81,0,4.5,0.72
+ENC100366,PT52258,St. Catherine Hospital,Northeast,12/20/25,12/22/25,Emergency,Emergency,Injury,27,18-34,Male,Medicare,1.8,2805.78,0,4.1,0.79
+ENC100367,PT38433,Riverside Medical Center,South,8/9/25,8/10/25,Emergency,Elective,Maternal,0,0-12,Male,Commercial,0.6,1173.69,0,3.6,0.74
+ENC100368,PT11990,St. Catherine Hospital,West,11/28/25,11/30/25,Neurology,Elective,Cardiac,48,35-49,Male,Medicare,1.4,3445.44,0,4.8,0.78
+ENC100369,PT79480,Lakeside Health,West,12/26/25,1/3/26,Neurology,Urgent,Injury,77,75+,Male,Commercial,7.7,25955.83,1,4.2,0.71
+ENC100370,PT40202,Metro Regional,South,1/29/25,1/30/25,Oncology,Emergency,GI,53,50-64,Male,Self-Pay,0.4,998.82,0,4.7,0.89
+ENC100371,PT69548,Riverside Medical Center,West,5/12/25,5/15/25,Pediatrics,Elective,Infectious,32,18-34,Female,Commercial,2.8,7099.08,0,4.8,0.84
+ENC100372,PT46919,Metro Regional,Northeast,9/25/25,9/28/25,Pediatrics,Urgent,Pediatric,43,35-49,Male,Medicare,2.3,4273.5,0,3.8,0.88
+ENC100373,PT43628,Lakeside Health,Midwest,10/24/25,10/31/25,Surgery,Emergency,Respiratory,12,0-12,Male,Commercial,7,20573.06,0,4.1,0.73
+ENC100374,PT89765,Northgate General,Northeast,2/24/25,2/26/25,Emergency,Elective,Cardiac,21,18-34,Male,Commercial,1.5,3334.57,0,4.2,0.74
+ENC100375,PT18501,Riverside Medical Center,West,4/27/25,5/2/25,Cardiology,Emergency,Respiratory,39,35-49,Female,Commercial,4.9,14877.22,0,3.2,0.78
+ENC100376,PT76294,Northgate General,West,7/20/25,7/22/25,General Medicine,Elective,Cardiac,53,50-64,Male,Commercial,1.2,2742.48,0,3.2,0.79
+ENC100377,PT77210,Metro Regional,Northeast,10/19/25,10/26/25,Surgery,Emergency,Respiratory,44,35-49,Female,Commercial,6.1,19952.2,0,3.1,0.91
+ENC100378,PT44198,Northgate General,Northeast,2/11/25,2/15/25,OB/GYN,Emergency,Neurological,87,75+,Female,Medicare,3.1,6765.44,1,3.8,0.8
+ENC100379,PT33621,St. Catherine Hospital,Midwest,8/8/25,8/10/25,Surgery,Emergency,Neurological,58,50-64,Female,Medicare,1.7,5511.46,0,3.7,0.79
+ENC100380,PT10477,Lakeside Health,Northeast,4/19/25,4/23/25,Surgery,Emergency,GI,2,0-12,Female,Commercial,4,13426.83,1,3,0.74
+ENC100381,PT94312,Metro Regional,West,3/20/25,3/21/25,Orthopedics,Emergency,Cancer,47,35-49,Female,Medicare,1,2559.72,0,4,0.84
+ENC100382,PT95294,Lakeside Health,Northeast,7/8/25,7/12/25,Oncology,Elective,Respiratory,53,50-64,Female,Medicare,3.6,9011.61,0,3.8,0.83
+ENC100383,PT31687,Lakeside Health,West,6/1/25,6/13/25,Orthopedics,Emergency,GI,3,0-12,Male,Commercial,11.1,26418.11,0,4.4,0.8
+ENC100384,PT12871,Riverside Medical Center,South,8/21/25,8/24/25,ICU,Emergency,Respiratory,35,35-49,Female,Commercial,2.5,11645.5,0,5,0.83
+ENC100385,PT21048,Metro Regional,Midwest,4/26/25,4/27/25,OB/GYN,Elective,Pediatric,79,75+,Female,Commercial,0.5,1108.17,0,4.2,0.84
+ENC100386,PT16087,Northgate General,Northeast,10/28/25,10/29/25,Orthopedics,Elective,Respiratory,32,18-34,Male,Commercial,0.8,1963.19,0,3.5,0.79
+ENC100387,PT84799,Riverside Medical Center,West,1/29/25,1/31/25,Pediatrics,Emergency,Infectious,41,35-49,Male,Medicare,1.8,3448.85,0,4.3,0.84
+ENC100388,PT90271,Metro Regional,South,11/11/25,11/16/25,Orthopedics,Urgent,Other,20,18-34,Female,Self-Pay,4.2,8149.85,0,3.9,0.82
+ENC100389,PT23795,Riverside Medical Center,Midwest,1/11/25,1/15/25,Cardiology,Emergency,Infectious,7,0-12,Female,Self-Pay,3.4,8862.6,0,3.8,0.79
+ENC100390,PT77205,Riverside Medical Center,Midwest,9/26/25,9/27/25,Cardiology,Elective,Infectious,28,18-34,Male,Self-Pay,0.8,1703.2,1,3.4,0.86
+ENC100391,PT26133,Lakeside Health,West,5/7/25,5/9/25,Emergency,Emergency,GI,70,65-74,Male,Medicare,1.7,3130.3,0,3.4,0.75
+ENC100392,PT43048,Northgate General,West,5/20/25,5/21/25,OB/GYN,Elective,Cardiac,89,75+,Male,Commercial,0.3,775.71,0,3.8,0.82
+ENC100393,PT63943,Riverside Medical Center,West,1/7/25,1/9/25,Oncology,Urgent,GI,60,50-64,Female,Commercial,1.3,4135.44,0,4.4,0.89
+ENC100394,PT74792,Lakeside Health,South,9/14/25,9/16/25,Surgery,Elective,Other,75,75+,Male,Commercial,1.9,5723.78,0,4.2,0.77
+ENC100395,PT88709,Lakeside Health,West,3/2/25,3/8/25,General Medicine,Elective,Other,59,50-64,Male,Commercial,5.7,12187.1,0,5,0.76
+ENC100396,PT14030,Metro Regional,Northeast,8/29/25,9/2/25,Cardiology,Elective,Cancer,59,50-64,Male,Commercial,3.2,9813.11,0,4.3,0.97
+ENC100397,PT27678,Riverside Medical Center,South,9/22/25,9/26/25,Cardiology,Emergency,Injury,38,35-49,Male,Medicare,3.6,9009.59,0,4.2,0.83
+ENC100398,PT35245,St. Catherine Hospital,Midwest,11/5/25,11/6/25,Surgery,Elective,Maternal,5,0-12,Male,Commercial,0.9,2956.36,0,3.7,0.76
+ENC100399,PT37928,Metro Regional,South,9/16/25,9/18/25,Orthopedics,Elective,Infectious,37,35-49,Male,Commercial,1.6,4219.36,0,3.3,0.83
+ENC100400,PT99821,Riverside Medical Center,West,4/21/25,4/28/25,Surgery,Urgent,Injury,78,75+,Male,Medicare,6.3,23768.26,0,3.6,0.88
+ENC100401,PT79965,Riverside Medical Center,West,9/27/25,9/29/25,Emergency,Emergency,Cardiac,48,35-49,Male,Commercial,1.4,2885.21,0,3.3,0.77
+ENC100402,PT38837,Riverside Medical Center,Midwest,10/29/25,11/3/25,General Medicine,Emergency,Cardiac,69,65-74,Female,Medicaid,4.9,8999.4,1,2.4,0.79
+ENC100403,PT97463,St. Catherine Hospital,South,4/26/25,4/30/25,Surgery,Elective,Neurological,4,0-12,Female,Commercial,3.1,11927.27,0,3.3,0.84
+ENC100404,PT54937,Riverside Medical Center,West,2/15/25,2/22/25,Cardiology,Emergency,Cardiac,18,18-34,Male,Medicare,6.3,16783.14,0,4.9,0.81
+ENC100405,PT55066,Lakeside Health,West,11/21/25,11/22/25,Orthopedics,Emergency,Respiratory,27,18-34,Male,Commercial,0.8,2340.48,0,4.1,0.75
+ENC100406,PT49032,Metro Regional,South,2/23/25,2/25/25,OB/GYN,Emergency,Respiratory,32,18-34,Female,Medicare,1.9,4769.46,0,3.7,0.88
+ENC100407,PT22950,Riverside Medical Center,Northeast,8/5/25,8/9/25,Orthopedics,Elective,Other,89,75+,Female,Commercial,3.5,8060.46,1,4.1,0.79
+ENC100408,PT94092,Lakeside Health,Midwest,3/28/25,3/29/25,Oncology,Emergency,Respiratory,42,35-49,Male,Commercial,0.9,2998.73,0,2.7,0.69
+ENC100409,PT11254,Riverside Medical Center,West,2/15/25,2/16/25,Oncology,Emergency,Respiratory,60,50-64,Male,Medicare,0.2,558.06,0,4.1,0.76
+ENC100410,PT25684,Riverside Medical Center,South,10/11/25,10/22/25,Cardiology,Emergency,Neurological,58,50-64,Female,Commercial,10.7,30608.59,0,4.5,0.84
+ENC100411,PT30668,Lakeside Health,South,2/22/25,2/25/25,General Medicine,Urgent,Cardiac,38,35-49,Female,Commercial,3,7791.75,0,3.8,0.76
+ENC100412,PT35136,St. Catherine Hospital,South,9/2/25,9/3/25,General Medicine,Elective,Other,87,75+,Female,Self-Pay,0.5,1018.25,0,2.8,0.77
+ENC100413,PT21863,Metro Regional,Midwest,9/10/25,9/15/25,Oncology,Emergency,Other,20,18-34,Male,Commercial,4.8,15431.28,0,3.7,0.79
+ENC100414,PT11616,St. Catherine Hospital,Midwest,1/22/25,1/24/25,Surgery,Emergency,Cancer,3,0-12,Male,Medicare,1.1,3886.02,0,4.7,0.79
+ENC100415,PT70988,Riverside Medical Center,West,3/5/25,3/7/25,Cardiology,Elective,Cancer,67,65-74,Male,Medicare,1.3,4446.14,0,4.1,0.86
+ENC100416,PT97236,St. Catherine Hospital,Northeast,10/17/25,10/20/25,Emergency,Emergency,Cancer,59,50-64,Female,Commercial,2.3,4742.54,0,2.8,0.77
+ENC100417,PT20964,Riverside Medical Center,South,7/5/25,7/7/25,Pediatrics,Elective,Respiratory,23,18-34,Male,Medicare,1.2,2144.38,0,5,0.79
+ENC100418,PT36687,Metro Regional,South,2/14/25,2/16/25,OB/GYN,Emergency,Injury,78,75+,Female,Commercial,1.4,3084.02,0,3.1,0.79
+ENC100419,PT55569,Lakeside Health,West,12/28/25,12/29/25,Emergency,Urgent,Cardiac,14,13-17,Male,Medicaid,0.3,594.98,0,3.6,0.74
+ENC100420,PT93474,Northgate General,Midwest,4/7/25,4/10/25,Cardiology,Emergency,Respiratory,22,18-34,Female,Commercial,2.5,6783.15,0,3.3,0.79
+ENC100421,PT72482,St. Catherine Hospital,South,1/2/25,1/6/25,Neurology,Elective,Infectious,14,13-17,Female,Commercial,3.8,11013.99,0,3.3,0.88
+ENC100422,PT78956,Lakeside Health,Northeast,12/4/25,12/7/25,Surgery,Emergency,Respiratory,16,13-17,Male,Commercial,2.2,7071.17,0,3.6,0.76
+ENC100423,PT62299,Metro Regional,Northeast,1/7/25,1/11/25,Emergency,Urgent,Respiratory,66,65-74,Female,Medicaid,3.8,6091.27,0,4.1,0.84
+ENC100424,PT47532,Riverside Medical Center,Midwest,7/21/25,7/23/25,Oncology,Urgent,Neurological,64,50-64,Male,Medicaid,1.7,4625.94,0,4.7,0.85
+ENC100425,PT27979,Riverside Medical Center,Northeast,12/29/25,12/30/25,General Medicine,Elective,Cancer,58,50-64,Male,Self-Pay,1,2289.77,0,3.7,0.85
+ENC100426,PT87787,Riverside Medical Center,West,7/30/25,8/3/25,Oncology,Emergency,Cardiac,78,75+,Female,Medicare,3.3,10231.51,0,3.3,0.8
+ENC100427,PT82370,Northgate General,West,8/2/25,8/14/25,Cardiology,Emergency,Respiratory,6,0-12,Female,Medicare,11.6,30476.16,0,4,0.87
+ENC100428,PT12259,St. Catherine Hospital,Northeast,5/22/25,5/27/25,Cardiology,Elective,Cardiac,56,50-64,Male,Medicare,5,13908.5,1,4.2,0.8
+ENC100429,PT74385,Riverside Medical Center,West,2/16/25,2/19/25,Oncology,Elective,Cardiac,10,0-12,Male,Medicaid,2.5,7140.15,0,4,0.83
+ENC100430,PT17594,Northgate General,Midwest,7/29/25,8/1/25,Neurology,Emergency,Pediatric,86,75+,Female,Medicare,2.3,4999.3,1,4.1,0.8
+ENC100431,PT76507,St. Catherine Hospital,South,11/24/25,11/26/25,Surgery,Emergency,Other,57,50-64,Female,Commercial,1.3,3645.56,0,3.8,0.81
+ENC100432,PT84335,Riverside Medical Center,West,2/3/25,2/8/25,ICU,Emergency,Cancer,69,65-74,Male,Medicare,4.2,24045.36,0,3.9,0.88
+ENC100433,PT21795,Metro Regional,South,11/18/25,11/21/25,General Medicine,Elective,Cancer,51,50-64,Female,Medicare,2.2,5939.51,0,3.8,0.82
+ENC100434,PT49044,St. Catherine Hospital,Northeast,6/1/25,6/5/25,OB/GYN,Elective,GI,34,18-34,Male,Commercial,3.3,8739.91,0,4.5,0.83
+ENC100435,PT21137,Northgate General,Northeast,7/15/25,7/21/25,Oncology,Elective,Infectious,62,50-64,Male,Commercial,5.6,16846.93,0,5,0.79
+ENC100436,PT61054,St. Catherine Hospital,Midwest,3/2/25,3/5/25,Oncology,Elective,Cardiac,76,75+,Female,Commercial,2.8,9415.16,0,4,0.84
+ENC100437,PT93479,Northgate General,West,8/15/25,8/21/25,OB/GYN,Emergency,Respiratory,16,13-17,Male,Medicaid,6,11919.45,0,3.9,0.77
+ENC100438,PT17278,Metro Regional,South,3/8/25,3/10/25,Cardiology,Emergency,Cancer,79,75+,Female,Commercial,1.8,4942.73,0,4.1,0.83
+ENC100439,PT45781,St. Catherine Hospital,Midwest,4/10/25,4/11/25,General Medicine,Emergency,Infectious,66,65-74,Female,Medicaid,0.7,1368.85,1,3.5,0.83
+ENC100440,PT97579,St. Catherine Hospital,Northeast,9/21/25,9/25/25,General Medicine,Elective,Cardiac,7,0-12,Male,Medicare,3.1,7857.38,0,4.4,0.81
+ENC100441,PT37085,Metro Regional,West,1/19/25,1/22/25,Emergency,Emergency,Injury,85,75+,Male,Medicaid,2.1,3834.14,0,4,0.81
+ENC100442,PT21899,Metro Regional,Midwest,6/13/25,6/17/25,Neurology,Emergency,Injury,16,13-17,Male,Commercial,3.6,9682.95,0,3.6,0.89
+ENC100443,PT53972,Metro Regional,South,8/6/25,8/7/25,Cardiology,Emergency,Injury,54,50-64,Female,Self-Pay,1,2326.69,0,4.4,0.87
+ENC100444,PT55753,Northgate General,South,2/18/25,2/22/25,Cardiology,Emergency,Neurological,11,0-12,Male,Medicare,3.6,10149.13,0,3.9,0.78
+ENC100445,PT69657,Riverside Medical Center,Northeast,4/18/25,4/23/25,Neurology,Elective,GI,17,13-17,Female,Commercial,4.1,10986.92,0,3.3,0.8
+ENC100446,PT38236,Lakeside Health,Northeast,5/6/25,5/10/25,Orthopedics,Emergency,Neurological,58,50-64,Male,Commercial,3.5,9298.83,0,4.1,0.76
+ENC100447,PT96005,St. Catherine Hospital,Midwest,8/31/25,9/4/25,General Medicine,Emergency,Cardiac,61,50-64,Female,Commercial,3.3,8392.6,1,4,0.83
+ENC100448,PT56891,Lakeside Health,Midwest,12/23/25,12/31/25,Surgery,Elective,Respiratory,62,50-64,Female,Commercial,7.1,24602.08,0,4.3,0.69
+ENC100449,PT35779,Lakeside Health,South,11/2/25,11/4/25,Surgery,Emergency,Pediatric,31,18-34,Female,Medicare,1.3,3868.51,0,4.4,0.77
+ENC100450,PT96424,Northgate General,West,3/11/25,3/12/25,Orthopedics,Emergency,Neurological,74,65-74,Male,Self-Pay,0.2,425.33,1,3.8,0.81
+ENC100451,PT93231,Northgate General,Northeast,1/7/25,1/8/25,Orthopedics,Emergency,Respiratory,4,0-12,Female,Medicare,0.4,896.12,0,3.6,0.69
+ENC100452,PT54924,St. Catherine Hospital,South,1/19/25,1/20/25,Cardiology,Elective,Injury,77,75+,Male,Medicare,0.9,2137.14,0,3.9,0.81
+ENC100453,PT12237,Northgate General,Northeast,8/6/25,8/8/25,Emergency,Emergency,Pediatric,27,18-34,Male,Medicare,1.9,2727.65,0,3.9,0.81
+ENC100454,PT63723,Lakeside Health,Northeast,2/27/25,3/1/25,OB/GYN,Elective,Maternal,56,50-64,Female,Medicaid,1.5,3008.13,0,4.2,0.77
+ENC100455,PT59967,Lakeside Health,South,3/26/25,4/8/25,Oncology,Urgent,Other,82,75+,Female,Medicaid,12.1,34029.97,0,3.9,0.78
+ENC100456,PT23338,St. Catherine Hospital,West,11/6/25,11/7/25,Cardiology,Elective,Infectious,23,18-34,Female,Commercial,1,2451.68,1,3.8,0.79
+ENC100457,PT67057,Lakeside Health,South,11/15/25,11/25/25,Surgery,Emergency,Cancer,37,35-49,Female,Self-Pay,9.6,31485.03,0,4.3,0.71
+ENC100458,PT85670,St. Catherine Hospital,Northeast,11/3/25,11/5/25,Oncology,Elective,Cancer,75,75+,Male,Commercial,1.8,6771.97,1,3.5,0.73
+ENC100459,PT19530,Lakeside Health,South,4/3/25,4/4/25,Emergency,Emergency,Cardiac,78,75+,Male,Medicaid,0.9,1362.06,0,5,0.79
+ENC100460,PT75098,Northgate General,Midwest,8/15/25,8/16/25,Cardiology,Emergency,GI,21,18-34,Male,Self-Pay,0.6,1349.19,0,4.4,0.81
+ENC100461,PT22630,Lakeside Health,West,8/11/25,8/26/25,ICU,Emergency,Infectious,46,35-49,Female,Medicare,14.9,69815.92,1,2.9,0.8
+ENC100462,PT77393,Lakeside Health,South,3/9/25,3/12/25,General Medicine,Emergency,Cardiac,30,18-34,Female,Commercial,2.7,6946.56,0,4,0.72
+ENC100463,PT47719,Northgate General,West,7/22/25,8/4/25,Cardiology,Emergency,Other,47,35-49,Female,Medicare,12.9,26524.71,0,4.2,0.81
+ENC100464,PT10585,St. Catherine Hospital,Northeast,7/11/25,7/19/25,Surgery,Emergency,Injury,34,18-34,Male,Commercial,7.4,26921.33,0,3.5,0.74
+ENC100465,PT96959,Metro Regional,Midwest,5/25/25,5/28/25,Surgery,Emergency,Respiratory,0,0-12,Female,Medicaid,2.8,7783.8,1,3,0.81
+ENC100466,PT24937,Northgate General,South,10/2/25,10/4/25,Surgery,Emergency,Injury,84,75+,Female,Commercial,1.8,6564.84,1,3.3,0.79
+ENC100467,PT63643,Lakeside Health,Midwest,9/5/25,9/11/25,Cardiology,Elective,Pediatric,57,50-64,Male,Medicare,5.6,12537.39,0,4.2,0.78
+ENC100468,PT26331,Metro Regional,South,7/14/25,7/15/25,Emergency,Urgent,Other,42,35-49,Male,Medicaid,1,1577.28,0,2.6,0.91
+ENC100469,PT93971,Metro Regional,Midwest,9/22/25,9/24/25,Surgery,Emergency,Neurological,9,0-12,Female,Commercial,1.7,5726.67,0,3,0.83
+ENC100470,PT76448,Northgate General,West,10/6/25,10/9/25,Orthopedics,Elective,Other,6,0-12,Male,Commercial,2.6,6241.58,0,4.2,0.75
+ENC100471,PT82391,Lakeside Health,Northeast,7/26/25,7/27/25,ICU,Emergency,Other,43,35-49,Female,Medicare,0.7,2610.12,0,3.7,0.71
+ENC100472,PT48886,Metro Regional,West,4/8/25,4/12/25,General Medicine,Emergency,Pediatric,59,50-64,Female,Commercial,3.9,8258.03,0,3.5,0.81
+ENC100473,PT52063,St. Catherine Hospital,Midwest,10/4/25,10/6/25,Emergency,Emergency,Pediatric,23,18-34,Female,Commercial,1.6,2556.96,1,3.4,0.89
+ENC100474,PT67086,Riverside Medical Center,Midwest,9/19/25,9/20/25,General Medicine,Emergency,Cancer,67,65-74,Female,Commercial,1,2697.9,0,3,0.85
+ENC100475,PT80627,Riverside Medical Center,South,12/25/25,12/31/25,OB/GYN,Emergency,Maternal,35,35-49,Male,Commercial,5.2,12127.71,0,4.2,0.86
+ENC100476,PT86227,Metro Regional,Northeast,2/24/25,3/2/25,General Medicine,Emergency,Infectious,1,0-12,Male,Medicare,5.8,10952.08,0,3.4,0.83
+ENC100477,PT11605,St. Catherine Hospital,West,6/3/25,6/8/25,Neurology,Emergency,GI,48,35-49,Male,Medicare,4.6,12966.83,0,3.6,0.8
+ENC100478,PT69719,Northgate General,West,12/4/25,12/6/25,Surgery,Emergency,Cardiac,16,13-17,Female,Commercial,1.4,4946.84,0,4.1,0.81
+ENC100479,PT19822,Northgate General,West,7/7/25,7/11/25,Pediatrics,Emergency,Maternal,1,0-12,Male,Medicare,3.3,6528.3,0,3.7,0.76
+ENC100480,PT35913,Lakeside Health,West,12/11/25,12/14/25,General Medicine,Emergency,Other,11,0-12,Male,Commercial,2.1,4902.58,0,3.5,0.74
+ENC100481,PT84647,St. Catherine Hospital,South,1/5/25,1/9/25,Surgery,Emergency,Injury,25,18-34,Female,Commercial,4,14187.01,0,2.7,0.77
+ENC100482,PT32545,Metro Regional,Midwest,1/13/25,1/18/25,General Medicine,Emergency,Other,46,35-49,Male,Medicaid,5,10582.33,0,4.1,0.82
+ENC100483,PT81712,Lakeside Health,West,10/18/25,10/19/25,Orthopedics,Emergency,Cancer,90,75+,Male,Commercial,0.7,1935.89,1,3.9,0.75
+ENC100484,PT51670,Metro Regional,Northeast,5/11/25,5/12/25,Emergency,Emergency,Cardiac,19,18-34,Male,Medicare,0.2,406.01,0,3.4,0.81
+ENC100485,PT30937,Metro Regional,West,7/9/25,7/12/25,Cardiology,Emergency,Respiratory,5,0-12,Female,Self-Pay,2.2,5155.3,0,3.3,0.85
+ENC100486,PT40081,Northgate General,Midwest,6/6/25,6/19/25,Neurology,Emergency,Maternal,17,13-17,Male,Medicare,13,33968.65,0,3.7,0.79
+ENC100487,PT57768,Lakeside Health,South,5/29/25,6/13/25,Neurology,Urgent,Infectious,29,18-34,Female,Medicare,14.3,39290.76,0,4,0.74
+ENC100488,PT78862,Riverside Medical Center,Midwest,12/9/25,12/12/25,Pediatrics,Emergency,Injury,18,18-34,Male,Commercial,2.7,6731.42,0,4,0.79
+ENC100489,PT64540,Metro Regional,Midwest,2/4/25,2/13/25,Oncology,Emergency,Infectious,29,18-34,Male,Commercial,9,30271.75,0,4.7,0.84
+ENC100490,PT93989,Northgate General,Northeast,10/9/25,10/12/25,General Medicine,Emergency,Injury,88,75+,Female,Commercial,2.8,6417.05,0,4.3,0.76
+ENC100491,PT88095,Lakeside Health,Midwest,11/21/25,11/25/25,Surgery,Urgent,Cancer,34,18-34,Male,Medicaid,3.5,11033.44,0,3.8,0.75
+ENC100492,PT77801,Metro Regional,Midwest,8/28/25,8/31/25,Cardiology,Elective,Pediatric,57,50-64,Male,Medicaid,2.5,5583.29,0,4.3,0.88
+ENC100493,PT64279,Riverside Medical Center,Northeast,5/25/25,5/31/25,General Medicine,Elective,GI,62,50-64,Male,Commercial,5.8,12463.45,0,3.9,0.77
+ENC100494,PT36086,Metro Regional,Northeast,2/28/25,3/8/25,General Medicine,Urgent,Maternal,11,0-12,Female,Commercial,8,16118.51,1,3.7,0.93
+ENC100495,PT47131,Riverside Medical Center,South,9/7/25,9/10/25,Pediatrics,Emergency,Infectious,22,18-34,Female,Commercial,2.2,4063.48,0,4.7,0.82
+ENC100496,PT20700,St. Catherine Hospital,Midwest,6/21/25,6/25/25,Cardiology,Urgent,Other,37,35-49,Female,Medicare,3.3,6990.43,0,3.4,0.82
+ENC100497,PT43676,St. Catherine Hospital,West,2/24/25,2/27/25,General Medicine,Emergency,Cardiac,41,35-49,Female,Medicare,2.6,6904.27,0,3.9,0.77
+ENC100498,PT93381,Northgate General,Northeast,5/12/25,5/18/25,OB/GYN,Elective,Injury,1,0-12,Male,Medicare,5.9,12913.88,0,4.6,0.83
+ENC100499,PT48328,St. Catherine Hospital,South,12/17/25,12/23/25,General Medicine,Emergency,Respiratory,58,50-64,Female,Medicaid,5.4,12648.68,0,4.1,0.79
+ENC100500,PT20235,Metro Regional,Northeast,4/7/25,4/9/25,Surgery,Emergency,Infectious,27,18-34,Male,Commercial,1.4,4901.96,0,3.7,0.82
+ENC100501,PT68673,Northgate General,South,3/7/25,3/15/25,OB/GYN,Urgent,Infectious,29,18-34,Male,Medicare,7.3,16485.7,0,2.7,0.76
+ENC100502,PT96634,St. Catherine Hospital,South,9/6/25,9/7/25,Orthopedics,Emergency,GI,54,50-64,Male,Medicare,0.2,408.52,0,2.5,0.79
+ENC100503,PT88073,Metro Regional,South,3/14/25,3/30/25,ICU,Urgent,Injury,86,75+,Female,Commercial,15.1,68519.18,0,4.8,0.86
+ENC100504,PT34666,Lakeside Health,Midwest,12/2/25,12/10/25,Neurology,Emergency,Respiratory,78,75+,Male,Medicaid,7.7,22117.86,0,3.9,0.76
+ENC100505,PT50850,Riverside Medical Center,Midwest,11/10/25,11/13/25,OB/GYN,Elective,GI,89,75+,Male,Commercial,2.1,5649.15,0,3.5,0.82
+ENC100506,PT57790,Metro Regional,Northeast,12/25/25,12/26/25,Emergency,Urgent,Other,37,35-49,Male,Medicare,1,1710.73,0,3.9,0.81
+ENC100507,PT32305,Riverside Medical Center,Midwest,11/30/25,12/5/25,Oncology,Emergency,Injury,10,0-12,Female,Medicaid,4.1,10615.69,0,3.3,0.79
+ENC100508,PT34182,St. Catherine Hospital,Midwest,3/30/25,4/1/25,Surgery,Urgent,Cardiac,19,18-34,Male,Medicaid,1.4,4077.38,0,3.7,0.78
+ENC100509,PT31299,St. Catherine Hospital,South,3/19/25,3/27/25,Orthopedics,Elective,Injury,31,18-34,Female,Medicare,7.9,17744.52,0,3.1,0.82
+ENC100510,PT99511,Metro Regional,Midwest,5/6/25,5/9/25,General Medicine,Elective,Cancer,27,18-34,Male,Commercial,2.7,7725.91,1,3.1,0.87
+ENC100511,PT77140,Riverside Medical Center,South,6/21/25,6/23/25,Oncology,Emergency,Injury,18,18-34,Female,Medicaid,1.9,6124.44,0,2.6,0.85
+ENC100512,PT85676,Riverside Medical Center,Midwest,11/18/25,11/25/25,OB/GYN,Emergency,Injury,13,13-17,Female,Medicaid,7,15541.24,0,2.9,0.82
+ENC100513,PT83490,Lakeside Health,Northeast,9/25/25,9/30/25,Surgery,Elective,GI,16,13-17,Male,Medicare,4.4,13287.98,1,4.5,0.77
+ENC100514,PT96321,Riverside Medical Center,Northeast,8/24/25,8/28/25,Orthopedics,Emergency,Injury,59,50-64,Female,Medicaid,4,10254.25,0,3.3,0.81
+ENC100515,PT19474,St. Catherine Hospital,Northeast,11/17/25,11/28/25,General Medicine,Emergency,Cancer,44,35-49,Male,Commercial,10.6,25363.36,0,4,0.73
+ENC100516,PT89346,Lakeside Health,South,8/24/25,8/29/25,Orthopedics,Emergency,Respiratory,3,0-12,Male,Medicare,4.4,10354.59,0,4.5,0.74
+ENC100517,PT15990,Lakeside Health,West,5/19/25,5/23/25,ICU,Urgent,Other,51,50-64,Female,Medicaid,3.3,12648.54,0,3.8,0.73
+ENC100518,PT52787,Riverside Medical Center,South,5/31/25,6/10/25,ICU,Emergency,Cancer,76,75+,Female,Commercial,9.6,44293.6,0,3.4,0.78
+ENC100519,PT63498,Northgate General,Midwest,7/8/25,7/10/25,Surgery,Elective,Injury,38,35-49,Female,Medicare,1.5,4575.85,0,4,0.76
+ENC100520,PT42207,Metro Regional,Northeast,2/2/25,2/3/25,Emergency,Urgent,Respiratory,28,18-34,Male,Self-Pay,0.7,1060.34,0,3.5,0.85
+ENC100521,PT23155,St. Catherine Hospital,West,9/28/25,10/3/25,Cardiology,Emergency,GI,24,18-34,Male,Medicaid,4.2,11126.68,0,4.6,0.75
+ENC100522,PT27306,Riverside Medical Center,Northeast,8/27/25,9/2/25,General Medicine,Emergency,Pediatric,34,18-34,Female,Medicaid,5.9,12908.3,0,5,0.79
+ENC100523,PT84218,Riverside Medical Center,Midwest,9/24/25,9/26/25,Pediatrics,Elective,Respiratory,25,18-34,Female,Commercial,1.2,2670.3,0,4.8,0.88
+ENC100524,PT38684,Northgate General,West,7/14/25,7/18/25,Neurology,Emergency,Cardiac,84,75+,Female,Self-Pay,3.3,8300.31,1,2.6,0.72
+ENC100525,PT37929,Metro Regional,Midwest,10/13/25,10/14/25,Emergency,Elective,Cardiac,90,75+,Male,Commercial,0.8,1535.41,0,3.4,0.83
+ENC100526,PT93101,Northgate General,Northeast,12/13/25,12/19/25,Orthopedics,Elective,Infectious,31,18-34,Female,Medicare,5.4,12777.75,0,3.9,0.73
+ENC100527,PT22948,Riverside Medical Center,Northeast,7/28/25,8/1/25,Surgery,Elective,Other,84,75+,Female,Medicare,3.2,9104.01,0,4.2,0.79
+ENC100528,PT92373,St. Catherine Hospital,South,6/12/25,6/16/25,Emergency,Emergency,Cancer,77,75+,Male,Medicaid,3.5,6491.14,0,2.7,0.79
+ENC100529,PT92886,Riverside Medical Center,Northeast,2/8/25,2/11/25,Oncology,Elective,Injury,6,0-12,Female,Medicaid,2.8,8247.28,0,2.9,0.78
+ENC100530,PT63869,Northgate General,South,10/12/25,10/14/25,OB/GYN,Elective,Maternal,44,35-49,Male,Medicaid,1.3,2545.88,0,4.7,0.8
+ENC100531,PT24897,Metro Regional,Midwest,11/26/25,11/29/25,Emergency,Emergency,Maternal,59,50-64,Male,Medicare,2.8,4616.11,0,3.4,0.89
+ENC100532,PT24027,Lakeside Health,Midwest,9/13/25,9/18/25,General Medicine,Elective,Cardiac,38,35-49,Male,Medicare,4.1,9255.84,0,3,0.78
+ENC100533,PT35624,Riverside Medical Center,Northeast,11/12/25,11/21/25,Cardiology,Urgent,Cardiac,41,35-49,Female,Medicare,8.1,21378.81,0,3,0.86
+ENC100534,PT61966,St. Catherine Hospital,West,11/11/25,11/12/25,Surgery,Elective,Injury,44,35-49,Male,Medicare,1,3100.57,0,4.1,0.74
+ENC100535,PT23825,Riverside Medical Center,Midwest,10/19/25,10/22/25,General Medicine,Emergency,Maternal,62,50-64,Female,Commercial,3,7002.44,0,3.4,0.81
+ENC100536,PT51008,Riverside Medical Center,South,7/3/25,7/8/25,Surgery,Emergency,GI,26,18-34,Male,Medicare,4.4,11689.04,0,4,0.84
+ENC100537,PT20393,St. Catherine Hospital,Midwest,2/6/25,2/10/25,Cardiology,Emergency,GI,54,50-64,Female,Medicaid,4,10716.81,0,3.3,0.83
+ENC100538,PT58625,St. Catherine Hospital,Northeast,1/2/25,1/4/25,Pediatrics,Emergency,Pediatric,22,18-34,Male,Medicare,1.9,3675.91,0,2.9,0.87
+ENC100539,PT11903,Lakeside Health,Midwest,3/16/25,3/20/25,General Medicine,Emergency,Injury,80,75+,Female,Medicaid,3.5,7675.21,0,4.8,0.79
+ENC100540,PT73812,Metro Regional,Midwest,6/7/25,6/11/25,Cardiology,Urgent,Injury,7,0-12,Male,Commercial,3.9,11586.44,0,4.1,0.88
+ENC100541,PT14985,Northgate General,Midwest,9/29/25,10/2/25,Cardiology,Emergency,Respiratory,6,0-12,Male,Medicare,2.1,5029.68,1,3.7,0.89
+ENC100542,PT27533,Metro Regional,West,6/16/25,6/18/25,Emergency,Elective,Pediatric,3,0-12,Female,Commercial,2,3269.93,0,3.4,0.84
+ENC100543,PT25717,St. Catherine Hospital,West,1/9/25,1/17/25,OB/GYN,Emergency,Infectious,31,18-34,Female,Commercial,7.1,15880.33,0,4.6,0.79
+ENC100544,PT84788,Northgate General,West,3/18/25,3/24/25,General Medicine,Emergency,Injury,55,50-64,Male,Medicare,5.1,11046.62,0,4.3,0.79
+ENC100545,PT14804,Metro Regional,South,12/24/25,1/2/26,ICU,Emergency,Respiratory,89,75+,Female,Commercial,8.2,38184.77,1,4.3,0.8
+ENC100546,PT48632,Riverside Medical Center,South,12/27/25,12/30/25,General Medicine,Emergency,GI,41,35-49,Male,Commercial,2.8,6107.21,0,3.5,0.82
+ENC100547,PT63202,St. Catherine Hospital,South,5/18/25,5/21/25,Pediatrics,Elective,Maternal,16,13-17,Male,Medicare,2.4,4915.16,1,3.9,0.73
+ENC100548,PT56439,Lakeside Health,Northeast,10/21/25,10/26/25,Neurology,Urgent,GI,33,18-34,Female,Medicare,4.8,10160.38,0,4.1,0.73
+ENC100549,PT71263,Northgate General,West,9/20/25,9/22/25,Neurology,Urgent,Cardiac,11,0-12,Female,Commercial,1.5,4396.09,0,3.6,0.78
+ENC100550,PT82278,Metro Regional,West,12/6/25,12/19/25,ICU,Emergency,Other,42,35-49,Male,Commercial,12.3,56483.55,0,3.5,0.88
+ENC100551,PT45426,Northgate General,Northeast,11/20/25,11/23/25,Cardiology,Elective,Maternal,66,65-74,Female,Medicare,2.2,5246.84,0,3.5,0.82
+ENC100552,PT84538,Metro Regional,West,8/18/25,8/28/25,Surgery,Emergency,GI,3,0-12,Male,Medicare,9.6,27741.52,1,3.9,0.8
+ENC100553,PT38618,Riverside Medical Center,West,5/25/25,5/29/25,Surgery,Urgent,GI,70,65-74,Female,Medicare,3.8,11143.13,0,3.1,0.9
+ENC100554,PT98597,Riverside Medical Center,Midwest,8/17/25,8/23/25,Orthopedics,Emergency,Other,20,18-34,Female,Medicare,5.7,9640.5,0,4.2,0.83
+ENC100555,PT55406,Northgate General,West,4/27/25,5/1/25,Pediatrics,Emergency,Other,61,50-64,Female,Commercial,3.6,6948.06,0,4.1,0.79
+ENC100556,PT76240,Metro Regional,Northeast,5/8/25,5/9/25,Emergency,Emergency,Infectious,74,65-74,Female,Medicaid,0.3,546.32,0,3.6,0.78
+ENC100557,PT88749,Riverside Medical Center,Northeast,8/11/25,8/17/25,OB/GYN,Emergency,Cancer,70,65-74,Male,Commercial,5.8,15007.53,0,4.2,0.8
+ENC100558,PT81337,Metro Regional,Midwest,7/28/25,7/30/25,Surgery,Emergency,Injury,60,50-64,Female,Medicare,1.9,5879.8,0,3.7,0.88
+ENC100559,PT86600,Northgate General,South,8/1/25,8/3/25,OB/GYN,Urgent,Pediatric,63,50-64,Male,Commercial,1.5,2750.29,0,3.5,0.79
+ENC100560,PT58285,St. Catherine Hospital,Midwest,5/21/25,5/23/25,Orthopedics,Elective,GI,17,13-17,Male,Medicare,1.8,3633.17,1,4.2,0.8
+ENC100561,PT13912,Northgate General,West,5/30/25,5/31/25,Cardiology,Urgent,Respiratory,12,0-12,Female,Commercial,0.7,2092.93,0,4.3,0.79
+ENC100562,PT54377,Riverside Medical Center,Northeast,1/4/25,1/8/25,Cardiology,Emergency,Cardiac,34,18-34,Female,Medicaid,4,10756.43,0,3.6,0.76
+ENC100563,PT26334,Metro Regional,Northeast,8/8/25,8/11/25,Emergency,Elective,Other,55,50-64,Male,Commercial,2.1,3387.65,0,3.3,0.84
+ENC100564,PT90019,St. Catherine Hospital,South,7/30/25,8/2/25,Emergency,Emergency,Other,56,50-64,Male,Medicare,2.8,4450.75,0,3.6,0.86
+ENC100565,PT31306,Lakeside Health,Northeast,12/8/25,12/9/25,Emergency,Emergency,Other,70,65-74,Male,Commercial,0.9,1616.22,0,3.4,0.79
+ENC100566,PT30526,St. Catherine Hospital,South,7/4/25,7/7/25,OB/GYN,Emergency,Cancer,28,18-34,Female,Commercial,2.3,5644.88,0,4.8,0.79
+ENC100567,PT32444,St. Catherine Hospital,Midwest,6/20/25,6/22/25,Emergency,Emergency,Maternal,78,75+,Male,Commercial,1.9,2871.67,1,3.9,0.86
+ENC100568,PT67830,Lakeside Health,West,1/25/25,1/26/25,Emergency,Elective,Pediatric,40,35-49,Female,Medicare,0.9,1457.66,0,3.7,0.7
+ENC100569,PT61410,Metro Regional,South,3/13/25,3/22/25,Surgery,Emergency,Injury,22,18-34,Male,Medicare,8.2,27562.76,0,3.1,0.8
+ENC100570,PT95394,Lakeside Health,Northeast,5/4/25,5/6/25,Pediatrics,Emergency,Cardiac,66,65-74,Female,Self-Pay,2,4187.72,0,4.3,0.82
+ENC100571,PT47463,St. Catherine Hospital,Northeast,5/18/25,5/20/25,General Medicine,Elective,Other,11,0-12,Male,Medicare,1.3,2846.04,0,3.5,0.82
+ENC100572,PT35404,Lakeside Health,Northeast,5/13/25,5/21/25,ICU,Emergency,Respiratory,36,35-49,Female,Self-Pay,7.2,23634.86,0,3.2,0.74
+ENC100573,PT14432,Lakeside Health,West,5/24/25,5/25/25,Surgery,Urgent,Infectious,71,65-74,Male,Commercial,0.9,3066.94,0,4.4,0.75
+ENC100574,PT10636,St. Catherine Hospital,South,10/8/25,10/16/25,ICU,Emergency,GI,70,65-74,Female,Medicaid,7.1,26705.15,0,3.8,0.77
+ENC100575,PT43624,Lakeside Health,Midwest,2/17/25,2/20/25,Pediatrics,Elective,GI,23,18-34,Male,Medicare,2.6,5244.06,0,2.4,0.76
+ENC100576,PT93322,St. Catherine Hospital,Northeast,5/2/25,5/4/25,General Medicine,Elective,Injury,15,13-17,Female,Medicare,1.4,3041.14,0,3.8,0.81
+ENC100577,PT57137,Lakeside Health,West,3/1/25,3/6/25,Neurology,Elective,GI,2,0-12,Male,Self-Pay,4.5,10173.11,0,4,0.75
+ENC100578,PT90418,Metro Regional,Northeast,4/23/25,4/25/25,Orthopedics,Elective,Cardiac,8,0-12,Female,Medicare,2,3792.64,0,3.7,0.79
+ENC100579,PT19150,Metro Regional,South,9/7/25,9/9/25,Neurology,Urgent,Pediatric,75,75+,Female,Medicaid,1.9,4835.32,1,4,0.85
+ENC100580,PT18398,Metro Regional,South,1/18/25,1/19/25,Cardiology,Elective,Cardiac,71,65-74,Male,Medicaid,0.7,1841.15,0,2.8,0.82
+ENC100581,PT85010,Lakeside Health,Northeast,5/4/25,5/5/25,General Medicine,Emergency,GI,46,35-49,Female,Commercial,0.9,1814.68,0,2.2,0.71
+ENC100582,PT19606,Lakeside Health,Midwest,1/9/25,1/17/25,Orthopedics,Emergency,Maternal,51,50-64,Female,Medicare,7.9,18300.21,0,3.1,0.8
+ENC100583,PT14676,Riverside Medical Center,Northeast,12/15/25,12/16/25,Emergency,Elective,Cardiac,29,18-34,Male,Medicare,0.8,1446.23,0,3.9,0.91
+ENC100584,PT46367,St. Catherine Hospital,Midwest,9/23/25,9/28/25,Cardiology,Emergency,Cardiac,17,13-17,Male,Medicaid,4.5,11145.01,0,2,0.88
+ENC100585,PT93234,Northgate General,West,3/30/25,4/3/25,Surgery,Emergency,Maternal,1,0-12,Male,Medicaid,3.1,8192.96,0,3.4,0.81
+ENC100586,PT72043,Riverside Medical Center,South,3/14/25,3/23/25,Orthopedics,Emergency,Respiratory,61,50-64,Female,Commercial,8.1,21288.79,1,2.5,0.81
+ENC100587,PT18920,Metro Regional,West,2/6/25,2/8/25,General Medicine,Emergency,Cardiac,3,0-12,Female,Commercial,1.5,3459.51,0,3.8,0.84
+ENC100588,PT85340,Metro Regional,South,6/22/25,6/26/25,Surgery,Emergency,Neurological,9,0-12,Male,Commercial,3.8,12202.3,0,5,0.86
+ENC100589,PT85920,St. Catherine Hospital,Northeast,10/3/25,10/4/25,Emergency,Elective,Other,72,65-74,Female,Medicare,0.6,1095.34,0,3.6,0.78
+ENC100590,PT82061,Northgate General,South,8/2/25,8/8/25,General Medicine,Elective,Infectious,53,50-64,Male,Commercial,5.6,12872.32,0,3.8,0.83
+ENC100591,PT91237,Lakeside Health,Midwest,11/18/25,11/22/25,Orthopedics,Elective,Cancer,44,35-49,Female,Medicaid,3.3,8127.09,1,4.4,0.67
+ENC100592,PT31588,St. Catherine Hospital,Northeast,5/6/25,5/10/25,Cardiology,Emergency,Other,19,18-34,Male,Medicare,3.5,8931.83,0,3.9,0.79
+ENC100593,PT98160,Metro Regional,Midwest,4/12/25,4/13/25,General Medicine,Emergency,Neurological,13,13-17,Male,Medicaid,1,2015.86,0,3.8,0.87
+ENC100594,PT38862,Metro Regional,South,6/24/25,7/7/25,Surgery,Elective,Cancer,42,35-49,Female,Commercial,12.3,44705.34,0,4.3,0.81
+ENC100595,PT82181,Northgate General,South,3/15/25,3/18/25,Orthopedics,Emergency,Cancer,32,18-34,Female,Medicare,2.5,6745.44,0,4.2,0.77
+ENC100596,PT62142,Northgate General,Northeast,12/23/25,12/24/25,Pediatrics,Elective,Injury,48,35-49,Female,Commercial,0.8,1590.67,0,4.1,0.8
+ENC100597,PT80152,Northgate General,West,3/9/25,3/10/25,Orthopedics,Emergency,Injury,15,13-17,Female,Medicaid,0.6,1392.78,0,3.8,0.84
+ENC100598,PT66503,Riverside Medical Center,Midwest,6/24/25,6/25/25,Pediatrics,Urgent,GI,21,18-34,Male,Commercial,0.6,1231.18,0,3.7,0.77
+ENC100599,PT67822,Northgate General,Northeast,7/10/25,7/17/25,ICU,Emergency,Respiratory,10,0-12,Male,Commercial,6.2,29213.23,0,4.4,0.73
+ENC100600,PT65464,Riverside Medical Center,Northeast,1/21/25,2/2/25,ICU,Elective,GI,38,35-49,Female,Commercial,11.3,51516.99,0,3.4,0.78
+ENC100601,PT80108,Riverside Medical Center,West,6/20/25,6/27/25,ICU,Elective,Cardiac,25,18-34,Female,Medicaid,6.9,29509.94,0,4.5,0.76
+ENC100602,PT76513,Northgate General,Midwest,6/15/25,6/16/25,Emergency,Emergency,Cancer,20,18-34,Male,Commercial,0.2,370.19,0,3.1,0.72
+ENC100603,PT22109,Riverside Medical Center,Midwest,4/5/25,4/8/25,General Medicine,Elective,Cardiac,50,50-64,Female,Medicare,2.8,6363.18,0,4.8,0.78
+ENC100604,PT84344,Lakeside Health,Northeast,2/16/25,2/24/25,General Medicine,Emergency,Infectious,45,35-49,Female,Medicaid,7.6,14127.52,0,4,0.8
+ENC100605,PT58245,Riverside Medical Center,South,1/17/25,1/20/25,General Medicine,Elective,GI,19,18-34,Male,Medicaid,2.1,4215.75,0,3.3,0.81
+ENC100606,PT39077,Metro Regional,West,1/4/25,1/6/25,Emergency,Elective,Injury,63,50-64,Female,Commercial,1.2,1900.71,0,4,0.84
+ENC100607,PT56279,Northgate General,Midwest,6/25/25,6/28/25,Neurology,Emergency,Cardiac,31,18-34,Female,Commercial,3,7953.73,0,3.5,0.74
+ENC100608,PT97027,Riverside Medical Center,West,2/2/25,2/9/25,Oncology,Emergency,Cardiac,31,18-34,Male,Medicare,6.8,23269.87,1,3.9,0.85
+ENC100609,PT87180,Riverside Medical Center,Northeast,12/17/25,12/18/25,Emergency,Elective,Pediatric,43,35-49,Female,Commercial,0.5,908.04,0,3.4,0.9
+ENC100610,PT85032,Lakeside Health,Northeast,3/31/25,4/1/25,Cardiology,Emergency,Injury,12,0-12,Male,Medicare,0.2,507.5,0,3.8,0.71
+ENC100611,PT51651,Northgate General,South,8/27/25,8/29/25,Neurology,Urgent,Maternal,38,35-49,Male,Commercial,1.2,3004.45,0,4.5,0.85
+ENC100612,PT80571,St. Catherine Hospital,South,9/3/25,9/5/25,General Medicine,Elective,Injury,52,50-64,Male,Medicare,1.9,3834.22,0,4.2,0.81
+ENC100613,PT44657,Riverside Medical Center,Northeast,6/30/25,7/3/25,Cardiology,Elective,Cardiac,11,0-12,Female,Commercial,2.9,8580.02,0,3.2,0.82
+ENC100614,PT71754,Metro Regional,South,11/19/25,11/22/25,Surgery,Emergency,GI,51,50-64,Female,Medicare,2.5,7524.89,1,3.3,0.86
+ENC100615,PT67560,Riverside Medical Center,Midwest,2/10/25,2/12/25,Pediatrics,Elective,Neurological,3,0-12,Female,Commercial,1.3,3374.57,0,4.1,0.84
+ENC100616,PT32481,Northgate General,South,3/27/25,4/2/25,General Medicine,Urgent,Respiratory,54,50-64,Female,Medicare,6,12699.27,0,4.1,0.85
+ENC100617,PT33981,Metro Regional,South,4/3/25,4/5/25,Neurology,Emergency,Other,3,0-12,Female,Commercial,1.5,4069.03,0,3.5,0.86
+ENC100618,PT15501,Northgate General,West,2/19/25,2/23/25,Neurology,Emergency,Cardiac,15,13-17,Male,Self-Pay,3.9,8911.03,0,4.9,0.8
+ENC100619,PT22579,Northgate General,Midwest,4/18/25,4/20/25,ICU,Emergency,Injury,31,18-34,Male,Medicare,1.5,6145.13,0,4.3,0.76
+ENC100620,PT49025,Metro Regional,South,4/25/25,4/29/25,OB/GYN,Emergency,Cancer,55,50-64,Female,Commercial,3.9,10734.47,1,3.5,0.87
+ENC100621,PT53008,Northgate General,South,10/7/25,10/12/25,Neurology,Elective,Neurological,65,65-74,Male,Commercial,4.3,12390.13,0,3.5,0.74
+ENC100622,PT24860,Riverside Medical Center,Midwest,4/21/25,4/29/25,Pediatrics,Emergency,Maternal,42,35-49,Male,Commercial,8,16147.32,0,3.6,0.82
+ENC100623,PT47519,St. Catherine Hospital,Northeast,11/16/25,11/19/25,ICU,Elective,Respiratory,11,0-12,Male,Commercial,2.1,9503.2,0,3.6,0.92
+ENC100624,PT64375,Riverside Medical Center,West,10/10/25,10/20/25,General Medicine,Emergency,Other,35,35-49,Male,Commercial,9.1,22446.14,0,4.5,0.72
+ENC100625,PT30931,Metro Regional,Northeast,11/26/25,11/27/25,Emergency,Emergency,GI,71,65-74,Male,Medicaid,0.5,833.23,0,4.3,0.85
+ENC100626,PT40440,Lakeside Health,West,2/8/25,2/11/25,Neurology,Emergency,Other,8,0-12,Female,Medicare,2.9,7948.45,0,3.9,0.76
+ENC100627,PT43075,St. Catherine Hospital,Northeast,12/26/25,12/28/25,Neurology,Urgent,Pediatric,65,65-74,Female,Commercial,1.1,3055.34,1,4.3,0.79
+ENC100628,PT55454,Riverside Medical Center,West,8/13/25,8/21/25,OB/GYN,Elective,Other,35,35-49,Male,Medicare,7.8,18131.53,0,4.2,0.81
+ENC100629,PT42974,Lakeside Health,Northeast,12/25/25,12/31/25,Neurology,Emergency,Infectious,0,0-12,Male,Commercial,5.2,14156.47,0,3.9,0.75
+ENC100630,PT76324,Lakeside Health,West,5/10/25,5/15/25,Neurology,Elective,Injury,63,50-64,Male,Self-Pay,4.8,11700.33,0,4.1,0.74
+ENC100631,PT39474,Riverside Medical Center,South,12/14/25,12/16/25,OB/GYN,Emergency,Cancer,2,0-12,Male,Commercial,1.1,2936.97,0,4.3,0.83
+ENC100632,PT49050,Metro Regional,Northeast,8/3/25,8/4/25,Neurology,Emergency,GI,33,18-34,Female,Medicaid,0.3,773.71,0,4.2,0.82
+ENC100633,PT44151,St. Catherine Hospital,South,1/27/25,1/30/25,Cardiology,Emergency,Cancer,17,13-17,Female,Medicaid,2.5,7177.48,0,3.4,0.88
+ENC100634,PT26462,Metro Regional,South,5/30/25,6/1/25,Cardiology,Urgent,Maternal,53,50-64,Male,Commercial,2,5252.02,0,3.5,0.83
+ENC100635,PT71716,Northgate General,Midwest,2/20/25,2/21/25,Emergency,Elective,Respiratory,5,0-12,Female,Commercial,0.2,404.51,0,3.5,0.8
+ENC100636,PT31189,Riverside Medical Center,Northeast,12/10/25,12/11/25,Emergency,Elective,Pediatric,8,0-12,Male,Commercial,0.7,1179.15,1,3.3,0.79
+ENC100637,PT36718,Lakeside Health,South,4/22/25,4/27/25,Oncology,Emergency,Cardiac,48,35-49,Male,Medicaid,4.8,15197.91,0,3,0.79
+ENC100638,PT81346,Metro Regional,South,3/23/25,3/28/25,General Medicine,Emergency,Other,90,75+,Male,Medicare,4.4,9733.98,0,4.3,0.87
+ENC100639,PT95396,Northgate General,Midwest,7/21/25,7/22/25,General Medicine,Elective,Cardiac,3,0-12,Female,Medicare,0.2,483.14,0,4.1,0.8
+ENC100640,PT70375,Riverside Medical Center,West,6/5/25,6/6/25,Emergency,Emergency,Cardiac,41,35-49,Male,Medicaid,0.3,537.94,0,2.9,0.78
+ENC100641,PT92470,Metro Regional,Northeast,2/5/25,2/6/25,Pediatrics,Urgent,Pediatric,73,65-74,Female,Medicaid,1,1914.39,1,3.8,0.81
+ENC100642,PT86876,Riverside Medical Center,Northeast,10/26/25,10/29/25,Emergency,Elective,Pediatric,26,18-34,Male,Medicare,2.1,3198.7,0,3.6,0.89
+ENC100643,PT53281,Northgate General,South,11/5/25,11/10/25,OB/GYN,Emergency,Maternal,44,35-49,Female,Medicare,4.9,10647.42,0,4,0.75
+ENC100644,PT79325,Lakeside Health,Northeast,9/29/25,10/3/25,Cardiology,Elective,Other,76,75+,Male,Medicare,4,9904.52,0,3.3,0.78
+ENC100645,PT39552,Riverside Medical Center,Northeast,8/14/25,8/19/25,ICU,Urgent,Injury,66,65-74,Female,Commercial,4.4,17835.6,0,3,0.78
+ENC100646,PT51444,Riverside Medical Center,Midwest,5/27/25,6/3/25,Orthopedics,Emergency,Pediatric,26,18-34,Female,Medicaid,6.2,13319.72,1,4.2,0.86
+ENC100647,PT58188,Riverside Medical Center,Northeast,7/17/25,7/24/25,ICU,Elective,Injury,68,65-74,Female,Commercial,6.6,26946.67,0,2.9,0.79
+ENC100648,PT96443,Metro Regional,Northeast,7/10/25,7/20/25,Oncology,Urgent,Infectious,61,50-64,Female,Commercial,9.5,29175.81,0,3.6,0.8
+ENC100649,PT86369,Northgate General,South,3/2/25,3/7/25,General Medicine,Emergency,Cancer,46,35-49,Female,Medicaid,4.1,9396.16,0,3.7,0.75
+ENC100650,PT54032,Lakeside Health,South,1/30/25,1/31/25,Cardiology,Urgent,Respiratory,40,35-49,Male,Commercial,0.6,1542.24,1,3.8,0.73
+ENC100651,PT68732,Metro Regional,West,4/3/25,4/4/25,Surgery,Emergency,Infectious,84,75+,Male,Commercial,0.2,682.88,0,4.1,0.86
+ENC100652,PT28211,Lakeside Health,South,6/15/25,6/18/25,Neurology,Elective,Maternal,79,75+,Female,Commercial,2.4,6514.5,0,4.9,0.75
+ENC100653,PT82394,St. Catherine Hospital,Midwest,2/28/25,3/5/25,General Medicine,Elective,Cardiac,90,75+,Male,Medicare,5,10705.81,1,2.9,0.76
+ENC100654,PT59772,St. Catherine Hospital,Northeast,2/8/25,2/10/25,Surgery,Elective,Other,61,50-64,Male,Medicaid,2,5887.91,0,4.4,0.8
+ENC100655,PT57944,Northgate General,West,11/7/25,11/13/25,OB/GYN,Emergency,Infectious,32,18-34,Male,Commercial,5.9,13504.86,1,2.4,0.73
+ENC100656,PT78964,St. Catherine Hospital,Northeast,5/17/25,5/23/25,Cardiology,Elective,Cardiac,9,0-12,Female,Commercial,5.3,18258.53,0,4.7,0.83
+ENC100657,PT66961,Metro Regional,Northeast,8/2/25,8/9/25,Orthopedics,Emergency,GI,11,0-12,Female,Medicare,6.6,15186.27,0,2.7,0.87
+ENC100658,PT16521,Metro Regional,West,7/11/25,7/14/25,Cardiology,Emergency,Cardiac,86,75+,Male,Self-Pay,2.4,5383.84,0,5,0.84
+ENC100659,PT35933,St. Catherine Hospital,South,9/26/25,9/28/25,Orthopedics,Emergency,Respiratory,33,18-34,Female,Commercial,1.1,2553.71,0,3.7,0.81
+ENC100660,PT25904,Northgate General,South,9/28/25,9/29/25,Pediatrics,Elective,GI,10,0-12,Female,Self-Pay,0.7,1418.78,0,4.7,0.85
+ENC100661,PT76139,Metro Regional,Northeast,4/19/25,4/23/25,OB/GYN,Emergency,Respiratory,20,18-34,Male,Medicaid,3.4,6989.17,0,4.6,0.83
+ENC100662,PT13163,Riverside Medical Center,Northeast,11/6/25,11/7/25,OB/GYN,Emergency,Respiratory,1,0-12,Female,Commercial,0.4,860.61,0,3.6,0.78
+ENC100663,PT28216,Metro Regional,Midwest,5/16/25,5/17/25,Pediatrics,Urgent,Maternal,48,35-49,Male,Medicaid,0.4,789.69,0,3.7,0.86
+ENC100664,PT63769,Northgate General,South,11/1/25,11/5/25,ICU,Emergency,Respiratory,53,50-64,Female,Medicare,3.5,13877.32,0,3.3,0.73
+ENC100665,PT72531,Lakeside Health,Midwest,5/28/25,6/2/25,Surgery,Emergency,Pediatric,34,18-34,Male,Medicare,4.1,12582.63,0,4.4,0.74
+ENC100666,PT55296,Metro Regional,Northeast,2/10/25,2/12/25,OB/GYN,Emergency,Maternal,67,65-74,Male,Medicare,1.1,2529,1,3.6,0.82
+ENC100667,PT87463,St. Catherine Hospital,Northeast,10/5/25,10/13/25,Cardiology,Emergency,Cardiac,43,35-49,Male,Medicaid,7.2,18855.55,0,3.2,0.77
+ENC100668,PT92703,Riverside Medical Center,South,1/12/25,1/17/25,Pediatrics,Elective,Neurological,87,75+,Male,Medicaid,4.7,11385.43,1,4.2,0.81
+ENC100669,PT21889,Metro Regional,South,10/9/25,10/10/25,Surgery,Emergency,Respiratory,69,65-74,Male,Medicaid,0.2,509.76,0,3.4,0.88
+ENC100670,PT95725,Northgate General,Northeast,1/16/25,1/20/25,Orthopedics,Emergency,GI,6,0-12,Female,Self-Pay,3.8,7534.53,0,3.7,0.82
+ENC100671,PT65293,Northgate General,Northeast,3/17/25,3/20/25,Oncology,Urgent,Respiratory,24,18-34,Male,Medicare,2.7,7747.69,0,4,0.82
+ENC100672,PT67259,St. Catherine Hospital,Northeast,8/9/25,8/13/25,OB/GYN,Elective,Other,68,65-74,Male,Medicaid,4,9560.52,0,3.5,0.81
+ENC100673,PT18558,St. Catherine Hospital,Northeast,12/10/25,12/13/25,OB/GYN,Elective,Cardiac,48,35-49,Female,Medicaid,3,7778.85,0,3.6,0.79
+ENC100674,PT65967,Lakeside Health,South,5/30/25,6/3/25,Surgery,Urgent,GI,68,65-74,Female,Commercial,3.8,13950.18,0,4.8,0.66
+ENC100675,PT75313,Riverside Medical Center,Northeast,2/14/25,2/17/25,General Medicine,Urgent,Cardiac,30,18-34,Female,Commercial,2.6,5999.4,0,3.8,0.83
+ENC100676,PT62270,St. Catherine Hospital,South,3/27/25,3/28/25,Orthopedics,Emergency,Cardiac,3,0-12,Male,Commercial,0.6,1525.38,0,3.7,0.71
+ENC100677,PT17604,Metro Regional,South,11/24/25,12/5/25,Orthopedics,Elective,Neurological,71,65-74,Male,Medicaid,10.3,22342.83,1,3.6,0.76
+ENC100678,PT57089,Riverside Medical Center,West,9/23/25,9/24/25,Pediatrics,Elective,Infectious,71,65-74,Female,Commercial,0.6,1251.89,1,4.2,0.81
+ENC100679,PT94233,St. Catherine Hospital,West,2/6/25,2/13/25,Pediatrics,Emergency,Other,58,50-64,Female,Medicare,6.5,14210.43,0,3.3,0.81
+ENC100680,PT75106,Lakeside Health,Northeast,5/21/25,5/28/25,Neurology,Emergency,Respiratory,36,35-49,Male,Commercial,6.2,17234.22,0,4.2,0.73
+ENC100681,PT22366,Metro Regional,Northeast,4/7/25,4/11/25,ICU,Emergency,Respiratory,0,0-12,Female,Commercial,3.9,17045.59,0,4,0.9
+ENC100682,PT96393,St. Catherine Hospital,Midwest,3/6/25,3/9/25,Oncology,Elective,Injury,66,65-74,Male,Medicare,2.4,7679.69,0,2.8,0.82
+ENC100683,PT96298,Metro Regional,South,11/5/25,11/6/25,General Medicine,Elective,Injury,60,50-64,Female,Commercial,0.5,1029.9,0,5,0.83
+ENC100684,PT25245,Northgate General,Northeast,8/14/25,8/17/25,Orthopedics,Elective,Other,60,50-64,Female,Medicaid,2.5,5302.24,0,4.8,0.84
+ENC100685,PT82078,Northgate General,Midwest,3/7/25,3/8/25,Orthopedics,Emergency,Other,15,13-17,Female,Commercial,0.5,1094.7,0,3.4,0.84
+ENC100686,PT46604,Metro Regional,Northeast,8/26/25,8/29/25,Emergency,Emergency,Other,66,65-74,Male,Medicaid,2.4,3712.06,0,3,0.86
+ENC100687,PT63430,Metro Regional,Northeast,5/31/25,6/5/25,Cardiology,Emergency,Cardiac,65,65-74,Male,Commercial,4.1,11379.09,0,4,0.81
+ENC100688,PT50066,St. Catherine Hospital,South,1/23/25,1/27/25,Surgery,Emergency,Cancer,78,75+,Female,Self-Pay,3.4,10355.68,1,3,0.78
+ENC100689,PT80435,St. Catherine Hospital,South,6/14/25,6/18/25,Neurology,Urgent,Maternal,51,50-64,Female,Medicare,3.9,9969.63,0,4.7,0.74
+ENC100690,PT99698,St. Catherine Hospital,South,3/9/25,3/13/25,Cardiology,Urgent,Injury,66,65-74,Female,Commercial,4,11430.77,0,3.6,0.8
+ENC100691,PT81559,Riverside Medical Center,West,3/31/25,4/3/25,General Medicine,Urgent,GI,36,35-49,Female,Commercial,2.1,4720.3,0,4.9,0.78
+ENC100692,PT93822,Metro Regional,Northeast,11/17/25,11/19/25,Pediatrics,Urgent,Cardiac,63,50-64,Male,Commercial,1.7,4116.97,0,3.4,0.83
+ENC100693,PT95141,Metro Regional,Northeast,9/17/25,9/21/25,Emergency,Urgent,Injury,63,50-64,Female,Medicare,3.3,5551.55,0,3.6,0.85
+ENC100694,PT18109,St. Catherine Hospital,Midwest,2/18/25,2/24/25,Orthopedics,Emergency,Pediatric,70,65-74,Male,Medicaid,5.7,12440.92,0,4.7,0.72
+ENC100695,PT32804,Northgate General,South,11/7/25,11/13/25,Cardiology,Emergency,Injury,77,75+,Female,Commercial,5.3,14636.9,0,3.7,0.73
+ENC100696,PT74966,Northgate General,South,7/29/25,8/2/25,ICU,Emergency,Other,0,0-12,Female,Medicare,3.9,14643.97,0,4,0.76
+ENC100697,PT63106,Riverside Medical Center,Northeast,11/16/25,11/17/25,Orthopedics,Emergency,Injury,70,65-74,Female,Medicare,0.3,677.19,0,4.6,0.82
+ENC100698,PT14513,Lakeside Health,West,9/30/25,10/2/25,Emergency,Emergency,Respiratory,72,65-74,Female,Medicare,1.5,2585.63,0,3.4,0.73
+ENC100699,PT18554,St. Catherine Hospital,Midwest,5/4/25,5/6/25,Emergency,Emergency,Injury,49,35-49,Female,Medicare,1.1,2286.33,0,2.9,0.79
+ENC100700,PT56848,Northgate General,Midwest,7/15/25,7/17/25,Pediatrics,Urgent,Cardiac,47,35-49,Female,Medicare,1.7,3699.68,0,3,0.75
+ENC100701,PT65454,Lakeside Health,South,7/13/25,7/14/25,Emergency,Emergency,Neurological,65,65-74,Female,Medicare,1,1672.82,0,4.1,0.69
+ENC100702,PT25094,Metro Regional,West,9/20/25,9/22/25,Surgery,Urgent,Respiratory,41,35-49,Male,Self-Pay,1.1,3372.52,0,4.1,0.82
+ENC100703,PT25416,Riverside Medical Center,South,4/1/25,4/2/25,Emergency,Elective,Infectious,37,35-49,Female,Commercial,0.4,734.39,0,4.3,0.81
+ENC100704,PT21640,St. Catherine Hospital,West,5/2/25,5/14/25,ICU,Elective,Other,73,65-74,Female,Commercial,11.3,48537.38,1,3.4,0.79
+ENC100705,PT60844,St. Catherine Hospital,Northeast,3/31/25,4/1/25,Neurology,Elective,Injury,71,65-74,Female,Commercial,0.3,832.41,0,3,0.8
+ENC100706,PT10706,Riverside Medical Center,South,4/19/25,4/27/25,Neurology,Emergency,Cardiac,18,18-34,Male,Medicare,7.1,22013.38,1,2.3,0.84
+ENC100707,PT61518,St. Catherine Hospital,West,2/28/25,3/3/25,Emergency,Elective,Cancer,75,75+,Male,Commercial,2.5,5059.05,0,5,0.83
+ENC100708,PT52833,Lakeside Health,Midwest,1/14/25,1/19/25,Surgery,Emergency,Maternal,29,18-34,Male,Self-Pay,5,15120.87,0,4.2,0.72
+ENC100709,PT51938,Riverside Medical Center,Midwest,12/10/25,12/15/25,Surgery,Urgent,Infectious,12,0-12,Male,Medicare,4.6,13292.91,0,4,0.76
+ENC100710,PT71134,Riverside Medical Center,West,1/28/25,1/29/25,Emergency,Emergency,Respiratory,79,75+,Male,Medicare,0.5,858.26,0,3.9,0.87
+ENC100711,PT57036,Metro Regional,Northeast,11/21/25,11/23/25,Cardiology,Emergency,Infectious,21,18-34,Female,Medicaid,1.7,4584.75,0,3,0.86
+ENC100712,PT75496,Northgate General,Midwest,1/2/25,1/5/25,Surgery,Elective,Neurological,18,18-34,Male,Commercial,2.2,7848.19,0,3.4,0.74
+ENC100713,PT78752,Lakeside Health,West,10/11/25,10/12/25,Pediatrics,Elective,Injury,24,18-34,Male,Medicaid,0.5,1179.26,1,4.9,0.76
+ENC100714,PT92809,Lakeside Health,West,4/30/25,5/1/25,Emergency,Emergency,Respiratory,44,35-49,Female,Commercial,0.5,924.65,0,4.1,0.79
+ENC100715,PT81931,Metro Regional,West,7/8/25,7/12/25,Cardiology,Elective,Other,15,13-17,Female,Medicare,3.2,7896.71,0,3.4,0.91
+ENC100716,PT56593,Lakeside Health,West,4/14/25,4/18/25,ICU,Emergency,Cardiac,14,13-17,Female,Self-Pay,4,18431.22,0,3.1,0.76
+ENC100717,PT54293,Metro Regional,Northeast,6/29/25,7/3/25,General Medicine,Elective,Cardiac,35,35-49,Female,Medicaid,3.1,5907.69,0,3.6,0.88
+ENC100718,PT31213,Lakeside Health,West,6/14/25,6/27/25,ICU,Emergency,Cardiac,19,18-34,Male,Medicaid,12.4,44604.78,0,3.4,0.7
+ENC100719,PT63962,St. Catherine Hospital,Midwest,7/13/25,7/16/25,OB/GYN,Emergency,Infectious,17,13-17,Female,Commercial,2.6,5935.39,0,5,0.8
+ENC100720,PT22522,Northgate General,South,5/24/25,5/30/25,Neurology,Emergency,Cancer,83,75+,Male,Medicaid,5.3,15826.41,0,3.8,0.77
+ENC100721,PT93810,Northgate General,Midwest,7/15/25,7/16/25,Orthopedics,Emergency,Cardiac,54,50-64,Male,Medicare,0.5,1088.95,0,3.2,0.79
+ENC100722,PT86053,Northgate General,West,10/29/25,11/6/25,Neurology,Emergency,Cancer,1,0-12,Female,Medicare,7.8,24215.13,0,3.7,0.84
+ENC100723,PT20775,Riverside Medical Center,South,6/8/25,6/9/25,Orthopedics,Emergency,GI,9,0-12,Female,Commercial,0.5,1300.59,0,4.1,0.83
+ENC100724,PT80735,St. Catherine Hospital,West,5/12/25,5/15/25,Cardiology,Emergency,Injury,74,65-74,Male,Commercial,2.1,6847.08,0,3.1,0.76
+ENC100725,PT20539,Northgate General,Northeast,2/18/25,2/19/25,Emergency,Emergency,Other,24,18-34,Male,Medicare,0.4,725.6,0,3.9,0.73
+ENC100726,PT74909,Riverside Medical Center,Northeast,5/12/25,5/13/25,Orthopedics,Emergency,Injury,13,13-17,Female,Commercial,0.3,800.25,0,4.6,0.89
+ENC100727,PT17893,Northgate General,Midwest,2/15/25,2/19/25,General Medicine,Emergency,Cardiac,60,50-64,Female,Medicaid,3.3,7933.47,1,4,0.8
+ENC100728,PT53936,Lakeside Health,Northeast,3/8/25,3/10/25,Emergency,Elective,Other,76,75+,Male,Medicaid,1.4,2313.21,0,3.2,0.77
+ENC100729,PT69207,St. Catherine Hospital,South,12/14/25,12/26/25,Oncology,Urgent,Pediatric,36,35-49,Male,Self-Pay,11.8,28402.87,0,3.4,0.79
+ENC100730,PT75592,Metro Regional,Northeast,2/2/25,2/10/25,ICU,Emergency,Injury,67,65-74,Female,Commercial,7.3,30080.71,0,2.6,0.85
+ENC100731,PT47674,St. Catherine Hospital,South,6/25/25,6/28/25,ICU,Urgent,Pediatric,38,35-49,Female,Self-Pay,2.6,8682.03,0,3.7,0.76
+ENC100732,PT92945,Metro Regional,Northeast,11/1/25,11/3/25,General Medicine,Emergency,Neurological,9,0-12,Male,Commercial,1.9,4583.26,0,4.1,0.86
+ENC100733,PT79688,Metro Regional,Northeast,12/14/25,12/15/25,Surgery,Emergency,Injury,72,65-74,Female,Medicare,0.5,1629.54,0,3.4,0.79
+ENC100734,PT28743,Riverside Medical Center,South,2/23/25,2/25/25,General Medicine,Elective,Pediatric,83,75+,Female,Medicaid,1.9,2989.07,0,5,0.81
+ENC100735,PT70410,Metro Regional,Midwest,3/1/25,3/2/25,Emergency,Elective,Maternal,89,75+,Male,Commercial,0.9,1591.54,1,4.2,0.81
+ENC100736,PT75747,Riverside Medical Center,Northeast,5/16/25,5/21/25,Neurology,Elective,Injury,9,0-12,Female,Commercial,4.9,14321.07,0,2.8,0.69
+ENC100737,PT40027,St. Catherine Hospital,Northeast,7/22/25,8/2/25,ICU,Emergency,Infectious,51,50-64,Female,Commercial,10.4,48328.91,1,2.5,0.79
+ENC100738,PT76440,Metro Regional,Northeast,12/17/25,12/22/25,Cardiology,Elective,Injury,56,50-64,Male,Medicare,4.2,12395.47,0,3.3,0.8
+ENC100739,PT90852,Northgate General,South,3/17/25,3/18/25,Emergency,Emergency,Respiratory,7,0-12,Male,Medicaid,0.4,675.16,0,4.6,0.77
+ENC100740,PT83539,St. Catherine Hospital,Northeast,3/2/25,3/3/25,Cardiology,Emergency,Other,86,75+,Female,Commercial,1,2410.81,0,4.4,0.8
+ENC100741,PT78627,Northgate General,Midwest,4/3/25,4/10/25,Neurology,Emergency,Infectious,9,0-12,Female,Commercial,6.2,15163.54,0,4.9,0.85
+ENC100742,PT67104,Riverside Medical Center,South,11/16/25,11/17/25,Oncology,Urgent,Infectious,24,18-34,Male,Medicare,0.5,1559.97,0,3.9,0.83
+ENC100743,PT34347,Riverside Medical Center,Midwest,1/11/25,1/24/25,Cardiology,Emergency,Infectious,88,75+,Male,Commercial,12.1,31029.04,0,3.6,0.83
+ENC100744,PT81569,Riverside Medical Center,South,5/19/25,5/21/25,Surgery,Elective,Infectious,50,50-64,Male,Medicaid,1.6,5107.13,0,3.2,0.84
+ENC100745,PT42776,Riverside Medical Center,Northeast,2/13/25,2/18/25,OB/GYN,Elective,Injury,61,50-64,Male,Self-Pay,4.7,11032.97,0,4.1,0.85
+ENC100746,PT57897,Lakeside Health,West,2/27/25,3/1/25,Cardiology,Elective,Other,44,35-49,Male,Medicaid,1.8,3609.67,0,3.8,0.77
+ENC100747,PT38299,St. Catherine Hospital,Midwest,12/1/25,12/5/25,OB/GYN,Elective,Infectious,68,65-74,Male,Medicaid,3.1,6945.57,0,3.8,0.81
+ENC100748,PT38171,St. Catherine Hospital,Northeast,1/1/25,1/2/25,Emergency,Urgent,GI,7,0-12,Male,Medicare,0.3,576.3,0,4.7,0.83
+ENC100749,PT24184,Lakeside Health,West,4/28/25,5/1/25,OB/GYN,Emergency,Neurological,61,50-64,Female,Medicaid,2.3,5538.18,0,3.8,0.65
+ENC100750,PT96515,Riverside Medical Center,South,12/1/25,12/2/25,OB/GYN,Emergency,Injury,6,0-12,Male,Commercial,0.4,826.96,1,4.7,0.9
+ENC100751,PT23300,Northgate General,South,8/10/25,8/12/25,Emergency,Elective,Respiratory,16,13-17,Male,Commercial,1.2,2113.11,0,2.7,0.84
+ENC100752,PT17763,Lakeside Health,West,1/27/25,1/28/25,General Medicine,Emergency,Injury,46,35-49,Female,Medicare,0.9,1785.04,0,5,0.76
+ENC100753,PT94250,Metro Regional,Northeast,6/19/25,6/20/25,OB/GYN,Emergency,Cardiac,40,35-49,Female,Commercial,0.8,2147.1,0,3.7,0.78
+ENC100754,PT59950,St. Catherine Hospital,West,12/21/25,12/24/25,Surgery,Emergency,GI,13,13-17,Male,Medicaid,2.4,7261.15,0,4.3,0.85
+ENC100755,PT49410,Riverside Medical Center,South,5/27/25,5/29/25,OB/GYN,Emergency,Other,72,65-74,Female,Medicare,1.8,3019.21,0,4.4,0.79
+ENC100756,PT76373,Metro Regional,Midwest,7/12/25,7/15/25,Pediatrics,Emergency,Injury,27,18-34,Male,Self-Pay,3,5644.21,0,3.6,0.86
+ENC100757,PT44498,Metro Regional,Northeast,7/14/25,7/16/25,Emergency,Emergency,Injury,78,75+,Female,Commercial,1.4,2895.94,1,4.2,0.79
+ENC100758,PT21512,Northgate General,Northeast,8/30/25,9/3/25,Surgery,Urgent,GI,1,0-12,Female,Medicare,3.7,11587.21,0,4.4,0.87
+ENC100759,PT75670,Northgate General,West,3/10/25,3/22/25,ICU,Emergency,Cardiac,21,18-34,Female,Medicaid,11.2,46905.13,1,3.2,0.72
+ENC100760,PT25839,Riverside Medical Center,Northeast,11/3/25,11/11/25,ICU,Urgent,Other,27,18-34,Male,Commercial,7.5,30580.22,0,3.2,0.82
+ENC100761,PT59768,St. Catherine Hospital,Northeast,12/27/25,1/2/26,Oncology,Urgent,Injury,54,50-64,Female,Medicare,6,16547.62,0,3.9,0.72
+ENC100762,PT95415,Metro Regional,South,2/22/25,2/23/25,Pediatrics,Emergency,Respiratory,36,35-49,Male,Medicare,0.8,1638.28,0,3.8,0.84
+ENC100763,PT94251,Lakeside Health,South,10/26/25,10/28/25,Emergency,Elective,Cardiac,14,13-17,Female,Self-Pay,1.9,3269.41,0,4.5,0.73
+ENC100764,PT42470,Northgate General,Northeast,10/26/25,10/31/25,General Medicine,Elective,Other,51,50-64,Female,Medicaid,4.9,9953.32,0,4.3,0.83
+ENC100765,PT80226,Lakeside Health,West,9/28/25,9/30/25,Emergency,Elective,Cardiac,87,75+,Female,Commercial,1.1,2341.16,0,3.7,0.73
+ENC100766,PT65140,Metro Regional,Midwest,5/16/25,5/22/25,General Medicine,Emergency,GI,12,0-12,Female,Medicare,5.3,11355.02,0,4.3,0.89
+ENC100767,PT53142,St. Catherine Hospital,West,6/21/25,6/25/25,Surgery,Emergency,Cardiac,22,18-34,Male,Medicare,3.3,11962.75,0,2.7,0.76
+ENC100768,PT22593,Metro Regional,Northeast,11/3/25,11/14/25,Neurology,Emergency,Cardiac,43,35-49,Male,Commercial,10.6,31092.96,1,3.3,0.83
+ENC100769,PT43871,Northgate General,Northeast,2/25/25,3/1/25,Neurology,Elective,Other,66,65-74,Female,Medicare,3.6,7995.33,0,4.1,0.77
+ENC100770,PT68671,Northgate General,South,10/30/25,11/2/25,Orthopedics,Urgent,Cardiac,12,0-12,Female,Commercial,2.4,6697.41,0,4.6,0.8
+ENC100771,PT98795,St. Catherine Hospital,Northeast,12/3/25,12/6/25,OB/GYN,Elective,Respiratory,21,18-34,Male,Commercial,2.7,6586.42,0,4,0.81
+ENC100772,PT10440,St. Catherine Hospital,South,9/6/25,9/15/25,General Medicine,Elective,Neurological,21,18-34,Male,Medicare,8.6,20124.62,0,4.6,0.83
+ENC100773,PT74597,Metro Regional,Northeast,5/5/25,5/8/25,Oncology,Urgent,Pediatric,56,50-64,Male,Commercial,2.6,6870.76,0,4.4,0.85
+ENC100774,PT86169,St. Catherine Hospital,South,7/24/25,7/28/25,Cardiology,Elective,Injury,7,0-12,Male,Medicare,3.8,11345.15,0,3.6,0.83
+ENC100775,PT95606,Northgate General,West,1/19/25,1/22/25,Cardiology,Emergency,Cardiac,59,50-64,Female,Commercial,2.1,6462.79,1,3.8,0.74
+ENC100776,PT48141,Northgate General,West,12/7/25,12/11/25,Neurology,Urgent,Other,38,35-49,Female,Medicaid,3.3,7660.15,0,4.1,0.8
+ENC100777,PT20662,St. Catherine Hospital,West,5/5/25,5/6/25,OB/GYN,Emergency,GI,29,18-34,Male,Commercial,1,2212.99,0,3.6,0.86
+ENC100778,PT34386,Northgate General,West,1/21/25,1/25/25,General Medicine,Emergency,Pediatric,78,75+,Male,Medicaid,4,8243.09,0,4.8,0.71
+ENC100779,PT86547,Lakeside Health,Midwest,10/17/25,10/21/25,Cardiology,Emergency,Maternal,74,65-74,Male,Commercial,3.3,7823.75,0,3.2,0.77
+ENC100780,PT89013,Northgate General,Midwest,8/29/25,9/4/25,Surgery,Urgent,GI,73,65-74,Female,Medicare,5.8,21198.77,0,4.1,0.81
+ENC100781,PT67336,Northgate General,West,8/16/25,8/26/25,Oncology,Emergency,Cancer,80,75+,Female,Commercial,9.5,31980.23,0,4.1,0.84
+ENC100782,PT21046,Lakeside Health,West,1/20/25,1/29/25,Surgery,Emergency,Injury,21,18-34,Male,Commercial,8.1,31846.65,0,3.5,0.78
+ENC100783,PT20972,Riverside Medical Center,West,10/2/25,10/5/25,Cardiology,Emergency,GI,77,75+,Female,Medicare,2.2,5450.74,0,3.6,0.82
+ENC100784,PT53035,Lakeside Health,South,8/21/25,8/29/25,ICU,Emergency,GI,16,13-17,Female,Medicaid,7.9,34206.45,0,3.6,0.77
+ENC100785,PT62942,St. Catherine Hospital,Northeast,10/17/25,10/23/25,OB/GYN,Emergency,Other,30,18-34,Male,Medicaid,5.5,10477.56,1,4.4,0.77
+ENC100786,PT12914,St. Catherine Hospital,West,10/29/25,10/31/25,Cardiology,Elective,Infectious,50,50-64,Female,Commercial,1.4,3864.21,0,3.6,0.78
+ENC100787,PT71747,Lakeside Health,West,3/19/25,3/23/25,General Medicine,Urgent,Injury,67,65-74,Female,Commercial,3.1,7839.8,0,3.3,0.7
+ENC100788,PT59005,Lakeside Health,South,3/18/25,3/20/25,OB/GYN,Emergency,Neurological,52,50-64,Female,Medicaid,1.1,2578.76,0,4.6,0.81
+ENC100789,PT11107,Metro Regional,West,12/4/25,12/8/25,Emergency,Emergency,Infectious,50,50-64,Male,Medicare,3.3,6371.31,0,3.9,0.86
+ENC100790,PT18610,Northgate General,South,7/13/25,7/16/25,Emergency,Emergency,Cancer,34,18-34,Female,Commercial,2.5,5102.92,1,4.3,0.74
+ENC100791,PT50888,Northgate General,West,6/9/25,6/14/25,General Medicine,Emergency,Maternal,53,50-64,Female,Medicaid,4.5,8771.11,0,4.4,0.79
+ENC100792,PT75031,Lakeside Health,Northeast,4/15/25,4/19/25,Orthopedics,Elective,Infectious,43,35-49,Female,Medicare,3.6,9367.95,1,5,0.8
+ENC100793,PT84285,St. Catherine Hospital,West,8/22/25,8/23/25,Emergency,Elective,Respiratory,43,35-49,Female,Medicare,0.5,829.26,0,4.4,0.84
+ENC100794,PT48816,Lakeside Health,Northeast,10/3/25,10/12/25,Neurology,Elective,Infectious,53,50-64,Female,Commercial,8.9,26638.49,0,3.3,0.71
+ENC100795,PT36582,St. Catherine Hospital,Midwest,1/1/25,1/4/25,General Medicine,Emergency,GI,54,50-64,Male,Medicare,2.3,4808.23,0,4.2,0.67
+ENC100796,PT97146,Lakeside Health,Northeast,7/21/25,7/23/25,Orthopedics,Elective,Other,30,18-34,Female,Commercial,1.4,3415.34,0,3.6,0.77
+ENC100797,PT51268,Riverside Medical Center,Midwest,12/29/25,1/4/26,Orthopedics,Emergency,Cancer,12,0-12,Female,Medicaid,5.9,14803.2,0,3.6,0.78
+ENC100798,PT38384,St. Catherine Hospital,Northeast,4/13/25,4/16/25,Surgery,Emergency,Infectious,27,18-34,Female,Commercial,2.5,7945.23,0,3.1,0.82
+ENC100799,PT49807,Riverside Medical Center,West,4/13/25,4/15/25,Pediatrics,Urgent,Neurological,37,35-49,Female,Medicaid,1.2,2388.49,0,3.7,0.86
+ENC100800,PT11088,Northgate General,South,11/17/25,11/23/25,Surgery,Elective,Infectious,14,13-17,Female,Medicaid,5.8,17513.5,0,4.2,0.82
+ENC100801,PT37173,Lakeside Health,West,1/23/25,1/25/25,Neurology,Urgent,Respiratory,16,13-17,Male,Medicaid,1.2,2969.16,0,3.9,0.82
+ENC100802,PT56399,St. Catherine Hospital,Northeast,5/26/25,5/30/25,OB/GYN,Urgent,Other,86,75+,Male,Commercial,3.3,8544.97,1,3.2,0.85
+ENC100803,PT92658,Northgate General,Northeast,6/17/25,6/23/25,ICU,Elective,Other,25,18-34,Male,Commercial,5.9,26782.14,0,2.9,0.85
+ENC100804,PT76439,Metro Regional,South,10/19/25,10/21/25,Emergency,Urgent,Infectious,67,65-74,Female,Medicare,1.7,3086.53,0,5,0.9
+ENC100805,PT80315,Lakeside Health,South,2/17/25,2/22/25,Surgery,Emergency,Infectious,11,0-12,Male,Medicare,4.9,14513.65,1,4.1,0.81
+ENC100806,PT59040,St. Catherine Hospital,South,6/8/25,6/26/25,Neurology,Emergency,Respiratory,88,75+,Male,Medicaid,17.2,40081.82,0,3.2,0.8
+ENC100807,PT19952,Metro Regional,West,2/25/25,2/27/25,Emergency,Emergency,Infectious,19,18-34,Female,Commercial,1.2,2651.14,0,4,0.79
+ENC100808,PT45182,St. Catherine Hospital,West,10/15/25,10/16/25,Emergency,Emergency,Cancer,35,35-49,Female,Medicaid,0.8,1374.49,0,5,0.9
+ENC100809,PT99732,Metro Regional,South,8/19/25,8/22/25,General Medicine,Emergency,GI,71,65-74,Male,Commercial,3,6926.52,1,4.3,0.84
+ENC100810,PT13975,Riverside Medical Center,West,7/1/25,7/3/25,Emergency,Emergency,Respiratory,18,18-34,Female,Commercial,1.4,2722.41,0,2,0.87
+ENC100811,PT89127,Northgate General,South,5/24/25,6/1/25,Orthopedics,Elective,GI,50,50-64,Female,Commercial,7.5,18253.76,0,5,0.76
+ENC100812,PT71603,Northgate General,South,2/25/25,2/27/25,Emergency,Elective,Injury,71,65-74,Male,Medicaid,1.5,2360.34,0,2.6,0.82
+ENC100813,PT35551,Riverside Medical Center,Midwest,12/3/25,12/5/25,Neurology,Elective,GI,2,0-12,Female,Commercial,1.7,4473.86,0,3.8,0.72
+ENC100814,PT80018,St. Catherine Hospital,Northeast,8/25/25,9/15/25,Oncology,Emergency,Infectious,2,0-12,Male,Commercial,21,63860.35,0,3,0.78
+ENC100815,PT85319,Riverside Medical Center,Northeast,4/27/25,5/1/25,Pediatrics,Elective,Cardiac,71,65-74,Female,Medicaid,3.9,7613.9,0,3.5,0.82
+ENC100816,PT13889,Lakeside Health,South,6/1/25,6/3/25,Orthopedics,Emergency,Cancer,23,18-34,Female,Medicare,1.3,3787.57,1,4.1,0.77
+ENC100817,PT19577,Riverside Medical Center,South,9/23/25,9/24/25,Emergency,Emergency,Pediatric,82,75+,Female,Commercial,0.4,705.08,0,2.5,0.86
+ENC100818,PT69916,Riverside Medical Center,Midwest,9/20/25,9/22/25,ICU,Emergency,Infectious,84,75+,Female,Commercial,1.8,7677.8,0,3.7,0.78
+ENC100819,PT99918,Metro Regional,South,6/18/25,6/23/25,Oncology,Emergency,Respiratory,80,75+,Male,Medicare,4.4,13000.09,0,4.6,0.87
+ENC100820,PT12156,Lakeside Health,Northeast,4/21/25,4/27/25,ICU,Emergency,Cancer,90,75+,Male,Commercial,5.9,30802.9,0,3.3,0.8
+ENC100821,PT69910,Metro Regional,Northeast,8/29/25,8/30/25,Emergency,Elective,Injury,74,65-74,Male,Commercial,0.5,945.2,0,2.9,0.93
+ENC100822,PT22287,St. Catherine Hospital,West,8/29/25,8/30/25,Emergency,Elective,GI,34,18-34,Female,Medicare,0.2,373.32,0,3.6,0.83
+ENC100823,PT68510,Riverside Medical Center,Midwest,8/7/25,8/9/25,Cardiology,Elective,Infectious,90,75+,Female,Commercial,1.1,2723.31,0,3.7,0.8
+ENC100824,PT66097,St. Catherine Hospital,Northeast,1/27/25,2/2/25,Neurology,Emergency,Respiratory,31,18-34,Female,Medicare,6,17301.64,0,3.5,0.75
+ENC100825,PT18139,St. Catherine Hospital,Midwest,6/22/25,6/26/25,Oncology,Elective,Infectious,53,50-64,Female,Commercial,3.2,10168.71,0,3.2,0.87
+ENC100826,PT71264,Riverside Medical Center,Midwest,8/13/25,8/15/25,Surgery,Elective,Maternal,0,0-12,Male,Commercial,1.3,4144.02,0,4.2,0.85
+ENC100827,PT90732,Metro Regional,South,12/13/25,12/18/25,Oncology,Emergency,Maternal,87,75+,Female,Commercial,4.9,13885.02,0,4.3,0.84
+ENC100828,PT87709,Lakeside Health,West,7/11/25,7/14/25,Pediatrics,Elective,Respiratory,53,50-64,Female,Commercial,2.4,4772.18,0,3.3,0.69
+ENC100829,PT12609,Lakeside Health,South,5/6/25,5/14/25,ICU,Emergency,Injury,86,75+,Female,Commercial,8,31449.58,1,3,0.71
+ENC100830,PT32132,St. Catherine Hospital,South,7/22/25,7/24/25,Emergency,Emergency,Cancer,32,18-34,Male,Commercial,1.1,2193.83,0,3.8,0.83
+ENC100831,PT31674,Lakeside Health,Midwest,3/6/25,3/10/25,Neurology,Emergency,Cardiac,28,18-34,Female,Medicaid,3.5,9751.8,0,3.3,0.76
+ENC100832,PT50795,Northgate General,South,2/3/25,2/10/25,Orthopedics,Emergency,Cancer,47,35-49,Male,Medicaid,6.3,14493.2,0,4,0.7
+ENC100833,PT22871,Metro Regional,Midwest,9/5/25,9/7/25,Oncology,Emergency,Respiratory,78,75+,Male,Commercial,1.8,4967.62,0,4.8,0.87
+ENC100834,PT86890,Northgate General,Northeast,12/26/25,12/27/25,Emergency,Emergency,Respiratory,49,35-49,Male,Medicare,0.9,1466.88,0,3.7,0.72
+ENC100835,PT79908,Riverside Medical Center,West,11/5/25,11/6/25,General Medicine,Emergency,GI,72,65-74,Female,Medicare,0.4,824.93,0,3.2,0.87
+ENC100836,PT82750,Riverside Medical Center,Midwest,8/2/25,8/4/25,OB/GYN,Urgent,Injury,19,18-34,Female,Medicaid,1.6,3400.8,0,4.1,0.83
+ENC100837,PT27838,Lakeside Health,Midwest,1/15/25,1/17/25,Emergency,Emergency,GI,70,65-74,Female,Commercial,1.2,2223.24,0,3.6,0.73
+ENC100838,PT11311,Metro Regional,Northeast,12/27/25,1/7/26,ICU,Emergency,Respiratory,66,65-74,Male,Commercial,10.7,51085.05,1,3.5,0.88
+ENC100839,PT91956,Metro Regional,West,6/14/25,6/15/25,General Medicine,Emergency,Infectious,81,75+,Male,Commercial,0.4,1026.02,0,4.2,0.85
+ENC100840,PT36001,Lakeside Health,Northeast,4/16/25,4/19/25,Orthopedics,Urgent,Cancer,5,0-12,Male,Commercial,2.9,9530.44,0,4.3,0.8
+ENC100841,PT69063,Metro Regional,Midwest,11/22/25,12/2/25,General Medicine,Elective,Maternal,34,18-34,Female,Commercial,9.1,17417.55,0,3.7,0.84
+ENC100842,PT91848,Lakeside Health,West,9/30/25,10/9/25,ICU,Urgent,Maternal,8,0-12,Female,Medicaid,8.1,27887.75,0,3.6,0.76
+ENC100843,PT13254,Northgate General,Midwest,10/1/25,10/2/25,OB/GYN,Emergency,Cancer,36,35-49,Male,Medicaid,0.7,1765.24,0,5,0.77
+ENC100844,PT10492,Lakeside Health,West,4/12/25,4/14/25,OB/GYN,Emergency,Infectious,69,65-74,Female,Commercial,1.7,3994.06,0,4.6,0.76
+ENC100845,PT10488,Riverside Medical Center,Northeast,12/29/25,12/31/25,Emergency,Elective,Cardiac,58,50-64,Male,Medicare,1.4,2805.59,0,4.2,0.89
+ENC100846,PT24069,Northgate General,South,6/15/25,6/18/25,Neurology,Emergency,Infectious,68,65-74,Male,Commercial,2.2,6400.73,0,4,0.76
+ENC100847,PT14649,Northgate General,West,7/13/25,7/16/25,Pediatrics,Elective,Respiratory,67,65-74,Female,Medicare,2.3,5312.36,0,3.3,0.81
+ENC100848,PT83797,Riverside Medical Center,South,10/2/25,10/4/25,Emergency,Urgent,Cancer,90,75+,Female,Medicare,1.2,2568.12,1,4.4,0.78
+ENC100849,PT64532,Metro Regional,South,8/29/25,9/1/25,Orthopedics,Emergency,Cardiac,80,75+,Female,Commercial,2.6,7582.02,0,4,0.76
+ENC100850,PT98203,Metro Regional,Midwest,3/4/25,3/5/25,OB/GYN,Urgent,Other,53,50-64,Female,Medicaid,0.6,1174.39,1,3.6,0.85
+ENC100851,PT82132,Northgate General,South,4/21/25,4/22/25,Emergency,Elective,Cancer,79,75+,Male,Self-Pay,0.5,895.66,0,3.6,0.79
+ENC100852,PT96685,Lakeside Health,West,5/12/25,5/26/25,Neurology,Emergency,Infectious,4,0-12,Female,Medicare,13.6,35314.6,0,3.1,0.75
+ENC100853,PT31469,Northgate General,South,12/12/25,12/15/25,Surgery,Emergency,Injury,65,65-74,Female,Medicare,2.5,7067.19,1,4.5,0.72
+ENC100854,PT35901,Riverside Medical Center,West,9/18/25,9/21/25,Orthopedics,Emergency,Injury,47,35-49,Female,Medicare,2.1,5658.2,0,4.3,0.83
+ENC100855,PT86445,Northgate General,South,5/14/25,5/17/25,Neurology,Elective,Cardiac,87,75+,Female,Commercial,2.7,8651.68,1,4,0.79
+ENC100856,PT32039,Northgate General,South,9/26/25,9/30/25,OB/GYN,Emergency,Other,45,35-49,Male,Commercial,4,8946.06,0,3.9,0.74
+ENC100857,PT15150,Northgate General,Midwest,9/27/25,10/1/25,Neurology,Emergency,Maternal,16,13-17,Male,Medicare,3.1,8596.51,0,3.5,0.73
+ENC100858,PT70221,Riverside Medical Center,South,5/24/25,5/25/25,Emergency,Elective,Cardiac,65,65-74,Female,Commercial,0.9,1722.9,1,2.4,0.81
+ENC100859,PT82085,Riverside Medical Center,West,5/28/25,5/30/25,Emergency,Emergency,Maternal,86,75+,Female,Medicaid,1.2,1621.29,0,2.9,0.85
+ENC100860,PT97136,Riverside Medical Center,South,11/23/25,11/28/25,OB/GYN,Emergency,Cancer,1,0-12,Female,Medicare,4.4,12000.69,0,3.5,0.84
+ENC100861,PT93500,Metro Regional,Northeast,7/25/25,7/28/25,Orthopedics,Elective,Respiratory,5,0-12,Female,Commercial,2.4,5429.38,0,3.4,0.8
+ENC100862,PT20820,Riverside Medical Center,South,2/24/25,2/28/25,Neurology,Emergency,Neurological,60,50-64,Female,Commercial,3.9,11401.59,1,4.1,0.83
+ENC100863,PT79488,Northgate General,South,9/20/25,9/21/25,Emergency,Emergency,Cardiac,50,50-64,Male,Self-Pay,0.6,1045.11,0,4.2,0.82
+ENC100864,PT86150,St. Catherine Hospital,West,8/4/25,8/10/25,Oncology,Emergency,Cardiac,49,35-49,Female,Commercial,5.6,19396.23,0,3.8,0.75
+ENC100865,PT72830,Northgate General,Northeast,7/5/25,7/9/25,OB/GYN,Emergency,GI,8,0-12,Female,Commercial,3.4,8684.79,0,4.7,0.78
+ENC100866,PT83781,St. Catherine Hospital,Northeast,9/22/25,9/28/25,Neurology,Emergency,Injury,52,50-64,Female,Commercial,6,18309.01,0,3.4,0.85
+ENC100867,PT85417,Riverside Medical Center,Midwest,11/28/25,12/5/25,OB/GYN,Elective,Other,51,50-64,Male,Medicare,6.7,14961.75,0,3.8,0.77
+ENC100868,PT50189,Lakeside Health,Northeast,5/1/25,5/3/25,Cardiology,Urgent,GI,77,75+,Female,Self-Pay,1.6,3444.8,0,3.9,0.8
+ENC100869,PT13613,St. Catherine Hospital,West,6/3/25,6/7/25,Neurology,Emergency,Pediatric,35,35-49,Male,Commercial,3.8,10291.48,0,4.6,0.86
+ENC100870,PT51057,Lakeside Health,Midwest,3/11/25,3/14/25,Surgery,Urgent,Infectious,31,18-34,Female,Medicaid,2.7,7088.69,0,4,0.74
+ENC100871,PT28160,St. Catherine Hospital,South,8/25/25,9/4/25,Neurology,Elective,Pediatric,7,0-12,Male,Commercial,9.7,28873.73,0,3.8,0.79
+ENC100872,PT20235,St. Catherine Hospital,Northeast,5/27/25,5/31/25,Orthopedics,Elective,Injury,51,50-64,Male,Medicare,4,8560.33,0,2.9,0.84
+ENC100873,PT21243,Northgate General,Midwest,5/5/25,5/6/25,Surgery,Elective,Infectious,58,50-64,Female,Commercial,0.7,2308.59,1,3.4,0.77
+ENC100874,PT72762,Northgate General,West,9/12/25,9/15/25,Oncology,Elective,Neurological,25,18-34,Female,Medicare,2.3,6313.94,1,4.6,0.69
+ENC100875,PT55407,St. Catherine Hospital,Midwest,5/29/25,5/31/25,Pediatrics,Elective,Other,66,65-74,Female,Medicare,1.4,2574.49,0,2.7,0.8
+ENC100876,PT58584,Riverside Medical Center,Northeast,6/19/25,6/20/25,OB/GYN,Emergency,Cardiac,85,75+,Male,Medicare,0.6,1438.95,0,4.7,0.84
+ENC100877,PT77066,Northgate General,Northeast,6/10/25,6/14/25,Cardiology,Emergency,Infectious,15,13-17,Male,Commercial,3.5,9237.97,0,4.2,0.81
+ENC100878,PT59343,Lakeside Health,West,4/5/25,4/7/25,Orthopedics,Emergency,Maternal,52,50-64,Female,Medicaid,1.7,3919.06,0,3.5,0.71
+ENC100879,PT66700,Riverside Medical Center,West,2/15/25,2/19/25,Emergency,Emergency,Cancer,63,50-64,Female,Self-Pay,3.5,6433.6,0,3.2,0.81
+ENC100880,PT17742,Riverside Medical Center,Northeast,10/29/25,11/4/25,Oncology,Elective,Pediatric,1,0-12,Female,Medicare,5.1,13428.02,0,5,0.86
+ENC100881,PT86600,Lakeside Health,South,2/3/25,2/6/25,Cardiology,Emergency,Cancer,16,13-17,Female,Medicare,2.4,6774.6,0,4.7,0.75
+ENC100882,PT50389,Northgate General,Northeast,4/29/25,5/1/25,General Medicine,Emergency,Cardiac,36,35-49,Male,Medicaid,1.2,2855.88,0,3.8,0.72
+ENC100883,PT23969,Metro Regional,South,9/1/25,9/5/25,Cardiology,Emergency,Infectious,12,0-12,Female,Commercial,3.1,9164.8,0,4,0.89
+ENC100884,PT83198,Metro Regional,Northeast,2/17/25,2/25/25,General Medicine,Emergency,Cancer,32,18-34,Female,Medicaid,8,16610.88,0,3.3,0.83
+ENC100885,PT76115,Metro Regional,West,8/28/25,8/30/25,Orthopedics,Elective,Respiratory,13,13-17,Male,Commercial,2,4765.56,0,4,0.88
+ENC100886,PT14772,St. Catherine Hospital,West,9/25/25,9/28/25,Orthopedics,Elective,Respiratory,81,75+,Male,Medicaid,2.3,5294.21,1,3.5,0.74
+ENC100887,PT27373,Northgate General,Northeast,8/30/25,9/5/25,Orthopedics,Emergency,Cardiac,54,50-64,Male,Commercial,5.7,15754.73,0,3.9,0.78
+ENC100888,PT11417,Lakeside Health,Midwest,4/22/25,4/26/25,General Medicine,Emergency,Maternal,29,18-34,Female,Commercial,3.6,7254.48,0,5,0.77
+ENC100889,PT34368,Lakeside Health,Northeast,1/8/25,1/15/25,Neurology,Emergency,Other,70,65-74,Male,Medicare,6.6,17565.8,0,3.8,0.75
+ENC100890,PT18998,Lakeside Health,Midwest,11/20/25,11/26/25,Oncology,Emergency,Infectious,1,0-12,Male,Medicare,5.9,16205.1,0,3.3,0.7
+ENC100891,PT73890,Northgate General,Northeast,4/30/25,5/4/25,Surgery,Elective,Respiratory,54,50-64,Female,Medicaid,3.9,12734.33,0,3.1,0.68
+ENC100892,PT57029,Riverside Medical Center,Northeast,10/21/25,10/22/25,Pediatrics,Elective,Infectious,62,50-64,Female,Self-Pay,0.4,788.9,0,4,0.88
+ENC100893,PT98217,Riverside Medical Center,West,3/14/25,3/16/25,Cardiology,Emergency,Pediatric,73,65-74,Male,Commercial,1.2,2780.72,0,3.4,0.83
+ENC100894,PT77447,Riverside Medical Center,Northeast,3/1/25,3/5/25,Surgery,Emergency,Maternal,20,18-34,Male,Commercial,3.9,11951.77,0,4,0.87
+ENC100895,PT65038,Riverside Medical Center,West,10/12/25,10/14/25,Orthopedics,Urgent,Injury,53,50-64,Male,Commercial,1.2,2974.42,0,2.9,0.86
+ENC100896,PT55837,Metro Regional,Northeast,12/10/25,12/11/25,Emergency,Elective,Cardiac,69,65-74,Male,Medicare,0.9,1708.97,0,4.1,0.86
+ENC100897,PT14904,Riverside Medical Center,South,11/11/25,11/13/25,Neurology,Emergency,Other,72,65-74,Male,Medicare,1.2,2964.03,0,3.3,0.81
+ENC100898,PT16318,Lakeside Health,Midwest,10/2/25,10/5/25,Emergency,Emergency,Pediatric,15,13-17,Male,Medicaid,2.2,3102.15,0,3.7,0.77
+ENC100899,PT65467,Metro Regional,West,4/1/25,4/3/25,Cardiology,Emergency,Respiratory,88,75+,Male,Medicaid,1.7,3628.54,0,3.7,0.9
+ENC100900,PT10394,Northgate General,Northeast,11/30/25,12/2/25,General Medicine,Urgent,Pediatric,24,18-34,Female,Commercial,1.2,2700.83,0,4.9,0.78
+ENC100901,PT13811,St. Catherine Hospital,Northeast,9/1/25,9/2/25,Emergency,Emergency,Respiratory,35,35-49,Female,Medicare,0.3,539.38,0,3.8,0.88
+ENC100902,PT29721,Lakeside Health,South,3/4/25,3/10/25,Surgery,Emergency,Respiratory,17,13-17,Male,Medicare,5.5,17331.5,0,5,0.69
+ENC100903,PT89572,Northgate General,South,2/17/25,2/19/25,OB/GYN,Urgent,Maternal,13,13-17,Female,Medicare,2,4370.66,0,4.2,0.72
+ENC100904,PT51303,St. Catherine Hospital,South,11/14/25,11/26/25,ICU,Elective,Infectious,23,18-34,Male,Commercial,11.1,46970.38,0,4.5,0.84
+ENC100905,PT73861,Metro Regional,Northeast,4/11/25,4/13/25,General Medicine,Emergency,Cancer,12,0-12,Male,Commercial,1.8,4741.58,0,3.8,0.81
+ENC100906,PT47040,Lakeside Health,Northeast,10/7/25,10/8/25,General Medicine,Emergency,Other,66,65-74,Male,Commercial,1,2646.78,0,4.1,0.83
+ENC100907,PT25581,Metro Regional,West,2/20/25,2/22/25,OB/GYN,Emergency,Pediatric,54,50-64,Male,Commercial,2,4931.6,0,4.6,0.89
+ENC100908,PT43403,Metro Regional,South,4/13/25,4/19/25,Orthopedics,Elective,Respiratory,35,35-49,Female,Medicaid,5.8,12565.32,0,4.4,0.9
+ENC100909,PT18254,Northgate General,South,4/14/25,4/15/25,Cardiology,Emergency,Infectious,49,35-49,Male,Commercial,0.6,1584.36,1,4.2,0.82
+ENC100910,PT79322,Lakeside Health,Northeast,4/13/25,4/18/25,Neurology,Urgent,Maternal,54,50-64,Female,Medicare,4.2,8132.86,0,3.7,0.71
+ENC100911,PT26517,Lakeside Health,Northeast,9/4/25,9/7/25,Pediatrics,Urgent,Infectious,16,13-17,Male,Medicare,2.6,5842.64,0,3.8,0.68
+ENC100912,PT43873,Lakeside Health,West,11/30/25,12/9/25,Cardiology,Emergency,Other,27,18-34,Male,Medicaid,8.7,21158.23,0,4.4,0.81
+ENC100913,PT98201,Lakeside Health,South,11/29/25,12/2/25,ICU,Elective,GI,80,75+,Female,Commercial,2.5,10444.91,0,4.6,0.69
+ENC100914,PT63276,Lakeside Health,Northeast,9/28/25,9/29/25,Emergency,Emergency,Respiratory,1,0-12,Female,Commercial,0.2,334.71,0,3.3,0.81
+ENC100915,PT51269,Metro Regional,West,3/15/25,3/17/25,OB/GYN,Emergency,Cardiac,87,75+,Female,Commercial,1.5,3506.88,0,3.5,0.87
+ENC100916,PT58870,Northgate General,South,12/17/25,12/22/25,Orthopedics,Elective,Pediatric,87,75+,Male,Medicare,4.2,9513.52,0,3.4,0.78
+ENC100917,PT80566,Lakeside Health,Midwest,7/17/25,7/18/25,Emergency,Emergency,Other,23,18-34,Female,Commercial,1,1787.13,0,4.2,0.77
+ENC100918,PT32903,Northgate General,Midwest,7/19/25,7/21/25,Emergency,Emergency,Respiratory,29,18-34,Female,Medicaid,1.4,2457.31,0,3.1,0.8
+ENC100919,PT67276,St. Catherine Hospital,South,9/14/25,9/16/25,Cardiology,Emergency,Respiratory,18,18-34,Male,Commercial,1.2,3298.66,0,4.4,0.79
+ENC100920,PT88541,Lakeside Health,Midwest,10/8/25,10/11/25,Orthopedics,Emergency,Maternal,51,50-64,Female,Commercial,2.1,5429.8,0,4.2,0.81
+ENC100921,PT61516,Metro Regional,South,12/14/25,12/16/25,Emergency,Emergency,Respiratory,19,18-34,Female,Commercial,1.1,2140.47,0,3.4,0.9
+ENC100922,PT50188,St. Catherine Hospital,South,8/1/25,8/2/25,Orthopedics,Elective,Respiratory,71,65-74,Male,Medicaid,0.5,1182.32,0,4.8,0.81
+ENC100923,PT23061,St. Catherine Hospital,Northeast,8/11/25,8/14/25,Cardiology,Elective,Other,35,35-49,Female,Medicaid,3,5716.51,0,3,0.78
+ENC100924,PT32345,Northgate General,West,9/30/25,10/3/25,Oncology,Elective,Pediatric,88,75+,Female,Medicaid,3,6995.16,0,4.9,0.83
+ENC100925,PT95141,Riverside Medical Center,Midwest,4/4/25,4/25/25,Oncology,Elective,Other,77,75+,Male,Medicare,21,56882.21,0,3.9,0.74
+ENC100926,PT58712,Northgate General,Midwest,4/23/25,4/26/25,Orthopedics,Emergency,GI,36,35-49,Male,Medicaid,2.6,6204.07,0,2.7,0.8
+ENC100927,PT37120,Metro Regional,South,8/17/25,8/24/25,Orthopedics,Elective,Injury,54,50-64,Female,Medicare,6.7,18580.51,0,4.9,0.87
+ENC100928,PT47652,Northgate General,South,1/24/25,1/26/25,Emergency,Emergency,Other,2,0-12,Male,Commercial,1.4,2486.89,0,4.3,0.75
+ENC100929,PT62020,Metro Regional,Midwest,4/27/25,4/28/25,Emergency,Emergency,Injury,6,0-12,Female,Medicare,0.9,1547.52,0,3.4,0.88
+ENC100930,PT58378,Northgate General,South,9/20/25,9/28/25,Cardiology,Urgent,Injury,46,35-49,Female,Medicaid,7.7,16051.23,0,3.1,0.78
+ENC100931,PT72979,Lakeside Health,West,12/23/25,12/24/25,General Medicine,Emergency,Other,43,35-49,Male,Commercial,1,2351.99,0,3,0.73
+ENC100932,PT33174,St. Catherine Hospital,West,7/9/25,7/11/25,OB/GYN,Emergency,GI,36,35-49,Female,Medicare,1.5,3189.97,0,5,0.84
+ENC100933,PT68430,Lakeside Health,West,5/26/25,5/31/25,OB/GYN,Emergency,Other,8,0-12,Female,Medicare,4.1,10845.44,0,3.3,0.71
+ENC100934,PT49840,Lakeside Health,Northeast,6/10/25,6/11/25,Neurology,Emergency,Cardiac,76,75+,Male,Medicare,0.3,793.79,0,3.1,0.78
+ENC100935,PT94652,Lakeside Health,Midwest,9/8/25,9/10/25,Pediatrics,Emergency,Other,36,35-49,Female,Commercial,1.9,4662,0,4.1,0.67
+ENC100936,PT24212,Metro Regional,South,7/18/25,7/21/25,Orthopedics,Emergency,Infectious,42,35-49,Female,Medicare,2.5,6268.92,0,2.9,0.85
+ENC100937,PT23359,St. Catherine Hospital,Northeast,1/9/25,1/13/25,General Medicine,Urgent,GI,36,35-49,Female,Medicaid,3.3,6097.78,0,3.3,0.8
+ENC100938,PT51548,Riverside Medical Center,South,7/16/25,7/19/25,General Medicine,Emergency,Other,45,35-49,Male,Commercial,2.4,5378.06,0,4.5,0.8
+ENC100939,PT55751,Northgate General,Midwest,5/27/25,6/3/25,Surgery,Emergency,Cancer,59,50-64,Male,Commercial,6.1,24455.01,1,4.2,0.8
+ENC100940,PT72178,Lakeside Health,Northeast,9/13/25,9/15/25,Surgery,Emergency,GI,69,65-74,Male,Commercial,1.7,5555.65,1,3.7,0.75
+ENC100941,PT46362,St. Catherine Hospital,Northeast,11/16/25,11/24/25,Oncology,Elective,GI,50,50-64,Female,Commercial,7.9,26300.37,0,3.7,0.84
+ENC100942,PT92233,St. Catherine Hospital,Northeast,12/18/25,12/20/25,General Medicine,Emergency,Maternal,15,13-17,Male,Self-Pay,1.1,2191.27,0,3.6,0.82
+ENC100943,PT52674,St. Catherine Hospital,Midwest,8/11/25,8/16/25,Surgery,Emergency,Other,79,75+,Male,Medicare,4.3,13407.3,0,3.9,0.82
+ENC100944,PT21640,Northgate General,South,5/13/25,5/20/25,Orthopedics,Emergency,GI,25,18-34,Female,Commercial,6.1,15205.53,0,3.4,0.79
+ENC100945,PT20729,Lakeside Health,South,6/12/25,6/13/25,OB/GYN,Elective,Respiratory,1,0-12,Female,Commercial,0.9,1969.2,0,3.6,0.73
+ENC100946,PT97605,Lakeside Health,Northeast,3/6/25,3/7/25,Emergency,Elective,Cardiac,3,0-12,Male,Self-Pay,0.5,851.54,1,3.3,0.74
+ENC100947,PT22068,Lakeside Health,Northeast,12/8/25,12/13/25,OB/GYN,Elective,Other,70,65-74,Female,Commercial,4.1,9562.82,0,3.5,0.76
+ENC100948,PT95305,Lakeside Health,West,11/6/25,11/9/25,General Medicine,Elective,Other,35,35-49,Male,Medicaid,3,4936.31,1,4.5,0.74
+ENC100949,PT35026,Metro Regional,Northeast,11/8/25,11/9/25,Emergency,Emergency,Other,2,0-12,Male,Commercial,0.2,364.87,1,4.2,0.88
+ENC100950,PT18406,St. Catherine Hospital,Midwest,4/30/25,5/7/25,ICU,Emergency,Respiratory,73,65-74,Female,Commercial,6.7,29318.19,0,3.2,0.8
+ENC100951,PT37423,Metro Regional,South,4/28/25,4/30/25,Emergency,Emergency,Cancer,27,18-34,Male,Medicare,1.6,2832.67,0,3,0.86
+ENC100952,PT65322,Riverside Medical Center,South,11/9/25,11/15/25,General Medicine,Emergency,Maternal,88,75+,Male,Commercial,6,12848.35,0,3.8,0.76
+ENC100953,PT48510,Lakeside Health,West,7/18/25,7/22/25,General Medicine,Emergency,Maternal,80,75+,Female,Medicare,3.6,7181.85,0,5,0.79
+ENC100954,PT80701,Lakeside Health,South,9/15/25,9/24/25,ICU,Emergency,Respiratory,4,0-12,Male,Commercial,8.3,42254.78,0,3,0.73
+ENC100955,PT64988,St. Catherine Hospital,West,6/28/25,7/9/25,Surgery,Emergency,Infectious,62,50-64,Female,Medicaid,10.1,30678.99,0,3.6,0.76
+ENC100956,PT46070,Northgate General,West,6/11/25,6/13/25,Emergency,Elective,Cardiac,54,50-64,Male,Medicaid,1.7,3265.91,0,3.8,0.85
+ENC100957,PT67115,St. Catherine Hospital,Northeast,8/19/25,8/22/25,Orthopedics,Emergency,Neurological,15,13-17,Female,Medicaid,2.1,4832.74,1,3.8,0.83
+ENC100958,PT97430,Northgate General,Northeast,10/24/25,10/28/25,Oncology,Elective,Cardiac,31,18-34,Female,Commercial,3.5,9997.02,0,3.6,0.82
+ENC100959,PT47062,Metro Regional,Midwest,5/2/25,5/5/25,Emergency,Elective,Respiratory,44,35-49,Female,Medicare,2.1,3889.71,0,4.4,0.86
+ENC100960,PT23809,Northgate General,Midwest,10/23/25,10/28/25,Neurology,Emergency,Respiratory,13,13-17,Female,Self-Pay,4.5,10272.89,0,4.2,0.78
+ENC100961,PT46790,Riverside Medical Center,South,3/31/25,4/3/25,Orthopedics,Emergency,Other,65,65-74,Female,Commercial,2.9,6773.14,0,4.4,0.81
+ENC100962,PT85609,St. Catherine Hospital,Northeast,5/28/25,6/1/25,Oncology,Elective,Maternal,25,18-34,Female,Commercial,3.1,8516.59,0,4.3,0.83
+ENC100963,PT29586,Northgate General,Northeast,11/30/25,12/9/25,Oncology,Elective,Other,85,75+,Male,Medicaid,8.8,23367.24,1,4.2,0.83
+ENC100964,PT95421,Riverside Medical Center,Midwest,12/15/25,12/17/25,Surgery,Emergency,Neurological,72,65-74,Female,Commercial,1.7,6493.92,0,4.9,0.82
+ENC100965,PT62946,St. Catherine Hospital,South,12/4/25,12/6/25,Orthopedics,Emergency,Cancer,57,50-64,Female,Medicare,1.8,5094.52,0,4.7,0.88
+ENC100966,PT64140,St. Catherine Hospital,South,4/26/25,5/3/25,Surgery,Elective,Injury,10,0-12,Female,Medicaid,6.7,22962.26,0,5,0.79
+ENC100967,PT38533,Riverside Medical Center,West,11/4/25,11/13/25,Oncology,Elective,Infectious,2,0-12,Male,Commercial,8.7,31490.46,1,4.4,0.76
+ENC100968,PT92840,St. Catherine Hospital,Northeast,12/8/25,12/20/25,Orthopedics,Emergency,Injury,13,13-17,Female,Medicare,11.1,22377.86,0,3.3,0.73
+ENC100969,PT13245,St. Catherine Hospital,Midwest,12/24/25,12/28/25,Neurology,Emergency,Maternal,45,35-49,Female,Medicare,3.5,7949.29,0,4.4,0.73
+ENC100970,PT36880,Lakeside Health,West,1/8/25,1/12/25,Oncology,Urgent,Pediatric,71,65-74,Male,Commercial,3.3,8298.55,0,4.3,0.73
+ENC100971,PT47655,Northgate General,South,9/29/25,10/2/25,Cardiology,Emergency,Other,13,13-17,Female,Medicaid,2.7,6489.91,0,5,0.77
+ENC100972,PT52954,Northgate General,South,12/30/25,12/31/25,Neurology,Urgent,Cardiac,64,50-64,Male,Commercial,0.7,1999.43,0,3.3,0.81
+ENC100973,PT52671,Metro Regional,South,10/7/25,10/8/25,Emergency,Emergency,Neurological,4,0-12,Female,Commercial,0.2,380.5,0,4,0.84
+ENC100974,PT23313,St. Catherine Hospital,Northeast,3/27/25,3/31/25,Orthopedics,Emergency,Cardiac,24,18-34,Male,Medicaid,3.3,7670.69,0,3.5,0.83
+ENC100975,PT30303,Riverside Medical Center,West,10/6/25,10/8/25,Pediatrics,Emergency,Respiratory,54,50-64,Female,Commercial,1.5,3408.73,0,4.2,0.82
+ENC100976,PT18571,Metro Regional,South,2/8/25,2/11/25,Oncology,Emergency,GI,75,75+,Male,Medicaid,2.3,5564.51,0,3.8,0.84
+ENC100977,PT61520,Riverside Medical Center,South,6/25/25,6/29/25,Surgery,Urgent,Infectious,70,65-74,Male,Commercial,3.5,10676.38,0,4.2,0.8
+ENC100978,PT41577,Metro Regional,South,8/17/25,8/22/25,Cardiology,Emergency,GI,48,35-49,Female,Medicare,4.1,10311.42,0,3.1,0.9
+ENC100979,PT60918,Lakeside Health,Midwest,6/16/25,6/18/25,OB/GYN,Urgent,Respiratory,3,0-12,Female,Commercial,1.9,5028.54,0,4.4,0.69
+ENC100980,PT63073,Metro Regional,Northeast,9/13/25,9/16/25,General Medicine,Emergency,Other,26,18-34,Female,Medicare,2.7,5512.98,0,4,0.85
+ENC100981,PT73179,Metro Regional,South,3/29/25,3/31/25,OB/GYN,Urgent,Other,71,65-74,Female,Medicaid,1.5,2843.72,0,4,0.83
+ENC100982,PT59232,Northgate General,Midwest,8/10/25,8/16/25,Surgery,Urgent,Neurological,7,0-12,Male,Medicaid,5.4,13852.39,0,5,0.81
+ENC100983,PT68314,Lakeside Health,Northeast,8/24/25,8/25/25,Emergency,Elective,Pediatric,64,50-64,Male,Self-Pay,0.6,968.21,0,3.5,0.75
+ENC100984,PT62842,Northgate General,Midwest,8/20/25,8/21/25,Pediatrics,Emergency,Cardiac,64,50-64,Male,Medicare,0.9,1852.72,1,4.1,0.78
+ENC100985,PT68718,Lakeside Health,West,4/16/25,4/19/25,Cardiology,Elective,Maternal,68,65-74,Male,Medicaid,2.1,4363.74,0,4,0.74
+ENC100986,PT65497,St. Catherine Hospital,Midwest,4/22/25,4/27/25,Surgery,Emergency,Other,19,18-34,Male,Medicare,4.1,10527.22,0,4,0.86
+ENC100987,PT38458,Riverside Medical Center,Midwest,4/5/25,4/9/25,Pediatrics,Urgent,Pediatric,22,18-34,Male,Medicaid,3.4,5448.63,0,5,0.82
+ENC100988,PT32165,Riverside Medical Center,South,6/18/25,6/27/25,Orthopedics,Emergency,Pediatric,18,18-34,Female,Medicare,8.9,17970.51,0,3.7,0.9
+ENC100989,PT80868,Riverside Medical Center,West,8/2/25,8/5/25,OB/GYN,Emergency,Neurological,35,35-49,Female,Medicaid,2.4,5241.26,0,3.6,0.83
+ENC100990,PT40842,Riverside Medical Center,South,5/13/25,5/16/25,Emergency,Emergency,Pediatric,47,35-49,Female,Commercial,2.9,4620.92,0,4.8,0.82
+ENC100991,PT59422,Northgate General,West,5/30/25,6/1/25,Pediatrics,Elective,GI,10,0-12,Female,Medicare,1.1,2267.43,0,3.7,0.77
+ENC100992,PT27727,Metro Regional,Northeast,4/15/25,4/17/25,General Medicine,Urgent,Cardiac,51,50-64,Female,Medicaid,1.4,2975.8,1,2.9,0.86
+ENC100993,PT48827,St. Catherine Hospital,West,3/21/25,3/23/25,Emergency,Emergency,Respiratory,21,18-34,Female,Commercial,1.4,3116.35,0,3.3,0.78
+ENC100994,PT57669,Metro Regional,West,8/28/25,9/6/25,ICU,Elective,Maternal,51,50-64,Female,Commercial,8.1,29381.19,0,2.9,0.85
+ENC100995,PT66340,Metro Regional,Midwest,10/25/25,10/29/25,Surgery,Urgent,Infectious,27,18-34,Female,Self-Pay,3.8,11097.7,0,2.8,0.84
+ENC100996,PT57373,Lakeside Health,South,4/17/25,4/23/25,Emergency,Emergency,Neurological,86,75+,Female,Medicare,5.5,10268.68,0,3.5,0.76
+ENC100997,PT42458,Northgate General,Northeast,11/11/25,11/14/25,Neurology,Emergency,Other,29,18-34,Female,Commercial,2.3,5698.02,0,3.9,0.79
+ENC100998,PT96558,Metro Regional,Midwest,7/28/25,8/5/25,Cardiology,Elective,GI,79,75+,Female,Commercial,7.2,19617.16,0,4.4,0.86
+ENC100999,PT56146,Lakeside Health,Northeast,3/3/25,3/5/25,General Medicine,Elective,Cancer,15,13-17,Female,Commercial,1.4,3858.16,0,4.3,0.75
+ENC101000,PT82746,Lakeside Health,Northeast,5/14/25,5/16/25,Emergency,Emergency,Cancer,7,0-12,Male,Medicare,1.7,3383.97,1,4.1,0.81
+ENC101001,PT76302,Metro Regional,West,1/3/25,1/6/25,OB/GYN,Elective,Infectious,17,13-17,Male,Self-Pay,2.1,4833.83,0,3.4,0.86
+ENC101002,PT60247,St. Catherine Hospital,Northeast,1/15/25,1/20/25,Surgery,Emergency,Maternal,38,35-49,Female,Self-Pay,4.2,9433.77,0,4.4,0.9
+ENC101003,PT89775,St. Catherine Hospital,South,5/3/25,5/8/25,Cardiology,Urgent,Infectious,82,75+,Female,Medicare,4.3,10278.65,0,4.7,0.8
+ENC101004,PT21543,Metro Regional,Midwest,6/15/25,6/18/25,Orthopedics,Urgent,Neurological,16,13-17,Female,Medicare,2.7,7411.3,0,4.1,0.88
+ENC101005,PT92894,St. Catherine Hospital,Midwest,10/19/25,10/21/25,Pediatrics,Elective,GI,71,65-74,Female,Commercial,1.7,3983.69,0,4.2,0.77
+ENC101006,PT86519,Metro Regional,Midwest,2/19/25,2/20/25,General Medicine,Emergency,GI,63,50-64,Female,Medicaid,0.5,1050.25,0,3.1,0.9
+ENC101007,PT55326,Riverside Medical Center,Midwest,11/3/25,11/11/25,Neurology,Emergency,Pediatric,31,18-34,Male,Commercial,7.1,20640.03,0,4.3,0.79
+ENC101008,PT76004,Riverside Medical Center,South,3/27/25,3/28/25,Emergency,Emergency,Respiratory,30,18-34,Female,Commercial,0.3,480.06,0,4.8,0.84
+ENC101009,PT56824,St. Catherine Hospital,West,2/20/25,2/21/25,Emergency,Emergency,Maternal,86,75+,Female,Self-Pay,0.8,1301.91,0,3.9,0.79
+ENC101010,PT34188,Riverside Medical Center,Midwest,9/13/25,9/16/25,OB/GYN,Elective,Neurological,65,65-74,Male,Medicaid,2.6,6281.54,0,3.5,0.84
+ENC101011,PT81987,Metro Regional,West,10/10/25,10/12/25,Neurology,Emergency,Respiratory,21,18-34,Female,Commercial,1.4,3759.85,0,3.8,0.83
+ENC101012,PT32132,Riverside Medical Center,South,8/9/25,8/13/25,Surgery,Emergency,GI,82,75+,Female,Medicare,3.1,11612.75,0,3.6,0.79
+ENC101013,PT38300,Lakeside Health,South,2/12/25,2/19/25,Neurology,Emergency,GI,37,35-49,Female,Medicare,6.6,17506.24,0,3.7,0.74
+ENC101014,PT56735,Northgate General,Northeast,2/12/25,2/14/25,OB/GYN,Emergency,Neurological,7,0-12,Male,Commercial,1.6,3337.89,0,4.3,0.84
+ENC101015,PT85363,Metro Regional,Northeast,5/23/25,5/24/25,Emergency,Emergency,Maternal,74,65-74,Female,Commercial,0.9,1669.41,0,3.9,0.86
+ENC101016,PT44552,Northgate General,West,6/14/25,6/15/25,Emergency,Elective,Injury,79,75+,Male,Commercial,0.4,732.82,1,4.3,0.73
+ENC101017,PT54472,Riverside Medical Center,South,12/31/25,1/2/26,OB/GYN,Elective,Cardiac,40,35-49,Male,Medicare,1.6,4190.33,0,4.1,0.86
+ENC101018,PT13749,Riverside Medical Center,Midwest,4/15/25,4/16/25,OB/GYN,Emergency,Injury,64,50-64,Female,Medicare,0.7,1687.97,0,3.4,0.78
+ENC101019,PT20426,St. Catherine Hospital,West,3/12/25,3/15/25,Orthopedics,Urgent,Cancer,21,18-34,Male,Medicare,3,7523.33,0,3.6,0.83
+ENC101020,PT15035,Metro Regional,Midwest,12/12/25,12/13/25,Orthopedics,Urgent,GI,77,75+,Female,Commercial,0.6,1677.61,0,3.6,0.86
+ENC101021,PT16485,Metro Regional,West,2/26/25,3/1/25,Neurology,Emergency,Pediatric,33,18-34,Female,Self-Pay,2.2,5319.89,1,3.8,0.86
+ENC101022,PT88165,Northgate General,Midwest,1/10/25,1/15/25,Oncology,Elective,GI,24,18-34,Female,Medicare,4.2,11379.55,0,5,0.85
+ENC101023,PT85778,St. Catherine Hospital,West,6/4/25,6/7/25,Cardiology,Emergency,Cardiac,45,35-49,Male,Medicaid,2.8,7087.89,0,5,0.77
+ENC101024,PT83968,Riverside Medical Center,Northeast,5/27/25,6/1/25,Surgery,Emergency,Injury,24,18-34,Female,Commercial,4.6,16555.02,0,4.4,0.84
+ENC101025,PT15001,St. Catherine Hospital,Northeast,8/15/25,8/18/25,Cardiology,Emergency,Cardiac,56,50-64,Female,Medicare,3,7887.72,0,4,0.85
+ENC101026,PT16987,St. Catherine Hospital,South,11/17/25,11/18/25,General Medicine,Emergency,GI,68,65-74,Male,Medicaid,0.5,979.79,0,3.1,0.77
+ENC101027,PT35254,Northgate General,Northeast,12/7/25,12/8/25,Emergency,Urgent,Cardiac,36,35-49,Female,Commercial,0.4,808.77,0,3.8,0.75
+ENC101028,PT60875,Lakeside Health,West,4/16/25,4/17/25,Emergency,Urgent,Neurological,71,65-74,Male,Commercial,1,1811.18,0,3.2,0.74
+ENC101029,PT40071,Metro Regional,South,12/24/25,1/5/26,ICU,Elective,Maternal,39,35-49,Male,Commercial,11.2,38637.66,0,4.6,0.85
+ENC101030,PT53879,Riverside Medical Center,Northeast,8/19/25,8/24/25,Orthopedics,Elective,GI,88,75+,Male,Commercial,4.5,11446.88,0,2.9,0.76
+ENC101031,PT25569,Northgate General,Northeast,1/26/25,2/16/25,ICU,Elective,Injury,24,18-34,Male,Medicare,21,74492.65,0,3.8,0.8
+ENC101032,PT75769,Riverside Medical Center,West,12/9/25,12/10/25,Emergency,Urgent,Injury,64,50-64,Male,Commercial,0.6,1073.74,0,3.2,0.76
+ENC101033,PT38250,Riverside Medical Center,South,2/20/25,2/24/25,OB/GYN,Emergency,GI,48,35-49,Female,Commercial,3.9,8006.66,0,3.9,0.87
+ENC101034,PT15988,Riverside Medical Center,West,8/3/25,8/8/25,General Medicine,Emergency,Infectious,85,75+,Male,Medicare,4.8,9037.22,1,4.3,0.84
+ENC101035,PT76841,Lakeside Health,Northeast,10/16/25,10/25/25,Surgery,Elective,Respiratory,19,18-34,Male,Commercial,8.9,30923.98,1,4.3,0.83
+ENC101036,PT91250,Riverside Medical Center,West,4/2/25,4/5/25,Emergency,Emergency,Other,17,13-17,Male,Commercial,2.4,4243.17,0,3.7,0.85
+ENC101037,PT11321,Lakeside Health,South,4/9/25,4/13/25,Orthopedics,Emergency,Neurological,78,75+,Male,Medicare,3.3,7934.67,0,4.4,0.74
+ENC101038,PT49300,Metro Regional,South,6/23/25,6/30/25,Oncology,Emergency,Neurological,81,75+,Female,Commercial,6.9,20372.95,0,3.5,0.81
+ENC101039,PT84444,Metro Regional,Midwest,11/19/25,11/22/25,Pediatrics,Elective,Cardiac,68,65-74,Female,Commercial,2.5,5571.49,0,4,0.85
+ENC101040,PT73554,Lakeside Health,Northeast,3/23/25,3/26/25,Orthopedics,Emergency,Cancer,43,35-49,Female,Commercial,2.6,7584.95,0,4.5,0.75
+ENC101041,PT87088,Riverside Medical Center,West,8/31/25,9/2/25,Emergency,Emergency,Injury,37,35-49,Female,Commercial,1.5,2903.85,1,3.9,0.87
+ENC101042,PT47368,Riverside Medical Center,West,6/15/25,6/21/25,Oncology,Emergency,Injury,60,50-64,Male,Medicare,5.1,16378.7,0,3.6,0.78
+ENC101043,PT43503,Northgate General,Midwest,2/10/25,2/14/25,Cardiology,Emergency,Infectious,67,65-74,Male,Commercial,3.6,10687.62,1,3.7,0.86
+ENC101044,PT73825,Metro Regional,West,9/17/25,9/30/25,Oncology,Urgent,Neurological,25,18-34,Female,Commercial,12.5,40417.67,0,4.3,0.89
+ENC101045,PT23825,Metro Regional,Northeast,10/31/25,11/5/25,Cardiology,Emergency,Other,0,0-12,Female,Self-Pay,4.1,7718.34,0,3.2,0.83
+ENC101046,PT31547,Northgate General,Northeast,7/30/25,8/2/25,Orthopedics,Elective,Other,6,0-12,Male,Medicaid,2.6,5158.81,0,3.3,0.85
+ENC101047,PT64075,Northgate General,Northeast,3/6/25,3/11/25,ICU,Elective,Cardiac,31,18-34,Female,Commercial,4.7,21936.02,0,4.2,0.75
+ENC101048,PT70160,St. Catherine Hospital,Midwest,2/26/25,3/2/25,Oncology,Emergency,Respiratory,62,50-64,Male,Commercial,3.7,10931,0,3.6,0.81
+ENC101049,PT20770,Northgate General,Northeast,6/4/25,6/5/25,Orthopedics,Elective,Maternal,40,35-49,Male,Medicare,0.9,1839.32,0,3,0.73
+ENC101050,PT55747,Metro Regional,Midwest,7/4/25,7/6/25,Pediatrics,Elective,Other,56,50-64,Female,Medicaid,1.8,3344.96,0,4.7,0.91
+ENC101051,PT42842,Northgate General,Northeast,7/21/25,7/27/25,General Medicine,Elective,Pediatric,42,35-49,Female,Medicaid,5.8,13143.71,0,3.2,0.71
+ENC101052,PT55156,Northgate General,South,3/30/25,4/2/25,Oncology,Emergency,Respiratory,22,18-34,Male,Commercial,2.9,8778.23,0,3.8,0.72
+ENC101053,PT96257,St. Catherine Hospital,West,7/2/25,7/3/25,Pediatrics,Emergency,Injury,68,65-74,Female,Commercial,0.2,453.5,1,3.5,0.77
+ENC101054,PT16894,Riverside Medical Center,South,4/18/25,4/21/25,OB/GYN,Urgent,Respiratory,65,65-74,Male,Commercial,3,6484.54,1,3.7,0.87
+ENC101055,PT99590,Northgate General,Northeast,9/8/25,9/11/25,Pediatrics,Elective,Pediatric,87,75+,Female,Medicaid,2.2,4380.61,1,3.4,0.82
+ENC101056,PT50461,Metro Regional,South,10/18/25,10/28/25,Surgery,Urgent,Infectious,75,75+,Female,Medicaid,9.5,30341.54,0,4.1,0.84
+ENC101057,PT79488,Riverside Medical Center,Northeast,8/27/25,8/29/25,General Medicine,Urgent,Neurological,34,18-34,Female,Commercial,1.6,4121.58,0,4,0.86
+ENC101058,PT48201,St. Catherine Hospital,South,1/1/25,1/2/25,Emergency,Emergency,Infectious,64,50-64,Male,Medicare,0.3,590.24,0,4.3,0.8
+ENC101059,PT37986,Northgate General,South,12/29/25,1/2/26,Oncology,Elective,Injury,31,18-34,Male,Commercial,3.4,10639.39,0,3.5,0.8
+ENC101060,PT79353,Riverside Medical Center,Midwest,1/9/25,1/12/25,General Medicine,Emergency,Infectious,79,75+,Male,Medicare,2.2,4655.84,0,5,0.89
+ENC101061,PT71889,Riverside Medical Center,Northeast,12/31/25,1/1/26,OB/GYN,Elective,Respiratory,55,50-64,Female,Medicaid,0.4,966.36,1,2.8,0.81
+ENC101062,PT22965,Northgate General,West,1/12/25,1/16/25,Neurology,Emergency,GI,75,75+,Male,Medicare,4,10974.51,0,2.9,0.75
+ENC101063,PT73485,Riverside Medical Center,West,7/8/25,7/9/25,Emergency,Emergency,Maternal,25,18-34,Female,Commercial,0.7,1036.3,0,4.8,0.84
+ENC101064,PT77776,Northgate General,South,2/8/25,2/13/25,Pediatrics,Elective,GI,1,0-12,Male,Medicare,4.8,10104.11,0,4.2,0.81
+ENC101065,PT44905,Metro Regional,West,2/4/25,2/5/25,Emergency,Elective,Injury,12,0-12,Male,Commercial,1,1853.53,0,3.9,0.84
+ENC101066,PT93307,Lakeside Health,West,9/7/25,9/9/25,General Medicine,Elective,Pediatric,48,35-49,Female,Medicaid,1.4,2847.05,0,4.2,0.79
+ENC101067,PT67679,Metro Regional,Northeast,9/23/25,9/27/25,Neurology,Emergency,GI,87,75+,Male,Commercial,3.7,10728.87,0,4.2,0.83
+ENC101068,PT40026,St. Catherine Hospital,South,2/13/25,2/17/25,General Medicine,Emergency,Cardiac,57,50-64,Female,Medicaid,3.4,6345.75,0,4.1,0.81
+ENC101069,PT10965,Lakeside Health,Midwest,12/23/25,12/28/25,Surgery,Urgent,Cardiac,73,65-74,Female,Commercial,5,18305.39,0,3.3,0.76
+ENC101070,PT70745,Lakeside Health,Midwest,4/27/25,5/3/25,ICU,Emergency,GI,42,35-49,Female,Commercial,6,26649.61,0,4.3,0.76
+ENC101071,PT28814,Riverside Medical Center,Northeast,4/27/25,5/18/25,ICU,Emergency,Injury,87,75+,Male,Commercial,21,98025.76,0,4,0.88
+ENC101072,PT78086,Northgate General,West,4/19/25,4/20/25,General Medicine,Elective,Respiratory,85,75+,Female,Commercial,0.9,2174.72,0,4.8,0.79
+ENC101073,PT57257,St. Catherine Hospital,South,6/18/25,6/21/25,Surgery,Emergency,Cardiac,19,18-34,Male,Commercial,2.3,9229.72,0,5,0.79
+ENC101074,PT52004,Metro Regional,Northeast,3/6/25,3/8/25,Surgery,Elective,Cardiac,78,75+,Female,Medicare,1.6,5509.57,0,4.1,0.86
+ENC101075,PT24737,St. Catherine Hospital,Midwest,6/5/25,6/6/25,Emergency,Emergency,Neurological,1,0-12,Male,Commercial,0.8,1586.9,0,3,0.84
+ENC101076,PT74034,Northgate General,Midwest,3/18/25,3/21/25,Pediatrics,Elective,Infectious,53,50-64,Male,Commercial,2.4,5833.03,0,5,0.81
+ENC101077,PT24931,Metro Regional,South,1/19/25,1/23/25,Cardiology,Urgent,Cardiac,39,35-49,Female,Commercial,3.7,12707.53,0,3.3,0.87
+ENC101078,PT47597,Riverside Medical Center,West,5/15/25,5/20/25,Surgery,Urgent,GI,27,18-34,Male,Commercial,4.9,17500.98,0,4.1,0.76
+ENC101079,PT85266,Metro Regional,Midwest,9/3/25,9/9/25,ICU,Elective,Injury,84,75+,Male,Medicaid,5.7,23127.91,1,3.6,0.74
+ENC101080,PT92832,Metro Regional,Midwest,10/6/25,10/12/25,Oncology,Emergency,Injury,60,50-64,Female,Self-Pay,5.1,14531.41,0,3.6,0.89
+ENC101081,PT99020,Metro Regional,South,5/9/25,5/13/25,Cardiology,Elective,Cardiac,12,0-12,Female,Commercial,3.3,9806.44,0,4.4,0.86
+ENC101082,PT96220,Metro Regional,Midwest,4/29/25,5/1/25,Orthopedics,Elective,Maternal,12,0-12,Female,Medicaid,1.7,3595.72,0,4,0.84
+ENC101083,PT60036,Riverside Medical Center,Midwest,10/15/25,10/17/25,General Medicine,Elective,Other,10,0-12,Male,Medicaid,1.8,4088.41,1,4.2,0.85
+ENC101084,PT28043,Lakeside Health,Northeast,9/6/25,9/8/25,Cardiology,Elective,Neurological,27,18-34,Male,Self-Pay,1.5,3427.99,0,3.4,0.83
+ENC101085,PT85515,Lakeside Health,Northeast,10/31/25,11/2/25,Emergency,Elective,Respiratory,6,0-12,Male,Commercial,1.4,2890.47,0,3.6,0.81
+ENC101086,PT82145,Lakeside Health,Midwest,11/27/25,11/28/25,Surgery,Elective,Injury,24,18-34,Male,Commercial,0.4,1368.48,0,3.4,0.79
+ENC101087,PT99127,Northgate General,West,10/27/25,10/30/25,General Medicine,Elective,Cardiac,69,65-74,Male,Medicare,3,6060.38,0,3.8,0.74
+ENC101088,PT68584,Riverside Medical Center,Midwest,12/8/25,12/14/25,Cardiology,Emergency,Pediatric,79,75+,Female,Medicaid,5.7,12588.22,0,3.8,0.79
+ENC101089,PT22743,Northgate General,Northeast,6/2/25,6/8/25,Orthopedics,Emergency,Respiratory,71,65-74,Female,Medicaid,5.6,11875.35,0,5,0.68
+ENC101090,PT55260,St. Catherine Hospital,South,5/25/25,5/26/25,OB/GYN,Elective,Other,45,35-49,Male,Medicare,0.2,447.57,0,3.7,0.83
+ENC101091,PT50341,St. Catherine Hospital,West,4/28/25,5/1/25,General Medicine,Emergency,Infectious,63,50-64,Female,Commercial,2.1,4932.97,0,2.6,0.84
+ENC101092,PT85864,Metro Regional,Midwest,3/27/25,3/30/25,ICU,Urgent,Neurological,85,75+,Female,Medicaid,3,11199.56,0,4.6,0.89
+ENC101093,PT45331,Lakeside Health,Northeast,10/1/25,10/3/25,Orthopedics,Elective,Pediatric,4,0-12,Male,Medicaid,1.6,3701.33,0,4.2,0.78
+ENC101094,PT39573,Lakeside Health,South,9/18/25,9/25/25,Orthopedics,Emergency,Respiratory,82,75+,Male,Commercial,6.4,17534.53,0,3.8,0.74
+ENC101095,PT17204,Northgate General,Midwest,10/20/25,10/21/25,Emergency,Elective,Maternal,65,65-74,Male,Medicare,0.5,943.2,0,3.4,0.76
+ENC101096,PT85190,St. Catherine Hospital,South,3/3/25,3/8/25,General Medicine,Elective,Respiratory,35,35-49,Female,Commercial,4.6,10827.44,0,3.3,0.77
+ENC101097,PT77978,Northgate General,Northeast,6/29/25,7/1/25,Emergency,Elective,Pediatric,40,35-49,Male,Medicare,1.1,1799.41,0,4.9,0.77
+ENC101098,PT13710,Northgate General,Northeast,3/23/25,3/24/25,Emergency,Emergency,Neurological,39,35-49,Female,Medicare,0.7,1361.53,0,3.7,0.74
+ENC101099,PT49039,Riverside Medical Center,Midwest,11/22/25,11/24/25,General Medicine,Urgent,Respiratory,14,13-17,Female,Medicaid,1.7,3296.11,0,2.9,0.89
+ENC101100,PT53174,Northgate General,South,4/8/25,4/11/25,OB/GYN,Emergency,Pediatric,20,18-34,Male,Self-Pay,2.7,5226.75,0,4.1,0.73
+ENC101101,PT52238,Northgate General,Midwest,2/22/25,2/25/25,General Medicine,Elective,Respiratory,26,18-34,Male,Medicare,2.5,5295.27,0,4.6,0.77
+ENC101102,PT92702,St. Catherine Hospital,Northeast,7/28/25,7/29/25,Neurology,Emergency,Cardiac,0,0-12,Male,Commercial,0.7,1869.38,0,4,0.72
+ENC101103,PT23560,Riverside Medical Center,Midwest,11/17/25,11/19/25,Neurology,Elective,Maternal,45,35-49,Male,Commercial,1.5,4091.3,0,3.4,0.83
+ENC101104,PT37570,Northgate General,South,12/1/25,12/6/25,Oncology,Elective,Neurological,43,35-49,Male,Commercial,5,15917.92,0,3.3,0.78
+ENC101105,PT26283,Riverside Medical Center,Northeast,2/5/25,2/6/25,Orthopedics,Elective,Other,29,18-34,Female,Commercial,0.8,1882.74,0,3.3,0.81
+ENC101106,PT31967,Lakeside Health,South,4/29/25,5/3/25,Pediatrics,Emergency,GI,16,13-17,Female,Commercial,4,8990.24,0,4.8,0.71
+ENC101107,PT91638,St. Catherine Hospital,South,2/26/25,2/27/25,Oncology,Elective,Infectious,88,75+,Male,Medicare,1,3258.47,0,3.9,0.8
+ENC101108,PT94664,Northgate General,Midwest,4/23/25,4/28/25,ICU,Elective,Injury,61,50-64,Male,Commercial,4.3,18180.39,0,2.8,0.76
+ENC101109,PT14018,Riverside Medical Center,West,7/14/25,7/20/25,Surgery,Emergency,Cardiac,43,35-49,Female,Commercial,5.5,19181.26,0,4.1,0.81
+ENC101110,PT66887,Metro Regional,West,4/13/25,4/14/25,OB/GYN,Urgent,Other,65,65-74,Female,Medicaid,0.9,1710.11,0,4,0.92
+ENC101111,PT30956,St. Catherine Hospital,Midwest,1/25/25,1/26/25,Emergency,Elective,Respiratory,33,18-34,Female,Commercial,0.3,529.34,0,3.4,0.81
+ENC101112,PT27330,Lakeside Health,Northeast,7/6/25,7/12/25,Oncology,Urgent,Neurological,19,18-34,Female,Medicare,5.9,17245.83,0,3.3,0.77
+ENC101113,PT36285,St. Catherine Hospital,Midwest,1/20/25,1/26/25,Cardiology,Urgent,Injury,61,50-64,Male,Medicaid,5.6,13620.35,1,3.3,0.78
+ENC101114,PT27494,Metro Regional,Northeast,3/24/25,3/27/25,Orthopedics,Urgent,Injury,70,65-74,Female,Medicare,2.2,5551.79,0,4.6,0.81
+ENC101115,PT54117,Metro Regional,South,1/1/25,1/3/25,Orthopedics,Elective,Infectious,59,50-64,Female,Commercial,1.7,4435.67,0,4,0.84
+ENC101116,PT99603,Northgate General,West,2/1/25,2/2/25,Cardiology,Elective,Maternal,51,50-64,Male,Commercial,0.7,1666.12,0,4.2,0.88
+ENC101117,PT62779,Lakeside Health,West,6/9/25,6/13/25,General Medicine,Emergency,Maternal,0,0-12,Male,Medicare,3.1,6999.27,1,4,0.74
+ENC101118,PT75091,Northgate General,Midwest,11/7/25,11/8/25,Neurology,Emergency,Pediatric,58,50-64,Female,Medicare,0.6,1588.02,0,4.1,0.79
+ENC101119,PT54395,Lakeside Health,Midwest,10/10/25,10/18/25,Surgery,Elective,Injury,56,50-64,Female,Commercial,7.5,24051.3,0,3.4,0.72
+ENC101120,PT11251,Northgate General,Northeast,2/6/25,2/7/25,Emergency,Emergency,Neurological,37,35-49,Female,Medicare,0.9,1819.55,0,3.6,0.67
+ENC101121,PT17570,Riverside Medical Center,South,1/13/25,1/14/25,Emergency,Urgent,Respiratory,22,18-34,Female,Medicare,0.4,721.47,0,4.4,0.79
+ENC101122,PT34198,Metro Regional,Northeast,5/4/25,5/7/25,Oncology,Emergency,Maternal,89,75+,Female,Commercial,2.7,7998.62,0,4.7,0.94
+ENC101123,PT31929,Metro Regional,West,8/27/25,8/29/25,Emergency,Emergency,Injury,34,18-34,Female,Medicare,1.1,2045.68,1,3,0.86
+ENC101124,PT85651,Northgate General,West,9/30/25,10/2/25,Orthopedics,Emergency,Infectious,24,18-34,Female,Commercial,1.8,4569.76,0,3.8,0.85
+ENC101125,PT85922,Metro Regional,Northeast,10/28/25,10/31/25,OB/GYN,Emergency,Cardiac,64,50-64,Female,Commercial,2.2,5914.33,0,4.4,0.83
+ENC101126,PT86870,Northgate General,South,5/5/25,5/7/25,Cardiology,Emergency,Pediatric,43,35-49,Female,Medicaid,1.3,2958.59,0,5,0.69
+ENC101127,PT67382,St. Catherine Hospital,South,3/3/25,3/10/25,Cardiology,Emergency,Pediatric,50,50-64,Male,Commercial,6.9,17106.61,1,5,0.76
+ENC101128,PT60055,Metro Regional,West,1/10/25,1/12/25,Pediatrics,Elective,Other,58,50-64,Female,Medicare,1.1,1800.13,0,3.4,0.86
+ENC101129,PT68422,Northgate General,Midwest,2/23/25,2/24/25,Neurology,Emergency,Respiratory,33,18-34,Female,Commercial,0.4,1181.83,0,4.7,0.79
+ENC101130,PT46612,St. Catherine Hospital,Northeast,1/24/25,1/26/25,Pediatrics,Emergency,Other,13,13-17,Male,Commercial,1.5,3055.84,1,3.9,0.8
+ENC101131,PT70317,Lakeside Health,South,11/11/25,11/14/25,Oncology,Emergency,Cardiac,15,13-17,Female,Medicaid,2.4,7537.96,0,4.5,0.73
+ENC101132,PT81499,Riverside Medical Center,Northeast,4/8/25,4/15/25,Surgery,Emergency,Injury,85,75+,Female,Commercial,6.9,24765.3,0,4.4,0.86
+ENC101133,PT78660,St. Catherine Hospital,South,10/28/25,10/29/25,Emergency,Emergency,Cardiac,45,35-49,Male,Commercial,0.5,979.96,1,2.9,0.78
+ENC101134,PT65244,Northgate General,Northeast,7/21/25,7/24/25,Oncology,Elective,Injury,37,35-49,Male,Medicaid,2.7,8328.26,0,4.2,0.79
+ENC101135,PT15229,Lakeside Health,South,7/16/25,7/19/25,General Medicine,Elective,Infectious,29,18-34,Female,Medicaid,3,6257.37,0,4.5,0.76
+ENC101136,PT75244,Riverside Medical Center,West,6/15/25,6/21/25,Surgery,Emergency,Cardiac,65,65-74,Male,Medicare,5.2,17559.13,0,3.9,0.81
+ENC101137,PT42994,Northgate General,Northeast,10/27/25,11/7/25,Oncology,Elective,Cancer,83,75+,Male,Commercial,10.2,35709.05,0,3.6,0.74
+ENC101138,PT76929,Lakeside Health,Midwest,1/16/25,1/17/25,Pediatrics,Emergency,GI,69,65-74,Female,Commercial,1,2478.15,0,3,0.73
+ENC101139,PT58556,Riverside Medical Center,South,2/3/25,2/6/25,Emergency,Emergency,Pediatric,48,35-49,Female,Medicare,2.4,3712.58,0,4.1,0.89
+ENC101140,PT89305,St. Catherine Hospital,Northeast,6/4/25,6/11/25,Cardiology,Urgent,GI,43,35-49,Female,Commercial,6.1,16068.61,0,4,0.84
+ENC101141,PT40460,Lakeside Health,South,5/24/25,5/25/25,Emergency,Emergency,Infectious,78,75+,Male,Commercial,0.5,859.57,0,3.1,0.79
+ENC101142,PT93824,Lakeside Health,South,7/19/25,7/21/25,General Medicine,Urgent,Cardiac,77,75+,Female,Medicaid,1.3,2982.7,1,3.7,0.72
+ENC101143,PT86002,Riverside Medical Center,Midwest,9/27/25,10/1/25,Orthopedics,Emergency,Pediatric,35,35-49,Female,Commercial,3.5,7848.62,0,4,0.76
+ENC101144,PT39799,Metro Regional,West,8/3/25,8/6/25,General Medicine,Emergency,Respiratory,87,75+,Female,Commercial,2.8,6224.78,0,3.6,0.88
+ENC101145,PT53431,Lakeside Health,Midwest,4/4/25,4/6/25,Emergency,Emergency,Injury,75,75+,Male,Commercial,1.4,2609.05,1,3.7,0.79
+ENC101146,PT57820,Northgate General,South,4/30/25,5/3/25,Surgery,Emergency,Respiratory,77,75+,Female,Medicare,2.6,8165.25,1,2.9,0.79
+ENC101147,PT79175,Lakeside Health,Northeast,10/2/25,10/6/25,Surgery,Urgent,GI,5,0-12,Female,Medicare,3.4,9470.18,0,4.7,0.74
+ENC101148,PT72023,Lakeside Health,Northeast,3/15/25,3/16/25,Emergency,Emergency,Injury,11,0-12,Female,Medicaid,0.9,1263.34,0,3.7,0.69
+ENC101149,PT86680,Lakeside Health,Northeast,7/4/25,7/6/25,Emergency,Urgent,GI,27,18-34,Male,Commercial,1.3,2522.71,1,3,0.78
+ENC101150,PT43287,St. Catherine Hospital,West,7/16/25,7/17/25,Emergency,Urgent,Injury,69,65-74,Female,Commercial,0.5,807.65,0,2.2,0.85
+ENC101151,PT55430,Lakeside Health,West,10/1/25,10/5/25,Surgery,Elective,Neurological,7,0-12,Male,Medicare,3.4,11890.78,0,4.5,0.72
+ENC101152,PT48777,Metro Regional,West,9/18/25,9/27/25,Cardiology,Emergency,Neurological,7,0-12,Female,Commercial,8.1,26054.39,0,4,0.81
+ENC101153,PT91858,St. Catherine Hospital,Northeast,6/19/25,6/24/25,Pediatrics,Emergency,Respiratory,2,0-12,Female,Medicare,4.9,9916.17,0,4,0.85
+ENC101154,PT37447,Metro Regional,South,4/23/25,4/29/25,Oncology,Emergency,Cancer,17,13-17,Female,Self-Pay,5.3,17605.61,0,4.4,0.81
+ENC101155,PT62840,Lakeside Health,West,5/15/25,5/17/25,General Medicine,Elective,GI,83,75+,Female,Medicare,1.2,2548.45,0,4.4,0.82
+ENC101156,PT20814,Metro Regional,South,5/31/25,6/13/25,Neurology,Emergency,Infectious,65,65-74,Female,Commercial,12.2,39383.58,0,3.8,0.84
+ENC101157,PT86523,Metro Regional,Northeast,3/22/25,3/27/25,Neurology,Urgent,Respiratory,65,65-74,Male,Self-Pay,4.6,10680.28,0,3.7,0.82
+ENC101158,PT44579,Riverside Medical Center,West,8/17/25,8/24/25,OB/GYN,Elective,GI,26,18-34,Female,Commercial,6.2,12024.63,1,3.6,0.82
+ENC101159,PT40652,Riverside Medical Center,Northeast,3/18/25,3/20/25,Emergency,Emergency,Injury,56,50-64,Male,Self-Pay,1.4,2298.57,0,4,0.8
+ENC101160,PT62461,St. Catherine Hospital,Northeast,8/25/25,8/26/25,Surgery,Elective,Respiratory,70,65-74,Female,Medicare,0.2,710.35,0,4.7,0.85
+ENC101161,PT54893,St. Catherine Hospital,West,10/2/25,10/6/25,Emergency,Emergency,Cardiac,48,35-49,Male,Medicare,3.4,6647.41,0,3.6,0.84
+ENC101162,PT86317,St. Catherine Hospital,Midwest,12/18/25,12/25/25,Neurology,Urgent,Neurological,77,75+,Female,Self-Pay,6.3,15248.68,0,4.8,0.84
+ENC101163,PT57826,Metro Regional,Midwest,2/13/25,2/17/25,Surgery,Emergency,Injury,51,50-64,Female,Medicare,3.5,11545.27,0,4.1,0.85
+ENC101164,PT56529,Metro Regional,South,10/5/25,10/6/25,General Medicine,Urgent,GI,29,18-34,Female,Medicare,0.5,1146.58,0,4.1,0.82
+ENC101165,PT19448,Northgate General,West,2/1/25,2/7/25,General Medicine,Elective,Cardiac,58,50-64,Male,Commercial,5.1,12480.33,0,5,0.78
+ENC101166,PT11974,Lakeside Health,Northeast,5/4/25,5/8/25,Orthopedics,Urgent,Maternal,85,75+,Male,Medicare,3.4,9183.29,0,4.9,0.73
+ENC101167,PT45869,Riverside Medical Center,South,3/6/25,3/24/25,Oncology,Emergency,Injury,75,75+,Male,Medicare,17.5,50548.28,0,4.7,0.88
+ENC101168,PT99837,St. Catherine Hospital,Midwest,3/1/25,3/13/25,Oncology,Elective,Infectious,45,35-49,Male,Commercial,11.7,40189.95,0,3.2,0.84
+ENC101169,PT92559,Riverside Medical Center,Northeast,3/6/25,3/13/25,Pediatrics,Emergency,Maternal,54,50-64,Female,Medicare,6.2,12846.68,0,5,0.82
+ENC101170,PT66607,St. Catherine Hospital,Midwest,1/17/25,1/21/25,Neurology,Elective,Cancer,88,75+,Female,Medicare,3.9,10908.67,0,3.9,0.76
+ENC101171,PT66774,St. Catherine Hospital,South,10/28/25,10/31/25,Orthopedics,Emergency,Respiratory,68,65-74,Female,Commercial,3,7303.3,0,3.8,0.86
+ENC101172,PT45234,Lakeside Health,Northeast,1/23/25,1/27/25,Orthopedics,Emergency,Infectious,45,35-49,Male,Commercial,3.6,9904.33,0,2.6,0.76
+ENC101173,PT25975,Lakeside Health,Midwest,5/26/25,5/28/25,Cardiology,Emergency,Other,25,18-34,Female,Medicare,1.9,4647.41,0,4.1,0.74
+ENC101174,PT10769,Northgate General,South,9/13/25,9/18/25,Oncology,Emergency,Other,82,75+,Female,Commercial,4.6,14173.23,0,3.2,0.84
+ENC101175,PT40496,Riverside Medical Center,South,12/28/25,12/29/25,Emergency,Emergency,Cardiac,88,75+,Male,Commercial,0.9,1576.94,0,3.9,0.8
+ENC101176,PT38481,Riverside Medical Center,South,11/8/25,11/16/25,Surgery,Elective,Maternal,6,0-12,Female,Medicare,7.1,22238.48,0,3,0.81
+ENC101177,PT27244,Metro Regional,West,2/20/25,3/8/25,ICU,Emergency,Injury,2,0-12,Male,Commercial,15.2,70531.87,0,4.7,0.83
+ENC101178,PT33324,Metro Regional,Midwest,12/27/25,12/29/25,Emergency,Elective,Cardiac,10,0-12,Female,Commercial,1.5,3008.54,0,4,0.79
+ENC101179,PT12234,Northgate General,Midwest,8/27/25,8/29/25,General Medicine,Emergency,GI,35,35-49,Male,Medicare,1.5,3283.91,0,5,0.79
+ENC101180,PT64715,Northgate General,Midwest,3/7/25,3/18/25,Surgery,Elective,Neurological,14,13-17,Male,Commercial,10.6,36090.5,0,3.1,0.75
+ENC101181,PT93470,St. Catherine Hospital,South,6/13/25,6/19/25,Cardiology,Elective,Infectious,80,75+,Male,Self-Pay,5.6,12497.37,0,4.8,0.78
+ENC101182,PT72171,Lakeside Health,Northeast,12/2/25,12/4/25,Emergency,Emergency,Pediatric,83,75+,Female,Medicaid,1.3,1978.97,0,2.6,0.72
+ENC101183,PT50338,Northgate General,Midwest,5/24/25,5/26/25,Emergency,Elective,Injury,16,13-17,Female,Medicare,1.4,2437.09,0,3.8,0.76
+ENC101184,PT47823,Riverside Medical Center,Northeast,3/9/25,3/10/25,Emergency,Urgent,GI,75,75+,Female,Self-Pay,0.3,560.63,1,3.3,0.79
+ENC101185,PT37677,Northgate General,Midwest,11/16/25,11/19/25,General Medicine,Elective,Injury,12,0-12,Female,Medicaid,2.3,5159.84,0,3.6,0.79
+ENC101186,PT22816,Northgate General,West,12/14/25,12/20/25,OB/GYN,Emergency,Respiratory,71,65-74,Male,Commercial,5.4,12030.62,0,3.6,0.77
+ENC101187,PT63862,Northgate General,South,12/23/25,12/24/25,Emergency,Emergency,Cancer,33,18-34,Female,Medicaid,0.3,652.08,0,3.2,0.78
+ENC101188,PT60986,Riverside Medical Center,Midwest,12/15/25,12/16/25,General Medicine,Elective,Other,3,0-12,Female,Commercial,0.7,1486.67,0,3.1,0.91
+ENC101189,PT10658,Lakeside Health,South,11/15/25,11/17/25,Emergency,Emergency,Neurological,38,35-49,Female,Medicare,2,3691.48,0,3.4,0.74
+ENC101190,PT47396,St. Catherine Hospital,South,6/15/25,6/23/25,ICU,Elective,Respiratory,74,65-74,Male,Medicare,7.6,33407.67,0,3.7,0.82
+ENC101191,PT35021,Northgate General,Midwest,3/12/25,3/13/25,General Medicine,Emergency,GI,84,75+,Female,Commercial,0.8,1541.93,0,4.6,0.81
+ENC101192,PT25325,St. Catherine Hospital,Midwest,8/14/25,8/16/25,Orthopedics,Elective,Other,11,0-12,Female,Commercial,2,4708.98,0,4.1,0.8
+ENC101193,PT73272,St. Catherine Hospital,South,3/22/25,3/24/25,Emergency,Emergency,Other,76,75+,Female,Self-Pay,1.3,1897.77,0,4.4,0.81
+ENC101194,PT57323,Metro Regional,Northeast,6/22/25,6/29/25,ICU,Emergency,Infectious,26,18-34,Female,Commercial,6.8,30770.28,0,2.9,0.84
+ENC101195,PT67038,Metro Regional,South,8/28/25,8/31/25,OB/GYN,Urgent,Cancer,42,35-49,Male,Commercial,2.9,8103.6,0,3.6,0.85
+ENC101196,PT74212,Riverside Medical Center,South,12/12/25,12/15/25,Cardiology,Urgent,Infectious,9,0-12,Female,Commercial,2.4,6573.52,0,4.3,0.8
+ENC101197,PT98361,Metro Regional,South,4/16/25,4/20/25,Cardiology,Urgent,Pediatric,88,75+,Male,Medicare,3.8,8915.56,0,4.1,0.82
+ENC101198,PT82247,Lakeside Health,West,4/2/25,4/4/25,Emergency,Urgent,Pediatric,71,65-74,Male,Medicaid,1.6,2695.35,1,3.2,0.75
+ENC101199,PT65831,Lakeside Health,West,9/26/25,9/30/25,Pediatrics,Emergency,Pediatric,58,50-64,Male,Medicaid,3.2,5935.1,0,4.5,0.67
