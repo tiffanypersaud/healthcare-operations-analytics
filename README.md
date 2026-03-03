@@ -121,3 +121,11 @@ An interactive executive dashboard was developed to visualize healthcare perform
 ## 🎯 Project Objective
 
 This project was developed to demonstrate entry-level data analyst skills aligned with business intelligence and operations reporting roles.
+
+## Project Workflow
+
+1. Performed exploratory analysis and KPI validation in Excel using pivot tables.
+2. Wrote SQL queries to calculate operational and financial metrics.
+3. Imported cleaned data into Power BI.
+4. Created DAX measures for key healthcare KPIs.
+5. Designed an interactive dashboard to visualize cost, efficiency, quality, and patient experience metrics.
